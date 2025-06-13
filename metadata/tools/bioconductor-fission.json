@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-fission","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-fission","biocontainers__identifiers":["doi:10.18129/b9.bioc.fission"],"biocontainers__license":"LGPL","biocontainers__summary":"RangedSummarizedExperiment for time course RNA-Seq of fission yeast in response to stress, by Leong et al., Nat Commun 2014."}}

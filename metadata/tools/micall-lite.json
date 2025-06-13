@@ -1,0 +1,1 @@
+{"tool_name":"micall-lite","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"micall-lite","biocontainers__license":"GNU Affero General Public License v3.0","biocontainers__summary":"A bioinformatic pipeline for mapping of FASTQ data to a set of reference sequences to generate consensus sequences, variant calls and coverage maps."}}

@@ -1,0 +1,1 @@
+{"tool_name":"magpurify","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"magpurify","biocontainers__identifiers":["doi:10.1038/s41586-019-1058-x"],"biocontainers__license":"GNU General Public License v3.0","biocontainers__summary":"Identify and remove incorrectly binned contigs from metagenome-assembled genomes."}}

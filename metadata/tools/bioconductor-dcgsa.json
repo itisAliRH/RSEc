@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-dcgsa","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-dcgsa","biocontainers__identifiers":["biotools:dcgsa","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL-2","biocontainers__summary":"Distance-correlation based Gene Set Analysis for longitudinal gene expression profiles"}}

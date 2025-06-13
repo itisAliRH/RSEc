@@ -1,0 +1,1 @@
+{"tool_name":"perl-bio-tools-run-alignment-clustalw","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-bio-tools-run-alignment-clustalw","biocontainers__license":"perl_5","biocontainers__summary":"Object for the calculation of a multiple sequence alignment from a set of unaligned sequences or alignments using the clustalw program"}}

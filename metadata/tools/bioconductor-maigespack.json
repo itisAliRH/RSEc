@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-maigespack","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-maigespack","biocontainers__identifiers":["biotools:maigespack","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Functions to handle cDNA microarray data, including several methods of data analysis"}}

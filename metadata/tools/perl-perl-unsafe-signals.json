@@ -1,0 +1,1 @@
+{"tool_name":"perl-perl-unsafe-signals","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-perl-unsafe-signals","biocontainers__license":"perl_5","biocontainers__summary":"Allow unsafe handling of signals in selected blocks."}}

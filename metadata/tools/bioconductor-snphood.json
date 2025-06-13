@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-snphood","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-snphood","biocontainers__identifiers":["biotools:snphood","doi:10.1093/bioinformatics/btw127"],"biocontainers__license":"LGPL (>= 3)","biocontainers__summary":"SNPhood: Investigate, quantify and visualise the epigenomic neighbourhood of SNPs using NGS data"}}

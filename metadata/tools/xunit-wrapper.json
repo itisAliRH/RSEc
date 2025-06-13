@@ -1,0 +1,1 @@
+{"tool_name":"xunit-wrapper","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"xunit-wrapper","biocontainers__license":"GNU General Public License v3.0","biocontainers__summary":"Wrap python functions with a decorator to handle building xunit reports"}}

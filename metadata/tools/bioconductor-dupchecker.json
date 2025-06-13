@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-dupchecker","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-dupchecker","biocontainers__identifiers":["biotools:dupchecker","doi:10.1186/1471-2105-15-323"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"a package for checking high-throughput genomic data redundancy in meta-analysis"}}

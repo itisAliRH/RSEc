@@ -1,0 +1,1 @@
+{"tool_name":"r-enrichr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-enrichr","biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Provides an R interface to all 'Enrichr' databases, a web-based tool for analysing gene sets and returns any enrichment of common annotated biological functions. <http://amp.pharm.mssm.edu/Enrichr/>."}}

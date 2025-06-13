@@ -1,0 +1,1 @@
+{"tool_name":"perl-lwp-protocol-https","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-lwp-protocol-https","biocontainers__license":"perl_5","biocontainers__summary":"Provide https support for lwp::useragent"}}

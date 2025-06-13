@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-prot2d","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-prot2d","biocontainers__identifiers":["doi:10.18129/b9.bioc.prot2d"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"The purpose of this package is to analyze (i.e. Normalize and select significant spots) data issued from 2D GEl experiments"}}

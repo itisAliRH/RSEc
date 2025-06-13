@@ -1,0 +1,1 @@
+{"tool_name":"ndg-httpsclient","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ndg-httpsclient","biocontainers__license":"BSD3-Clause","biocontainers__summary":"Provides enhanced HTTPS support for httplib and urllib2 using PyOpenSSL."}}

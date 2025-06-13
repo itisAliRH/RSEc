@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-biocworkflowtools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-biocworkflowtools","biocontainers__identifiers":["biotools:BiocWorkflowTools","doi:10.18129/b9.bioc.biocworkflowtools"],"biocontainers__license":"MIT","biocontainers__summary":"Tools to aid the development of bioconductor workflow packages"}}

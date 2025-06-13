@@ -1,0 +1,1 @@
+{"tool_name":"onto2nx","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"onto2nx","biocontainers__identifiers":["doi:10.5281/zenodo.1478027"],"biocontainers__license":"GNU General Public License v3.0","biocontainers__summary":"A package for parsing ontologies in the owl and obo format into networkx graphs"}}

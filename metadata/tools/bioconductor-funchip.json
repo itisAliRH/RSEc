@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-funchip","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-funchip","biocontainers__identifiers":["biotools:funchip","doi:10.1093/bioinformatics/btx201"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Clustering and Alignment of ChIP-Seq peaks based on their shapes"}}

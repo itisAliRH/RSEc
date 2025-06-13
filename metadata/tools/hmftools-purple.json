@@ -1,0 +1,1 @@
+{"tool_name":"hmftools-purple","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"hmftools-purple","biocontainers__license":"MIT","biocontainers__summary":"Purity/ploidy estimator. leverages the read depth and tumor baf to estimate the purity of a sample and generate a copy number profile"}}

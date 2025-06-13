@@ -1,0 +1,1 @@
+{"tool_name":"frc_align","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"frc_align","biocontainers__license":"GPL-3.0-only","biocontainers__summary":"Computes frc from sam/bam file and not from afg files"}}

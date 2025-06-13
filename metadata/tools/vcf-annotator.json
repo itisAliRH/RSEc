@@ -1,0 +1,1 @@
+{"tool_name":"vcf-annotator","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"vcf-annotator","biocontainers__license":"MIT","biocontainers__summary":"Use the reference genbank file to add biological annotations to the variant calls in a vcf."}}

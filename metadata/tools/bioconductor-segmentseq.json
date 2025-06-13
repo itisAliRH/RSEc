@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-segmentseq","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-segmentseq","biocontainers__identifiers":["biotools:segmentseq","doi:10.1093/bioinformatics/btr687"],"biocontainers__license":"GPL-3","biocontainers__summary":"Methods for identifying small RNA loci from high-throughput sequencing data"}}

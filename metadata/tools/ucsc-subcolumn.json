@@ -1,0 +1,1 @@
+{"tool_name":"ucsc-subcolumn","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ucsc-subcolumn","biocontainers__identifiers":["doi:10.1093/bioinformatics/btq351","doi:10.1101/gr.229102","biotools:UCSC_Genome_Browser_Utilities"],"biocontainers__license":"Custom License","biocontainers__summary":"Substitute one column in a tab-separated file."}}

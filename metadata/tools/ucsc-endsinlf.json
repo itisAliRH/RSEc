@@ -1,0 +1,1 @@
+{"tool_name":"ucsc-endsinlf","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ucsc-endsinlf","biocontainers__identifiers":["doi:10.1093/bioinformatics/btq351","doi:10.1101/gr.229102","biotools:UCSC_Genome_Browser_Utilities"],"biocontainers__license":"Custom License","biocontainers__summary":"Check that last letter in files is end of line"}}

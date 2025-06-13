@@ -1,0 +1,1 @@
+{"tool_name":"extract-sv-reads","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"extract-sv-reads","biocontainers__identifiers":["doi:10.5281/zenodo.1438405"],"biocontainers__license":"MIT","biocontainers__summary":"Tool for extracting splitter or discordant reads from a BAM or CRAM file."}}

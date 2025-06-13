@@ -1,0 +1,1 @@
+{"tool_name":"bamclipper","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bamclipper","biocontainers__identifiers":["doi:10.1038/s41598-017-01703-6"],"biocontainers__license":"MIT","biocontainers__summary":"Remove primer sequence from BAM alignments by soft-clipping."}}

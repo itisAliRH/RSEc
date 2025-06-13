@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-xmapbridge","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-xmapbridge","biocontainers__identifiers":["biotools:xmapbridge","doi:10.1093/nar/gkm779"],"biocontainers__license":"LGPL-3","biocontainers__summary":"Export plotting files to the xmapBridge for visualisation in X:Map"}}

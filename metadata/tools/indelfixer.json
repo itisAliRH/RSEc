@@ -1,0 +1,1 @@
+{"tool_name":"indelfixer","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"indelfixer","biocontainers__license":"GNU GPLv3","biocontainers__summary":"A sensitive aligner for 454, illumina and pacbio data, employing a full smith-waterman alignment against a reference."}}

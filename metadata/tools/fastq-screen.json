@@ -1,0 +1,1 @@
+{"tool_name":"fastq-screen","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fastq-screen","biocontainers__license":"GPL-3.0","biocontainers__summary":"Fastq screen allows you to screen a library of sequences in fastq format against a set of sequence databases so you can see if the composition of the library matches with what you expect"}}

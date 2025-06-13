@@ -1,0 +1,1 @@
+{"tool_name":"perl-findbin-real","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-findbin-real","biocontainers__license":"perl_5","biocontainers__summary":"Locates the full path to the script bin directory to allow the use of paths relative to the bin directory."}}

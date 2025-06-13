@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-hmmcopy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-hmmcopy","biocontainers__identifiers":["biotools:hmmcopy","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL-3","biocontainers__summary":"Copy number prediction with correction for GC and mappability bias for HTS data"}}

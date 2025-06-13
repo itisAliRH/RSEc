@@ -1,0 +1,1 @@
+{"tool_name":"perl-moosex-app-role-log4perl","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-moosex-app-role-log4perl","biocontainers__license":"perl_5","biocontainers__summary":"Add basic Log::Log4perl logging to a MooseX::App application as a role."}}

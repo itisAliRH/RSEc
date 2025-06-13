@@ -1,0 +1,1 @@
+{"tool_name":"perl-dbd-mysql","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-dbd-mysql","biocontainers__identifiers":["biotools:dbd","doi:10.1093/nar/gkm964"],"biocontainers__license":"perl_5","biocontainers__summary":"A MySQL driver for the Perl5 Database Interface (DBI)"}}

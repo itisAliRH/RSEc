@@ -1,0 +1,1 @@
+{"tool_name":"kerneltree","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"kerneltree","biocontainers__license":"GPL-2.0","biocontainers__summary":"Ultrafast interval tree implementation stolen from the kernel, modified and wrapped for Python."}}

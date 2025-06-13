@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-tcgabiolinks","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-tcgabiolinks","biocontainers__identifiers":["biotools:tcgabiolinks","doi:10.1093/nar/gkv1507"],"biocontainers__license":"GPL (>= 3)","biocontainers__summary":"TCGAbiolinks: An R/Bioconductor package for integrative analysis with GDC data"}}

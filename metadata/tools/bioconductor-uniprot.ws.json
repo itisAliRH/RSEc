@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-uniprot.ws","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-uniprot.ws","biocontainers__identifiers":["biotools:uniprot.ws","doi:10.1038/nmeth.3252"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"A collection of functions for retrieving, processing and repackaging the uniprot web services."}}

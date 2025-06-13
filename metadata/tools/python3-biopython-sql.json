@@ -1,0 +1,1 @@
+{"tool_name":"python3-biopython-sql","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python3-biopython-sql","biocontainers__identifiers":["biotools:biopython","doi:10.1093/bioinformatics/btp163"],"biocontainers__license":"Custom License","biocontainers__summary":"Biopython support for the BioSQL database schema"}}

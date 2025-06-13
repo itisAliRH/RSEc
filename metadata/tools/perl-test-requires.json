@@ -1,0 +1,1 @@
+{"tool_name":"perl-test-requires","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-test-requires","biocontainers__license":"perl_5","biocontainers__summary":"Checks to see if the module can be loaded"}}

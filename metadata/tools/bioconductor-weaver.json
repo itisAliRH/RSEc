@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-weaver","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-weaver","biocontainers__identifiers":["biotools:weaver","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL-2","biocontainers__summary":"Tools and extensions for processing Sweave documents"}}

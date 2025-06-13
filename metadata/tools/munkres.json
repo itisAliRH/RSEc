@@ -1,0 +1,1 @@
+{"tool_name":"munkres","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"munkres","biocontainers__license":"Apache-2.0","biocontainers__summary":"The Munkres module provides an O(n^3) implementation of the Munkres algorithm (also called the Hungarian algorithm or the Kuhn-Munkres algorithm)."}}

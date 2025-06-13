@@ -1,0 +1,1 @@
+{"tool_name":"r-leidenbase","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-leidenbase","biocontainers__license":"GPL2, GPL-3.0, BSD","biocontainers__summary":"An R to C interface that runs the Leiden community detection algorithm to find a basic partition"}}

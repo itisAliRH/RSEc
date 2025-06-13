@@ -1,0 +1,1 @@
+{"tool_name":"kcounter","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"kcounter","biocontainers__license":"GPL-3","biocontainers__summary":"A simple package for counting DNA k-mers in Python. Written in Rust."}}

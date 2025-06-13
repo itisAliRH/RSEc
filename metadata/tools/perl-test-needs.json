@@ -1,0 +1,1 @@
+{"tool_name":"perl-test-needs","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-test-needs","biocontainers__license":"perl_5","biocontainers__summary":"Skip tests when modules not available"}}

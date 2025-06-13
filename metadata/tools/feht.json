@@ -1,0 +1,1 @@
+{"tool_name":"feht","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"feht","biocontainers__license":"BSD 3-clause","biocontainers__summary":"A commandline program to automatically identify markers predictive of groups. Can be used with binary data, genomic (single nucleotide variant) data, or arbitrary character data."}}

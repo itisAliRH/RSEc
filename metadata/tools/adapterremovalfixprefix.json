@@ -1,0 +1,1 @@
+{"tool_name":"adapterremovalfixprefix","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"adapterremovalfixprefix","biocontainers__license":"Not available","biocontainers__summary":" fixes adapter removal prefixes to make sure no clashing read names are in the output."}}

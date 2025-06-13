@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-sincell","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-sincell","biocontainers__identifiers":["biotools:sincell","doi:10.1093/bioinformatics/btv368"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"R package for the statistical assessment of cell state hierarchies from single-cell RNA-seq data"}}

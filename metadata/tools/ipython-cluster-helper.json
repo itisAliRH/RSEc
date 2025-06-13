@@ -1,0 +1,1 @@
+{"tool_name":"ipython-cluster-helper","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ipython-cluster-helper","biocontainers__identifiers":["doi:10.5281/zenodo.3459799"],"biocontainers__license":"MIT","biocontainers__summary":"Tool to easily start up an ipython cluster on different schedulers"}}

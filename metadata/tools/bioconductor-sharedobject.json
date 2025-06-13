@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-sharedobject","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-sharedobject","biocontainers__identifiers":["doi:10.18129/b9.bioc.sharedobject"],"biocontainers__license":"GPL-3.0","biocontainers__summary":"Sharing R objects across multiple R processes without memory duplication"}}

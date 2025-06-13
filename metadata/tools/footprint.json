@@ -1,0 +1,1 @@
+{"tool_name":"footprint","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"footprint","biocontainers__identifiers":["doi:10.1093/nar/gku810"],"biocontainers__license":"Not available","biocontainers__summary":"This is a pipeline to find transcription factor footprints in atac-seq or dnase-seq data."}}

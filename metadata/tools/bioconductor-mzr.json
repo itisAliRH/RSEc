@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-mzr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-mzr","biocontainers__identifiers":["biotools:mzr","doi:10.1093/bioinformatics/btn323"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"parser for netCDF, mzXML, mzData and mzML and mzIdentML files (mass spectrometry data)"}}

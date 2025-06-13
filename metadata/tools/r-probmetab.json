@@ -1,0 +1,1 @@
+{"tool_name":"r-probmetab","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-probmetab","biocontainers__license":"GPL-3.0","biocontainers__summary":"Provides probability ranking to candidate compounds assigned to masses, with the prior assumption of connected sample and additional previous and spectral information modeled by the user."}}

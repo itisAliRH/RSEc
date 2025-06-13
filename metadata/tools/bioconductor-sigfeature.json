@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-sigfeature","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-sigfeature","biocontainers__identifiers":["doi:10.18129/b9.bioc.sigfeature"],"biocontainers__license":"GPL","biocontainers__summary":"sigFeature: Significant feature selection using SVM-RFE & t-statistic"}}

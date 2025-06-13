@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-goseq","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-goseq","biocontainers__identifiers":["biotools:goseq","doi:10.1186/gb-2010-11-2-r14"],"biocontainers__license":"LGPL-2.0","biocontainers__summary":"Gene Ontology analyser for RNA-seq and other length biased data"}}

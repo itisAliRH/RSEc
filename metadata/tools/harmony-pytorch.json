@@ -1,0 +1,1 @@
+{"tool_name":"harmony-pytorch","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"harmony-pytorch","biocontainers__license":"BSD","biocontainers__summary":"This is a pytorch implementation of harmony algorithm on single-cell sequencing data integration."}}

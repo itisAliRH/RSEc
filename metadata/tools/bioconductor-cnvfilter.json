@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-cnvfilter","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-cnvfilter","biocontainers__identifiers":["doi:10.18129/b9.bioc.cnvfilter"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Identifies false positives of cnv calling tools by using snv calls"}}

@@ -1,0 +1,1 @@
+{"tool_name":"r-venndiagram","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-venndiagram","biocontainers__license":"GPL-2","biocontainers__summary":"A set of functions to generate high-resolution Venn and Euler plots. Includes handling for several special cases, including two-case scaling, and extensive customization of plot shape and structure."}}

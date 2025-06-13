@@ -1,0 +1,1 @@
+{"tool_name":"perl-indirect","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-indirect","biocontainers__license":"perl_5","biocontainers__summary":"Lexically warn about using the indirect method call syntax."}}

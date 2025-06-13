@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-cghnormaliter","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-cghnormaliter","biocontainers__identifiers":["biotools:cghnormaliter","doi:10.1186/1471-2164-10-401"],"biocontainers__license":"GPL (>= 3)","biocontainers__summary":"Normalization of array CGH data with imbalanced aberrations."}}

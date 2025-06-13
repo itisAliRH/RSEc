@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-deseq2","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-deseq2","biocontainers__identifiers":["biotools:deseq2","doi:10.1186/s13059-014-0550-8"],"biocontainers__license":"LGPL-3.0+","biocontainers__summary":"R package for rna-seq differential expression analysis"}}

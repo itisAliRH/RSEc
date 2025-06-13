@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-dropletutils","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-dropletutils","biocontainers__identifiers":["biotools:DropletUtils","doi:10.1101/234872","doi:10.1101/177048"],"biocontainers__license":"GPL-3.0","biocontainers__summary":"Utilities for Handling Single-Cell Droplet Data"}}

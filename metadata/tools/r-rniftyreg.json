@@ -1,0 +1,1 @@
+{"tool_name":"r-rniftyreg","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-rniftyreg","biocontainers__license":"GPL-2","biocontainers__summary":"Provides an R interface to the NiftyReg image registration tools <http://sourceforge.net/projects/niftyreg/>. Linear and nonlinear registration are supported, in two and three dimensions."}}

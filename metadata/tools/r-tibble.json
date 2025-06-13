@@ -1,0 +1,1 @@
+{"tool_name":"r-tibble","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-tibble","biocontainers__license":"MIT","biocontainers__summary":"Provides a tbl_df class (the tibble) that provides stricter checking and better formatting than the traditional data frame."}}

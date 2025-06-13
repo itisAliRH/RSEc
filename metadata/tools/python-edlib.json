@@ -1,0 +1,1 @@
+{"tool_name":"python-edlib","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-edlib","biocontainers__identifiers":["doi:10.1093/bioinformatics/btw753"],"biocontainers__license":"MIT","biocontainers__summary":"Lightweight, super fast C/C++ (& Python) library for sequence alignment using edit (Levenshtein) distance."}}

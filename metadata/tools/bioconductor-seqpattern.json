@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-seqpattern","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-seqpattern","biocontainers__identifiers":["biotools:seqpattern","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL-3","biocontainers__summary":"Visualising oligonucleotide patterns and motif occurrences across a set of sorted sequences"}}

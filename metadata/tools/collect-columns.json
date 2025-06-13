@@ -1,0 +1,1 @@
+{"tool_name":"collect-columns","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"collect-columns","biocontainers__license":"MIT","biocontainers__summary":"Retrieve a column for each in a set of tables, placing them in a single output table."}}

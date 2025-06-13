@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-geosubmission","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-geosubmission","biocontainers__identifiers":["biotools:geosubmission","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Prepares microarray data for submission to GEO"}}

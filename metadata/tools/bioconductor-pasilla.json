@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-pasilla","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-pasilla","biocontainers__identifiers":["doi:10.18129/b9.bioc.pasilla"],"biocontainers__license":"LGPL","biocontainers__summary":"Data package with per-exon and per-gene read counts of RNA-seq samples of Pasilla knock-down by Brooks et al., Genome Research 2011."}}

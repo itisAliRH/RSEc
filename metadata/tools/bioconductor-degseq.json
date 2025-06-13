@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-degseq","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-degseq","biocontainers__identifiers":["biotools:degseq","doi:10.1093/bioinformatics/btp612"],"biocontainers__license":"LGPL (>=2)","biocontainers__summary":"Identify Differentially Expressed Genes from RNA-seq data"}}

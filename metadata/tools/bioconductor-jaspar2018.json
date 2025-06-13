@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-jaspar2018","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-jaspar2018","biocontainers__identifiers":["doi:10.18129/b9.bioc.jaspar2018"],"biocontainers__license":"GPL-2","biocontainers__summary":"Data package for JASPAR 2018. To search this databases, please use the package TFBSTools (>= 1.15.6)."}}

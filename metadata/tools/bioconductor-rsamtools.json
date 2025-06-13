@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-rsamtools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-rsamtools","biocontainers__identifiers":["biotools:rsamtools","doi:10.1038/nmeth.3252"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Binary alignment (BAM), FASTA, variant call (BCF), and tabix file import"}}

@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-plier","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-plier","biocontainers__identifiers":["biotools:plier","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Implements the Affymetrix PLIER algorithm"}}

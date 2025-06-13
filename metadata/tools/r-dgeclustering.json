@@ -1,0 +1,1 @@
+{"tool_name":"r-dgeclustering","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-dgeclustering","biocontainers__license":"MIT","biocontainers__summary":"DGEclustering is an R package for multidimensional clustering of differential gene expression datasets, and it integrates GO annotations to improve the clustering result."}}

@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-triform","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-triform","biocontainers__identifiers":["biotools:triform","doi:10.1186/1471-2105-13-176"],"biocontainers__license":"GPL-2","biocontainers__summary":"Triform finds enriched regions (peaks) in transcription factor ChIP-sequencing data"}}

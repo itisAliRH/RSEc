@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-strandcheckr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-strandcheckr","biocontainers__identifiers":["doi:10.18129/b9.bioc.strandcheckr"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Calculate strandness information of a bam file"}}

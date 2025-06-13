@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-viper","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-viper","biocontainers__identifiers":["biotools:viper","doi:10.1038/ng.3593"],"biocontainers__license":"file LICENSE","biocontainers__summary":"The package uses gene expression data to infer protein activity. the package uses viper and msviper algorithms."}}

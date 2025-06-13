@@ -1,0 +1,1 @@
+{"tool_name":"r-rseis","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-rseis","biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Multiple interactive codes to view and analyze seismic data, via spectrum analysis, wavelet transforms, particle motion, hodograms.  Includes general time-series tools, plotting, filtering, interactive display."}}

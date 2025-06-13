@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-risa","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-risa","biocontainers__identifiers":["biotools:risa","doi:10.1186/1471-2105-15-S7-S11"],"biocontainers__license":"LGPL","biocontainers__summary":"Converting experimental metadata from ISA-tab into Bioconductor data structures"}}

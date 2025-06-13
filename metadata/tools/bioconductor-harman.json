@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-harman","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-harman","biocontainers__identifiers":["biotools:harman","doi:10.1186/s12859-016-1212-5"],"biocontainers__license":"GPL-3 + file LICENCE","biocontainers__summary":"The removal of batch effects from datasets using a PCA and constrained optimisation based technique"}}

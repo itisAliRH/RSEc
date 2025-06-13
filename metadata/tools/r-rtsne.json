@@ -1,0 +1,1 @@
+{"tool_name":"r-rtsne","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-rtsne","biocontainers__license":"BSD-style licence","biocontainers__summary":"n R wrapper around the fast T-distributed Stochastic Neighbor Embedding implementation by Van der Maaten (see <https://github.com/lvdmaaten/bhtsne/> for more information on the original implementation)."}}

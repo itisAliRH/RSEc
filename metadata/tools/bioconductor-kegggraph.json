@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-kegggraph","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-kegggraph","biocontainers__identifiers":["biotools:kegggraph","doi:10.1093/bioinformatics/btp167"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"KEGGgraph: A graph approach to KEGG PATHWAY in R and Bioconductor"}}

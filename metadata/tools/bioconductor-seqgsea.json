@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-seqgsea","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-seqgsea","biocontainers__identifiers":["biotools:seqgsea","doi:10.1093/bioinformatics/btu090"],"biocontainers__license":"GPL-3.0","biocontainers__summary":"Gene Set Enrichment Analysis (GSEA) of RNA-Seq Data: integrating differential expression and splicing"}}

@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-regionreport","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-regionreport","biocontainers__identifiers":["doi:10.18129/b9.bioc.regionreport"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Generate html or pdf reports for a set of genomic regions or deseq2/edger results"}}

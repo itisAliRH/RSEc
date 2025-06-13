@@ -1,0 +1,1 @@
+{"tool_name":"bioconductor-projectr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-projectr","biocontainers__identifiers":["doi:10.18129/b9.bioc.projectr"],"biocontainers__license":"GPL (==2)","biocontainers__summary":"Functions for the projection of weights from PCA, CoGAPS, NMF, correlation, and clustering"}}

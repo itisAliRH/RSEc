@@ -1,0 +1,1 @@
+{"tool_name":"neurodocker","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"neurodocker","biocontainers__license":"Apache-2.0","biocontainers__summary":"Neurodocker is a command-line program that generates custom Dockerfiles and Singularity recipes for neuroimaging and minifies existing containers."}}
