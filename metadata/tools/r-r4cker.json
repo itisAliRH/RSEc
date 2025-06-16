@@ -1,1 +1,1 @@
-{"tool_name":"r-r4cker","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-r4cker","biocontainers__license":"MIT","biocontainers__summary":"Analysis of 4c-seq (circularized chromosome conformation capture) data"}}
+{"tool_name":"r-r4cker","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-r4cker","identifiers":null,"license":"MIT","summary":"Analysis of 4c-seq (circularized chromosome conformation capture) data"}}}

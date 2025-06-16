@@ -1,1 +1,1 @@
-{"tool_name":"requests-mock","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"requests-mock","biocontainers__license":"Apache Software License","biocontainers__summary":"Mock out responses from the requests package"}}
+{"tool_name":"requests-mock","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"requests-mock","identifiers":null,"license":"Apache Software License","summary":"Mock out responses from the requests package"}}}

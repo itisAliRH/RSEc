@@ -1,1 +1,1 @@
-{"tool_name":"r-reshape","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-reshape","biocontainers__license":"MIT","biocontainers__summary":"Flexibly restructure and aggregate data using just melt() and cast()."}}
+{"tool_name":"r-reshape","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-reshape","identifiers":null,"license":"MIT","summary":"Flexibly restructure and aggregate data using just melt() and cast()."}}}

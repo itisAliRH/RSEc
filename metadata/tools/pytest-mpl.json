@@ -1,1 +1,1 @@
-{"tool_name":"pytest-mpl","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pytest-mpl","biocontainers__license":"BSD","biocontainers__summary":"Pytest plugin to help with testing figures output."}}
+{"tool_name":"pytest-mpl","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pytest-mpl","identifiers":null,"license":"BSD","summary":"Pytest plugin to help with testing figures output."}}}

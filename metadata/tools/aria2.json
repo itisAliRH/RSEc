@@ -1,1 +1,1 @@
-{"tool_name":"aria2","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"aria2","biocontainers__license":"GPL-2.0","biocontainers__summary":"Aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line."}}
+{"tool_name":"aria2","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"aria2","identifiers":null,"license":"GPL-2.0","summary":"Aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line."}}}

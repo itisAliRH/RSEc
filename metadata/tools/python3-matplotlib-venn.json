@@ -1,1 +1,1 @@
-{"tool_name":"python3-matplotlib-venn","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python3-matplotlib-venn","biocontainers__license":"MIT","biocontainers__summary":"Area-weighted venn-diagrams for Python/matplotlib"}}
+{"tool_name":"python3-matplotlib-venn","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python3-matplotlib-venn","identifiers":null,"license":"MIT","summary":"Area-weighted venn-diagrams for Python/matplotlib"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-nadfinder","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-nadfinder","biocontainers__identifiers":["doi:10.18129/b9.bioc.nadfinder"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Call wide peaks for sequencing data"}}
+{"tool_name":"bioconductor-nadfinder","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-nadfinder","identifiers":["doi:10.18129/b9.bioc.nadfinder"],"license":"GPL (>= 2)","summary":"Call wide peaks for sequencing data"}}}

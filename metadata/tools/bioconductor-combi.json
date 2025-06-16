@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-combi","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-combi","biocontainers__identifiers":["doi:10.18129/b9.bioc.combi"],"biocontainers__license":"GPL-2","biocontainers__summary":"Compositional omics model based visual integration"}}
+{"tool_name":"bioconductor-combi","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-combi","identifiers":["doi:10.18129/b9.bioc.combi"],"license":"GPL-2","summary":"Compositional omics model based visual integration"}}}

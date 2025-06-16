@@ -1,1 +1,1 @@
-{"tool_name":"perl-string-truncate","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-string-truncate","biocontainers__license":"Not available","biocontainers__summary":"A module for when strings are too long to be displayed in..."}}
+{"tool_name":"perl-string-truncate","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-string-truncate","identifiers":null,"license":"Not available","summary":"A module for when strings are too long to be displayed in..."}}}

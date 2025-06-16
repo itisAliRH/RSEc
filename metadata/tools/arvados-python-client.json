@@ -1,1 +1,1 @@
-{"tool_name":"arvados-python-client","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"arvados-python-client","biocontainers__license":"Apache-2.0","biocontainers__summary":"Python API for Arvados"}}
+{"tool_name":"arvados-python-client","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"arvados-python-client","identifiers":null,"license":"Apache-2.0","summary":"Python API for Arvados"}}}

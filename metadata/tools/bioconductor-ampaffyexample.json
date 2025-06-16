@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-ampaffyexample","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-ampaffyexample","biocontainers__identifiers":["doi:10.18129/b9.bioc.ampaffyexample"],"biocontainers__license":"LGPL (>= 2)","biocontainers__summary":"Example of Amplified Data"}}
+{"tool_name":"bioconductor-ampaffyexample","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-ampaffyexample","identifiers":["doi:10.18129/b9.bioc.ampaffyexample"],"license":"LGPL (>= 2)","summary":"Example of Amplified Data"}}}

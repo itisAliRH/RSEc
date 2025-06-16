@@ -1,1 +1,1 @@
-{"tool_name":"shotmap","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"shotmap","biocontainers__license":"GPL-2.0-only","biocontainers__summary":"A shotgun metagenome annotation pipeline"}}
+{"tool_name":"shotmap","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"shotmap","identifiers":null,"license":"GPL-2.0-only","summary":"A shotgun metagenome annotation pipeline"}}}

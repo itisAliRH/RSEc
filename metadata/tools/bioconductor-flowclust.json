@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-flowclust","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-flowclust","biocontainers__identifiers":["doi:10.18129/b9.bioc.flowclust"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Clustering for Flow Cytometry"}}
+{"tool_name":"bioconductor-flowclust","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-flowclust","identifiers":["doi:10.18129/b9.bioc.flowclust"],"license":"Artistic-2.0","summary":"Clustering for Flow Cytometry"}}}

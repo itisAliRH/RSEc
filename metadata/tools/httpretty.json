@@ -1,1 +1,1 @@
-{"tool_name":"httpretty","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"httpretty","biocontainers__license":"MIT","biocontainers__summary":"HTTP client mock for Python"}}
+{"tool_name":"httpretty","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"httpretty","identifiers":null,"license":"MIT","summary":"HTTP client mock for Python"}}}

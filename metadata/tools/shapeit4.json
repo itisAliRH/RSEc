@@ -1,1 +1,1 @@
-{"tool_name":"shapeit4","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"shapeit4","biocontainers__identifiers":["doi:10.1101/493403"],"biocontainers__license":"MIT","biocontainers__summary":"fast and accurate method for estimation of haplotypes (phasing)"}}
+{"tool_name":"shapeit4","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"shapeit4","identifiers":["doi:10.1101/493403"],"license":"MIT","summary":"fast and accurate method for estimation of haplotypes (phasing)"}}}

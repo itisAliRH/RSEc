@@ -1,1 +1,1 @@
-{"tool_name":"perl-test-longstring","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-test-longstring","biocontainers__license":"perl_5","biocontainers__summary":"Tests strings for equality, with more helpful failures"}}
+{"tool_name":"perl-test-longstring","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-test-longstring","identifiers":null,"license":"perl_5","summary":"Tests strings for equality, with more helpful failures"}}}

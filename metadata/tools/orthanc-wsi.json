@@ -1,1 +1,1 @@
-{"tool_name":"orthanc-wsi","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"orthanc-wsi","biocontainers__license":"AGPL-3.0+","biocontainers__summary":"Whole-slide imaging support for orthanc (digital pathology)"}}
+{"tool_name":"orthanc-wsi","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"orthanc-wsi","identifiers":null,"license":"AGPL-3.0+","summary":"Whole-slide imaging support for orthanc (digital pathology)"}}}

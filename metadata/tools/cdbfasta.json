@@ -1,1 +1,1 @@
-{"tool_name":"cdbfasta","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"cdbfasta","biocontainers__license":"PD","biocontainers__summary":"Constant database indexing and retrieval tools for multi-fasta files"}}
+{"tool_name":"cdbfasta","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"cdbfasta","identifiers":null,"license":"PD","summary":"Constant database indexing and retrieval tools for multi-fasta files"}}}

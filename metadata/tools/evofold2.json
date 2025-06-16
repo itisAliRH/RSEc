@@ -1,1 +1,1 @@
-{"tool_name":"evofold2","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"evofold2","biocontainers__license":"GPL","biocontainers__summary":"Identifies functional RNA-structure in multiple sequence alignments."}}
+{"tool_name":"evofold2","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"evofold2","identifiers":null,"license":"GPL","summary":"Identifies functional RNA-structure in multiple sequence alignments."}}}

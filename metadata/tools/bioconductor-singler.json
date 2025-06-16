@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-singler","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-singler","biocontainers__identifiers":["doi:10.18129/b9.bioc.singler"],"biocontainers__license":"GPL-3","biocontainers__summary":"Reference-Based Single-Cell RNA-Seq Annotation"}}
+{"tool_name":"bioconductor-singler","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-singler","identifiers":["doi:10.18129/b9.bioc.singler"],"license":"GPL-3","summary":"Reference-Based Single-Cell RNA-Seq Annotation"}}}

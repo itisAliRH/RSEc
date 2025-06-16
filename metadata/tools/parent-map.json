@@ -1,1 +1,1 @@
-{"tool_name":"parent-map","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"parent-map","biocontainers__license":"GPL-3.0","biocontainers__summary":"Analyze parental contributions to evolved or engineered protein or dna sequences"}}
+{"tool_name":"parent-map","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"parent-map","identifiers":null,"license":"GPL-3.0","summary":"Analyze parental contributions to evolved or engineered protein or dna sequences"}}}

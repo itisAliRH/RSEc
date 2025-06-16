@@ -1,1 +1,1 @@
-{"tool_name":"clustalx","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"clustalx","biocontainers__license":"LGPL-3.0+","biocontainers__summary":"Multiple alignment of nucleic acid and protein sequences (graphical interface)"}}
+{"tool_name":"clustalx","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"clustalx","identifiers":null,"license":"LGPL-3.0+","summary":"Multiple alignment of nucleic acid and protein sequences (graphical interface)"}}}

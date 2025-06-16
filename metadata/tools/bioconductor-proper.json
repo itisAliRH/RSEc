@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-proper","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-proper","biocontainers__identifiers":["biotools:proper","doi:10.1093/bioinformatics/btu640"],"biocontainers__license":"GPL","biocontainers__summary":"PROspective Power Evaluation for RNAseq"}}
+{"tool_name":"bioconductor-proper","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-proper","identifiers":["biotools:proper","doi:10.1093/bioinformatics/btu640"],"license":"GPL","summary":"PROspective Power Evaluation for RNAseq"}}}

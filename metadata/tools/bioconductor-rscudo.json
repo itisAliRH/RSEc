@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-rscudo","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-rscudo","biocontainers__identifiers":["doi:10.18129/b9.bioc.rscudo"],"biocontainers__license":"GPL-3","biocontainers__summary":"Signature-based Clustering for Diagnostic Purposes"}}
+{"tool_name":"bioconductor-rscudo","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-rscudo","identifiers":["doi:10.18129/b9.bioc.rscudo"],"license":"GPL-3","summary":"Signature-based Clustering for Diagnostic Purposes"}}}

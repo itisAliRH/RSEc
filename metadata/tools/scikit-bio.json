@@ -1,1 +1,1 @@
-{"tool_name":"scikit-bio","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"scikit-bio","biocontainers__license":"BSD","biocontainers__summary":"Python package providing data structures, algorithms, and educational resources for bioinformatics."}}
+{"tool_name":"scikit-bio","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"scikit-bio","identifiers":null,"license":"BSD","summary":"Python package providing data structures, algorithms, and educational resources for bioinformatics."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-spaniel","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-spaniel","biocontainers__identifiers":["doi:10.18129/b9.bioc.spaniel"],"biocontainers__license":"MIT","biocontainers__summary":"Spatial transcriptomics analysis"}}
+{"tool_name":"bioconductor-spaniel","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-spaniel","identifiers":["doi:10.18129/b9.bioc.spaniel"],"license":"MIT","summary":"Spatial transcriptomics analysis"}}}

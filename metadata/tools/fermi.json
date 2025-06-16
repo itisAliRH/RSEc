@@ -1,1 +1,1 @@
-{"tool_name":"fermi","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fermi","biocontainers__license":"BSD-3","biocontainers__summary":"A wgs de novo assembler based on the fmd-index for large genomes."}}
+{"tool_name":"fermi","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fermi","identifiers":null,"license":"BSD-3","summary":"A wgs de novo assembler based on the fmd-index for large genomes."}}}

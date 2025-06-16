@@ -1,1 +1,1 @@
-{"tool_name":"yamllint","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"yamllint","biocontainers__license":"GPL-3.0","biocontainers__summary":"A linter for YAML files."}}
+{"tool_name":"yamllint","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"yamllint","identifiers":null,"license":"GPL-3.0","summary":"A linter for YAML files."}}}

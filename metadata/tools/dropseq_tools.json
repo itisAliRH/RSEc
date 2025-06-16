@@ -1,1 +1,1 @@
-{"tool_name":"dropseq_tools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"dropseq_tools","biocontainers__license":"Not available","biocontainers__summary":"Package for the analysis of drop-seq data developed by jim nemesh in the mccarroll lab."}}
+{"tool_name":"dropseq_tools","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"dropseq_tools","identifiers":null,"license":"Not available","summary":"Package for the analysis of drop-seq data developed by jim nemesh in the mccarroll lab."}}}

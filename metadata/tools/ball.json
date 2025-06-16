@@ -1,1 +1,1 @@
-{"tool_name":"ball","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ball","biocontainers__license":"GPL-2+","biocontainers__summary":"Python bindings for the biochemical algorithms library"}}
+{"tool_name":"ball","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ball","identifiers":null,"license":"GPL-2+","summary":"Python bindings for the biochemical algorithms library"}}}

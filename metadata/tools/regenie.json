@@ -1,1 +1,1 @@
-{"tool_name":"regenie","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"regenie","biocontainers__license":"MIT","biocontainers__summary":"Regenie is a C++ program for whole genome regression modelling of large genome-wide association studies (GWAS)."}}
+{"tool_name":"regenie","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"regenie","identifiers":null,"license":"MIT","summary":"Regenie is a C++ program for whole genome regression modelling of large genome-wide association studies (GWAS)."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"artic-tools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"artic-tools","biocontainers__license":"MIT","biocontainers__summary":"A set of tools for working with the ARTIC bioinformatic pipeline."}}
+{"tool_name":"artic-tools","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"artic-tools","identifiers":null,"license":"MIT","summary":"A set of tools for working with the ARTIC bioinformatic pipeline."}}}

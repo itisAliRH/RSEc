@@ -1,1 +1,1 @@
-{"tool_name":"genrich","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"genrich","biocontainers__license":"MIT","biocontainers__summary":"Detecting sites of genomic enrichment."}}
+{"tool_name":"genrich","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"genrich","identifiers":null,"license":"MIT","summary":"Detecting sites of genomic enrichment."}}}

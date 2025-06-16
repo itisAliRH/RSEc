@@ -1,1 +1,1 @@
-{"tool_name":"uc-echo","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"uc-echo","biocontainers__license":"BSD","biocontainers__summary":"Error correction algorithm designed for short-reads from ngs"}}
+{"tool_name":"uc-echo","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"uc-echo","identifiers":null,"license":"BSD","summary":"Error correction algorithm designed for short-reads from ngs"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-data-visitor","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-data-visitor","biocontainers__license":"perl_5","biocontainers__summary":"Visitor style traversal of perl data structures"}}
+{"tool_name":"perl-data-visitor","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-data-visitor","identifiers":null,"license":"perl_5","summary":"Visitor style traversal of perl data structures"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"argparse2tool","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"argparse2tool","biocontainers__license":"Not available","biocontainers__summary":"Instrument for forming galaxy xml and cwl tool descriptions from argparse arguments"}}
+{"tool_name":"argparse2tool","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"argparse2tool","identifiers":null,"license":"Not available","summary":"Instrument for forming galaxy xml and cwl tool descriptions from argparse arguments"}}}

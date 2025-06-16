@@ -1,1 +1,1 @@
-{"tool_name":"seq2science","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"seq2science","biocontainers__license":"Not available","biocontainers__summary":"Automated preprocessing of next-generation-sequencing data."}}
+{"tool_name":"seq2science","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"seq2science","identifiers":null,"license":"Not available","summary":"Automated preprocessing of next-generation-sequencing data."}}}

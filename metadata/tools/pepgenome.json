@@ -1,1 +1,1 @@
-{"tool_name":"pepgenome","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pepgenome","biocontainers__license":"Apache-2.0","biocontainers__summary":"A java tool to map peptide and peptidoform evideces to ENSEMBL Genome Coordinates"}}
+{"tool_name":"pepgenome","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pepgenome","identifiers":null,"license":"Apache-2.0","summary":"A java tool to map peptide and peptidoform evideces to ENSEMBL Genome Coordinates"}}}

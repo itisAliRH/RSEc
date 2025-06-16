@@ -1,1 +1,1 @@
-{"tool_name":"r-snow","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-snow","biocontainers__license":"GPL","biocontainers__summary":"Support for simple parallel computing in R."}}
+{"tool_name":"r-snow","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-snow","identifiers":null,"license":"GPL","summary":"Support for simple parallel computing in R."}}}

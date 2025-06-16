@@ -1,1 +1,1 @@
-{"tool_name":"udocker","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"udocker","biocontainers__identifiers":["doi:10.1016/j.cpc.2018.05.021"],"biocontainers__license":"Apache-2.0","biocontainers__summary":"Freely available tools for computational molecular biology."}}
+{"tool_name":"udocker","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"udocker","identifiers":["doi:10.1016/j.cpc.2018.05.021"],"license":"Apache-2.0","summary":"Freely available tools for computational molecular biology."}}}

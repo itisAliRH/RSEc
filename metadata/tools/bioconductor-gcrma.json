@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-gcrma","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-gcrma","biocontainers__identifiers":["biotools:gcrma","doi:10.1186/1471-2105-9-452"],"biocontainers__license":"LGPL","biocontainers__summary":"Background adjustment using sequence information"}}
+{"tool_name":"bioconductor-gcrma","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-gcrma","identifiers":["biotools:gcrma","doi:10.1186/1471-2105-9-452"],"license":"LGPL","summary":"Background adjustment using sequence information"}}}

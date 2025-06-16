@@ -1,1 +1,1 @@
-{"tool_name":"perl-archive-tar","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-archive-tar","biocontainers__license":"perl_5","biocontainers__summary":"Manipulates tar archives"}}
+{"tool_name":"perl-archive-tar","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-archive-tar","identifiers":null,"license":"perl_5","summary":"Manipulates tar archives"}}}

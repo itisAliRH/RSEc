@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-rcwl","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-rcwl","biocontainers__identifiers":["doi:10.18129/b9.bioc.rcwl"],"biocontainers__license":"GPL-2 | file LICENSE","biocontainers__summary":"Wrap Command Tools and Pipelines Using CWL"}}
+{"tool_name":"bioconductor-rcwl","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-rcwl","identifiers":["doi:10.18129/b9.bioc.rcwl"],"license":"GPL-2 | file LICENSE","summary":"Wrap Command Tools and Pipelines Using CWL"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"funnel","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"funnel","biocontainers__license":"MIT","biocontainers__summary":"Funnel is a toolkit for distributed task execution via a simple, standard API"}}
+{"tool_name":"funnel","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"funnel","identifiers":null,"license":"MIT","summary":"Funnel is a toolkit for distributed task execution via a simple, standard API"}}}

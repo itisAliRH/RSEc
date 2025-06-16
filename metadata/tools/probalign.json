@@ -1,1 +1,1 @@
-{"tool_name":"probalign","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"probalign","biocontainers__identifiers":["doi:10.1093/bioinformatics/btl472"],"biocontainers__license":"PD","biocontainers__summary":"Multiple sequence alignment using partition function posterior probabilities"}}
+{"tool_name":"probalign","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"probalign","identifiers":["doi:10.1093/bioinformatics/btl472"],"license":"PD","summary":"Multiple sequence alignment using partition function posterior probabilities"}}}

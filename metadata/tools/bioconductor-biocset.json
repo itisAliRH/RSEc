@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-biocset","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-biocset","biocontainers__identifiers":["doi:10.18129/b9.bioc.biocset"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Representing different biological sets"}}
+{"tool_name":"bioconductor-biocset","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-biocset","identifiers":["doi:10.18129/b9.bioc.biocset"],"license":"Artistic-2.0","summary":"Representing different biological sets"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"edittag","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"edittag","biocontainers__license":"http://www.opensource.org/licenses/BSD-3-Clause","biocontainers__summary":"Design and check sets of edit metric sequence tags."}}
+{"tool_name":"edittag","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"edittag","identifiers":null,"license":"http://www.opensource.org/licenses/BSD-3-Clause","summary":"Design and check sets of edit metric sequence tags."}}}

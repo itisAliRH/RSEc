@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-netsmooth","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-netsmooth","biocontainers__identifiers":["doi:10.18129/b9.bioc.netsmooth"],"biocontainers__license":"GPL-3","biocontainers__summary":"Network smoothing for scRNAseq"}}
+{"tool_name":"bioconductor-netsmooth","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-netsmooth","identifiers":["doi:10.18129/b9.bioc.netsmooth"],"license":"GPL-3","summary":"Network smoothing for scRNAseq"}}}

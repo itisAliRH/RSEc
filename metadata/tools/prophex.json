@@ -1,1 +1,1 @@
-{"tool_name":"prophex","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"prophex","biocontainers__identifiers":["doi:10.5281/zenodo.1247431"],"biocontainers__license":"MIT","biocontainers__summary":"The ProPhex k-mer index."}}
+{"tool_name":"prophex","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"prophex","identifiers":["doi:10.5281/zenodo.1247431"],"license":"MIT","summary":"The ProPhex k-mer index."}}}

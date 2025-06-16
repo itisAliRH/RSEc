@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-annotatr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-annotatr","biocontainers__identifiers":["doi:10.18129/b9.bioc.annotatr"],"biocontainers__license":"GPL-3","biocontainers__summary":"Annotation of Genomic Regions to Genomic Annotations"}}
+{"tool_name":"bioconductor-annotatr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-annotatr","identifiers":["doi:10.18129/b9.bioc.annotatr"],"license":"GPL-3","summary":"Annotation of Genomic Regions to Genomic Annotations"}}}

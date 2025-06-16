@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-diffcoexp","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-diffcoexp","biocontainers__identifiers":["doi:10.18129/b9.bioc.diffcoexp"],"biocontainers__license":"GPL (>2)","biocontainers__summary":"Differential Co-expression Analysis"}}
+{"tool_name":"bioconductor-diffcoexp","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-diffcoexp","identifiers":["doi:10.18129/b9.bioc.diffcoexp"],"license":"GPL (>2)","summary":"Differential Co-expression Analysis"}}}

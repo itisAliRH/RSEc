@@ -1,1 +1,1 @@
-{"tool_name":"perl-dist-checkconflicts","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-dist-checkconflicts","biocontainers__license":"perl_5","biocontainers__summary":"declare version conflicts for your dist"}}
+{"tool_name":"perl-dist-checkconflicts","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-dist-checkconflicts","identifiers":null,"license":"perl_5","summary":"declare version conflicts for your dist"}}}

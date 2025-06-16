@@ -1,1 +1,1 @@
-{"tool_name":"r-readmzxmldata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-readmzxmldata","biocontainers__license":"GPL (>= 3)","biocontainers__summary":"Functions for reading mass spectrometry data in mzXML format."}}
+{"tool_name":"r-readmzxmldata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-readmzxmldata","identifiers":null,"license":"GPL (>= 3)","summary":"Functions for reading mass spectrometry data in mzXML format."}}}

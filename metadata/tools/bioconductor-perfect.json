@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-perfect","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-perfect","biocontainers__identifiers":["doi:10.18129/b9.bioc.perfect"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Permutation filtration for microbiome data"}}
+{"tool_name":"bioconductor-perfect","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-perfect","identifiers":["doi:10.18129/b9.bioc.perfect"],"license":"Artistic-2.0","summary":"Permutation filtration for microbiome data"}}}

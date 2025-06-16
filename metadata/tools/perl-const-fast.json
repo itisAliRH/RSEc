@@ -1,1 +1,1 @@
-{"tool_name":"perl-const-fast","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-const-fast","biocontainers__license":"perl_5","biocontainers__summary":"Facility for creating read-only scalars, arrays, and hashes"}}
+{"tool_name":"perl-const-fast","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-const-fast","identifiers":null,"license":"perl_5","summary":"Facility for creating read-only scalars, arrays, and hashes"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"callstate","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"callstate","biocontainers__license":"MIT","biocontainers__summary":"A replacement for GATK3 CallableLoci"}}
+{"tool_name":"callstate","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"callstate","identifiers":null,"license":"MIT","summary":"A replacement for GATK3 CallableLoci"}}}

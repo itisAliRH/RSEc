@@ -1,1 +1,1 @@
-{"tool_name":"perl-io-html","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-io-html","biocontainers__license":"perl_5","biocontainers__summary":"Open an HTML file with automatic charset detection"}}
+{"tool_name":"perl-io-html","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-io-html","identifiers":null,"license":"perl_5","summary":"Open an HTML file with automatic charset detection"}}}

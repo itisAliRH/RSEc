@@ -1,1 +1,1 @@
-{"tool_name":"python-levenshtein","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-levenshtein","biocontainers__license":"GPL","biocontainers__summary":"Python extension for computing string edit distances and similarities."}}
+{"tool_name":"python-levenshtein","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python-levenshtein","identifiers":null,"license":"GPL","summary":"Python extension for computing string edit distances and similarities."}}}

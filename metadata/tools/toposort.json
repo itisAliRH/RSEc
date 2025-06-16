@@ -1,1 +1,1 @@
-{"tool_name":"toposort","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"toposort","biocontainers__license":"Apache Software License","biocontainers__summary":"A topological sort algorithm for Python."}}
+{"tool_name":"toposort","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"toposort","identifiers":null,"license":"Apache Software License","summary":"A topological sort algorithm for Python."}}}

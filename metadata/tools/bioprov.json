@@ -1,1 +1,1 @@
-{"tool_name":"bioprov","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioprov","biocontainers__license":"MIT","biocontainers__summary":"Bioprov: provenance capture for bioinformatics workflows"}}
+{"tool_name":"bioprov","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioprov","identifiers":null,"license":"MIT","summary":"Bioprov: provenance capture for bioinformatics workflows"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-assessorfdata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-assessorfdata","biocontainers__identifiers":["doi:10.18129/b9.bioc.assessorfdata"],"biocontainers__license":"GPL-3","biocontainers__summary":"Data and Files for the AssessORF Package"}}
+{"tool_name":"bioconductor-assessorfdata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-assessorfdata","identifiers":["doi:10.18129/b9.bioc.assessorfdata"],"license":"GPL-3","summary":"Data and Files for the AssessORF Package"}}}

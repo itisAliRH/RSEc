@@ -1,1 +1,1 @@
-{"tool_name":"genefuse","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"genefuse","biocontainers__identifiers":["doi:10.7150/ijbs.24626"],"biocontainers__license":"MIT","biocontainers__summary":"Gene fusion detection and visualization"}}
+{"tool_name":"genefuse","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"genefuse","identifiers":["doi:10.7150/ijbs.24626"],"license":"MIT","summary":"Gene fusion detection and visualization"}}}

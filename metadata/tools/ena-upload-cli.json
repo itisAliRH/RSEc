@@ -1,1 +1,1 @@
-{"tool_name":"ena-upload-cli","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ena-upload-cli","biocontainers__license":"Not available","biocontainers__summary":"Command line interface to upload data to the european nucleotide archive"}}
+{"tool_name":"ena-upload-cli","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ena-upload-cli","identifiers":null,"license":"Not available","summary":"Command line interface to upload data to the european nucleotide archive"}}}

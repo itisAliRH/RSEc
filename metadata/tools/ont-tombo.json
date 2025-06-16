@@ -1,1 +1,1 @@
-{"tool_name":"ont-tombo","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ont-tombo","biocontainers__license":"mpl-2.0","biocontainers__summary":"Detection of modified bases from raw nanopore sequencing data."}}
+{"tool_name":"ont-tombo","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ont-tombo","identifiers":null,"license":"mpl-2.0","summary":"Detection of modified bases from raw nanopore sequencing data."}}}

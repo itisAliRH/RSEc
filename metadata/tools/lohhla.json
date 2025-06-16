@@ -1,1 +1,1 @@
-{"tool_name":"lohhla","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"lohhla","biocontainers__license":"Non-Commercial Research Purposes","biocontainers__summary":"A computational tool to evaluate hla loss using next-generation sequencing data."}}
+{"tool_name":"lohhla","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"lohhla","identifiers":null,"license":"Non-Commercial Research Purposes","summary":"A computational tool to evaluate hla loss using next-generation sequencing data."}}}

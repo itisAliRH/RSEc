@@ -1,1 +1,1 @@
-{"tool_name":"bcbreport","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bcbreport","biocontainers__license":"MIT","biocontainers__summary":"Rmd templates for bcbio-nextgen analysis"}}
+{"tool_name":"bcbreport","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bcbreport","identifiers":null,"license":"MIT","summary":"Rmd templates for bcbio-nextgen analysis"}}}

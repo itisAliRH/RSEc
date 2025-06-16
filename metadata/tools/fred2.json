@@ -1,1 +1,1 @@
-{"tool_name":"fred2","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fred2","biocontainers__license":"BSD","biocontainers__summary":"Python-based framework for computational immunomics."}}
+{"tool_name":"fred2","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fred2","identifiers":null,"license":"BSD","summary":"Python-based framework for computational immunomics."}}}

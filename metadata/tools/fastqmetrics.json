@@ -1,1 +1,1 @@
-{"tool_name":"fastqmetrics","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fastqmetrics","biocontainers__license":"MIT","biocontainers__summary":"Extract metrics from a fastq file, streaming"}}
+{"tool_name":"fastqmetrics","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fastqmetrics","identifiers":null,"license":"MIT","summary":"Extract metrics from a fastq file, streaming"}}}

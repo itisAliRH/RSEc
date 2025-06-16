@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-cellgrowth","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-cellgrowth","biocontainers__identifiers":["doi:10.18129/b9.bioc.cellgrowth"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Fitting cell population growth models"}}
+{"tool_name":"bioconductor-cellgrowth","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-cellgrowth","identifiers":["doi:10.18129/b9.bioc.cellgrowth"],"license":"Artistic-2.0","summary":"Fitting cell population growth models"}}}

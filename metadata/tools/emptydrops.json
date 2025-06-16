@@ -1,1 +1,1 @@
-{"tool_name":"emptydrops","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"emptydrops","biocontainers__license":"MIT","biocontainers__summary":"Python implementation of emptydrops from 10X Cellranger v3.0.2"}}
+{"tool_name":"emptydrops","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"emptydrops","identifiers":null,"license":"MIT","summary":"Python implementation of emptydrops from 10X Cellranger v3.0.2"}}}

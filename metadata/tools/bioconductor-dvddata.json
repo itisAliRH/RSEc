@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-dvddata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-dvddata","biocontainers__identifiers":["doi:10.18129/b9.bioc.dvddata"],"biocontainers__license":"GPL-3","biocontainers__summary":"Drug versus Disease Data"}}
+{"tool_name":"bioconductor-dvddata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-dvddata","identifiers":["doi:10.18129/b9.bioc.dvddata"],"license":"GPL-3","summary":"Drug versus Disease Data"}}}

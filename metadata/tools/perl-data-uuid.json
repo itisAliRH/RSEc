@@ -1,1 +1,1 @@
-{"tool_name":"perl-data-uuid","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-data-uuid","biocontainers__license":"bsd","biocontainers__summary":"Globally/Universally Unique Identifiers (GUIDs/UUIDs)"}}
+{"tool_name":"perl-data-uuid","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-data-uuid","identifiers":null,"license":"bsd","summary":"Globally/Universally Unique Identifiers (GUIDs/UUIDs)"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-text-csv","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-text-csv","biocontainers__license":"perl_5","biocontainers__summary":"Comma-separated values manipulator (using xs or pureperl)"}}
+{"tool_name":"perl-text-csv","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-text-csv","identifiers":null,"license":"perl_5","summary":"Comma-separated values manipulator (using xs or pureperl)"}}}

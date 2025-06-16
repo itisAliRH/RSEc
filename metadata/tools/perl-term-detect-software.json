@@ -1,1 +1,1 @@
-{"tool_name":"perl-term-detect-software","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-term-detect-software","biocontainers__license":"perl_5","biocontainers__summary":"Detect terminal (emulator) software and its capabilities"}}
+{"tool_name":"perl-term-detect-software","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-term-detect-software","identifiers":null,"license":"perl_5","summary":"Detect terminal (emulator) software and its capabilities"}}}

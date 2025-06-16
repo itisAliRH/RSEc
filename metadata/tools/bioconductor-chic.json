@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-chic","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-chic","biocontainers__identifiers":["doi:10.18129/b9.bioc.chic"],"biocontainers__license":"GPL-2.0","biocontainers__summary":"Quality Control Pipeline for ChIP-Seq Data"}}
+{"tool_name":"bioconductor-chic","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-chic","identifiers":["doi:10.18129/b9.bioc.chic"],"license":"GPL-2.0","summary":"Quality Control Pipeline for ChIP-Seq Data"}}}

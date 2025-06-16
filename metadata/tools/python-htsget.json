@@ -1,1 +1,1 @@
-{"tool_name":"python-htsget","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-htsget","biocontainers__license":"Apache-2.0","biocontainers__summary":"Python API and command line interface for the GA4GH htsget API."}}
+{"tool_name":"python-htsget","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python-htsget","identifiers":null,"license":"Apache-2.0","summary":"Python API and command line interface for the GA4GH htsget API."}}}

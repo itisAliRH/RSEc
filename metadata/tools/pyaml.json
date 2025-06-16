@@ -1,1 +1,1 @@
-{"tool_name":"pyaml","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pyaml","biocontainers__license":"WTFPL","biocontainers__summary":"Pyyaml-based module to produce pretty and readable yaml-serialized data."}}
+{"tool_name":"pyaml","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pyaml","identifiers":null,"license":"WTFPL","summary":"Pyyaml-based module to produce pretty and readable yaml-serialized data."}}}

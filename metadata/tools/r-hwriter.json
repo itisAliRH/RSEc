@@ -1,1 +1,1 @@
-{"tool_name":"r-hwriter","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-hwriter","biocontainers__license":"LGPL-2.1","biocontainers__summary":"Easy-to-use and versatile functions to output R objects in HTML format"}}
+{"tool_name":"r-hwriter","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-hwriter","identifiers":null,"license":"LGPL-2.1","summary":"Easy-to-use and versatile functions to output R objects in HTML format"}}}

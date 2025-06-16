@@ -1,1 +1,1 @@
-{"tool_name":"sample-sheet","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sample-sheet","biocontainers__license":"MIT","biocontainers__summary":"An illumina sample sheet parsing library"}}
+{"tool_name":"sample-sheet","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sample-sheet","identifiers":null,"license":"MIT","summary":"An illumina sample sheet parsing library"}}}

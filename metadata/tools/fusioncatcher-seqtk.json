@@ -1,1 +1,1 @@
-{"tool_name":"fusioncatcher-seqtk","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fusioncatcher-seqtk","biocontainers__license":"MIT","biocontainers__summary":"This is modified Seqtk version required for FusionCatcher."}}
+{"tool_name":"fusioncatcher-seqtk","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fusioncatcher-seqtk","identifiers":null,"license":"MIT","summary":"This is modified Seqtk version required for FusionCatcher."}}}

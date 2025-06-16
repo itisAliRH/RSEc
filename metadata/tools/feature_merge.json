@@ -1,1 +1,1 @@
-{"tool_name":"feature_merge","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"feature_merge","biocontainers__license":"MIT","biocontainers__summary":"Merge features in GFF files"}}
+{"tool_name":"feature_merge","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"feature_merge","identifiers":null,"license":"MIT","summary":"Merge features in GFF files"}}}

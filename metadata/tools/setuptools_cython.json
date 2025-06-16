@@ -1,1 +1,1 @@
-{"tool_name":"setuptools_cython","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"setuptools_cython","biocontainers__license":"GPL-2.0","biocontainers__summary":"Cython setuptools integration"}}
+{"tool_name":"setuptools_cython","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"setuptools_cython","identifiers":null,"license":"GPL-2.0","summary":"Cython setuptools integration"}}}

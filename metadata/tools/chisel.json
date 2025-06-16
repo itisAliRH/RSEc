@@ -1,1 +1,1 @@
-{"tool_name":"chisel","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"chisel","biocontainers__identifiers":["doi:10.1038/s41587-020-0661-6"],"biocontainers__license":"Not available","biocontainers__summary":"Copy-number haplotype inference in single-cell by evolutionary links"}}
+{"tool_name":"chisel","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"chisel","identifiers":["doi:10.1038/s41587-020-0661-6"],"license":"Not available","summary":"Copy-number haplotype inference in single-cell by evolutionary links"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"tinyalign","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"tinyalign","biocontainers__license":"MIT","biocontainers__summary":"A small Python module providing edit distance and Hamming distance computation."}}
+{"tool_name":"tinyalign","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"tinyalign","identifiers":null,"license":"MIT","summary":"A small Python module providing edit distance and Hamming distance computation."}}}

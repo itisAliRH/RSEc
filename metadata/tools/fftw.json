@@ -1,1 +1,1 @@
-{"tool_name":"fftw","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fftw","biocontainers__license":"GPL","biocontainers__summary":"The fastest fourier transform in the west."}}
+{"tool_name":"fftw","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fftw","identifiers":null,"license":"GPL","summary":"The fastest fourier transform in the west."}}}

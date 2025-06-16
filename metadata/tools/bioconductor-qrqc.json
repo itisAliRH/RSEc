@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-qrqc","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-qrqc","biocontainers__identifiers":["biotools:qrqc","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL-2.0","biocontainers__summary":"Quick Read Quality Control"}}
+{"tool_name":"bioconductor-qrqc","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-qrqc","identifiers":["biotools:qrqc","doi:10.1038/nmeth.3252"],"license":"GPL-2.0","summary":"Quick Read Quality Control"}}}

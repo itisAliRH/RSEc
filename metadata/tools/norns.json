@@ -1,1 +1,1 @@
-{"tool_name":"norns","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"norns","biocontainers__license":"MIT","biocontainers__summary":"Simple yaml-based config module"}}
+{"tool_name":"norns","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"norns","identifiers":null,"license":"MIT","summary":"Simple yaml-based config module"}}}

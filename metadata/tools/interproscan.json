@@ -1,1 +1,1 @@
-{"tool_name":"interproscan","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"interproscan","biocontainers__license":"Apache-2.0","biocontainers__summary":"Scan sequences against the interpro protein signature databases."}}
+{"tool_name":"interproscan","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"interproscan","identifiers":null,"license":"Apache-2.0","summary":"Scan sequences against the interpro protein signature databases."}}}

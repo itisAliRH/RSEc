@@ -1,1 +1,1 @@
-{"tool_name":"sarscov2formatter","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sarscov2formatter","biocontainers__license":"AFL","biocontainers__summary":"Formatter for galaxy sars-cov2 selection analysis workflow"}}
+{"tool_name":"sarscov2formatter","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sarscov2formatter","identifiers":null,"license":"AFL","summary":"Formatter for galaxy sars-cov2 selection analysis workflow"}}}

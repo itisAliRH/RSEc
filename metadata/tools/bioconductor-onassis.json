@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-onassis","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-onassis","biocontainers__identifiers":["doi:10.18129/b9.bioc.onassis"],"biocontainers__license":"GPL-2","biocontainers__summary":"OnASSIs Ontology Annotation and Semantic SImilarity software"}}
+{"tool_name":"bioconductor-onassis","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-onassis","identifiers":["doi:10.18129/b9.bioc.onassis"],"license":"GPL-2","summary":"OnASSIs Ontology Annotation and Semantic SImilarity software"}}}

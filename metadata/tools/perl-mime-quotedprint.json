@@ -1,1 +1,1 @@
-{"tool_name":"perl-mime-quotedprint","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-mime-quotedprint","biocontainers__license":"perl_5","biocontainers__summary":"Encoding and decoding of quoted-printable strings"}}
+{"tool_name":"perl-mime-quotedprint","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-mime-quotedprint","identifiers":null,"license":"perl_5","summary":"Encoding and decoding of quoted-printable strings"}}}

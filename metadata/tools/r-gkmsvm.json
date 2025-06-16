@@ -1,1 +1,1 @@
-{"tool_name":"r-gkmsvm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-gkmsvm","biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Imports the 'gkmSVM' v2.0 functionalities into R <http://www.beerlab.org/gkmsvm/>"}}
+{"tool_name":"r-gkmsvm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-gkmsvm","identifiers":null,"license":"GPL (>= 2)","summary":"Imports the 'gkmSVM' v2.0 functionalities into R <http://www.beerlab.org/gkmsvm/>"}}}

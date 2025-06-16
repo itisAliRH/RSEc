@@ -1,1 +1,1 @@
-{"tool_name":"arvados-cli","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"arvados-cli","biocontainers__license":"Apache-2.0","biocontainers__summary":"Command line interface to arvados, a free and open source platform for big data science"}}
+{"tool_name":"arvados-cli","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"arvados-cli","identifiers":null,"license":"Apache-2.0","summary":"Command line interface to arvados, a free and open source platform for big data science"}}}

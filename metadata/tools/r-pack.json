@@ -1,1 +1,1 @@
-{"tool_name":"r-pack","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-pack","biocontainers__license":"GPL-3.0","biocontainers__summary":"Functions to easily convert data to binary formats other programs/machines can understand."}}
+{"tool_name":"r-pack","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-pack","identifiers":null,"license":"GPL-3.0","summary":"Functions to easily convert data to binary formats other programs/machines can understand."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-ccdata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-ccdata","biocontainers__identifiers":["doi:10.18129/b9.bioc.ccdata"],"biocontainers__license":"MIT","biocontainers__summary":"Data for Combination Connectivity Mapping (ccmap) Package"}}
+{"tool_name":"bioconductor-ccdata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-ccdata","identifiers":["doi:10.18129/b9.bioc.ccdata"],"license":"MIT","summary":"Data for Combination Connectivity Mapping (ccmap) Package"}}}

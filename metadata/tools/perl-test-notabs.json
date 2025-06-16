@@ -1,1 +1,1 @@
-{"tool_name":"perl-test-notabs","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-test-notabs","biocontainers__license":"Not available","biocontainers__summary":"Check the presence of tabs in your project"}}
+{"tool_name":"perl-test-notabs","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-test-notabs","identifiers":null,"license":"Not available","summary":"Check the presence of tabs in your project"}}}

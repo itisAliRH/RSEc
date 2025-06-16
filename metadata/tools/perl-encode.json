@@ -1,1 +1,1 @@
-{"tool_name":"perl-encode","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-encode","biocontainers__license":"perl_5","biocontainers__summary":"Allows you to write your script in non-ascii and non-utf-8"}}
+{"tool_name":"perl-encode","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-encode","identifiers":null,"license":"perl_5","summary":"Allows you to write your script in non-ascii and non-utf-8"}}}

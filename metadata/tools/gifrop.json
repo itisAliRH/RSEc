@@ -1,1 +1,1 @@
-{"tool_name":"gifrop","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"gifrop","biocontainers__license":"GNU General Public License v2.0","biocontainers__summary":"Identify, classify, and cluster genomic islands from roary pangenomes"}}
+{"tool_name":"gifrop","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"gifrop","identifiers":null,"license":"GNU General Public License v2.0","summary":"Identify, classify, and cluster genomic islands from roary pangenomes"}}}

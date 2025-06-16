@@ -1,1 +1,1 @@
-{"tool_name":"segmentation-fold","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"segmentation-fold","biocontainers__license":"GPL-3.0","biocontainers__summary":"RNA-Folding with predefined segments including K-turns and loop-E-motifs"}}
+{"tool_name":"segmentation-fold","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"segmentation-fold","identifiers":null,"license":"GPL-3.0","summary":"RNA-Folding with predefined segments including K-turns and loop-E-motifs"}}}

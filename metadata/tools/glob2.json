@@ -1,1 +1,1 @@
-{"tool_name":"glob2","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"glob2","biocontainers__license":"BSD License","biocontainers__summary":"Version of the glob module that can capture patterns and supports recursive wildcards"}}
+{"tool_name":"glob2","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"glob2","identifiers":null,"license":"BSD License","summary":"Version of the glob module that can capture patterns and supports recursive wildcards"}}}

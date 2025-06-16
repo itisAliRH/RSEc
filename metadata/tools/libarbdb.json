@@ -1,1 +1,1 @@
-{"tool_name":"libarbdb","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"libarbdb","biocontainers__identifiers":["biotools:arb","doi:10.1093/nar/gkh293"],"biocontainers__license":"ARB","biocontainers__summary":"ARB 6 Sequence Analysis Suite"}}
+{"tool_name":"libarbdb","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"libarbdb","identifiers":["biotools:arb","doi:10.1093/nar/gkh293"],"license":"ARB","summary":"ARB 6 Sequence Analysis Suite"}}}

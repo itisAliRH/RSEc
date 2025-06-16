@@ -1,1 +1,1 @@
-{"tool_name":"crb-blast","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"crb-blast","biocontainers__identifiers":["doi:10.1371/journal.pgen.1006087"],"biocontainers__license":"MIT","biocontainers__summary":"Conditional reciprocal best blast - high confidence ortholog assignment."}}
+{"tool_name":"crb-blast","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"crb-blast","identifiers":["doi:10.1371/journal.pgen.1006087"],"license":"MIT","summary":"Conditional reciprocal best blast - high confidence ortholog assignment."}}}

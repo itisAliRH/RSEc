@@ -1,1 +1,1 @@
-{"tool_name":"perl-ipc-cmd","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-ipc-cmd","biocontainers__license":"perl_5","biocontainers__summary":"A cross platform way of running (interactive) commandline programs."}}
+{"tool_name":"perl-ipc-cmd","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-ipc-cmd","identifiers":null,"license":"perl_5","summary":"A cross platform way of running (interactive) commandline programs."}}}

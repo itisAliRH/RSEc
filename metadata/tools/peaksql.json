@@ -1,1 +1,1 @@
-{"tool_name":"peaksql","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"peaksql","biocontainers__license":"MIT","biocontainers__summary":"Dynamic machine learning database for genomics."}}
+{"tool_name":"peaksql","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"peaksql","identifiers":null,"license":"MIT","summary":"Dynamic machine learning database for genomics."}}}

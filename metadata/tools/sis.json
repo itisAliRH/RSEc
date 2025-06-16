@@ -1,1 +1,1 @@
-{"tool_name":"sis","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sis","biocontainers__license":"Not available","biocontainers__summary":"A tool that uses mummer to scaffold small genomes."}}
+{"tool_name":"sis","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sis","identifiers":null,"license":"Not available","summary":"A tool that uses mummer to scaffold small genomes."}}}

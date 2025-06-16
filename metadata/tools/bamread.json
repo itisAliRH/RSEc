@@ -1,1 +1,1 @@
-{"tool_name":"bamread","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bamread","biocontainers__license":"MIT","biocontainers__summary":"Read bam files quickly into dataframes in Python"}}
+{"tool_name":"bamread","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bamread","identifiers":null,"license":"MIT","summary":"Read bam files quickly into dataframes in Python"}}}

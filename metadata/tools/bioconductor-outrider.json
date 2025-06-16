@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-outrider","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-outrider","biocontainers__identifiers":["doi:10.18129/b9.bioc.outrider"],"biocontainers__license":"MIT","biocontainers__summary":"OUTRIDER - OUTlier in RNA-Seq fInDER"}}
+{"tool_name":"bioconductor-outrider","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-outrider","identifiers":["doi:10.18129/b9.bioc.outrider"],"license":"MIT","summary":"OUTRIDER - OUTlier in RNA-Seq fInDER"}}}

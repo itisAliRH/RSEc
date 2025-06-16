@@ -1,1 +1,1 @@
-{"tool_name":"corepywrap","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"corepywrap","biocontainers__license":"custom, see /usr/share/doc/corepywrap/copyright","biocontainers__summary":"Library that exports c++ mmcif accessors to python"}}
+{"tool_name":"corepywrap","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"corepywrap","identifiers":null,"license":"custom, see /usr/share/doc/corepywrap/copyright","summary":"Library that exports c++ mmcif accessors to python"}}}

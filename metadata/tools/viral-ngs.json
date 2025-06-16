@@ -1,1 +1,1 @@
-{"tool_name":"viral-ngs","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"viral-ngs","biocontainers__identifiers":["doi:10.5281/zenodo.252549"],"biocontainers__license":"BSD","biocontainers__summary":"A set of scripts and tools for the analysis of viral ngs data."}}
+{"tool_name":"viral-ngs","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"viral-ngs","identifiers":["doi:10.5281/zenodo.252549"],"license":"BSD","summary":"A set of scripts and tools for the analysis of viral ngs data."}}}

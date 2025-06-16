@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-tfhaz","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-tfhaz","biocontainers__identifiers":["doi:10.18129/b9.bioc.tfhaz"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Transcription Factor High Accumulation Zones"}}
+{"tool_name":"bioconductor-tfhaz","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-tfhaz","identifiers":["doi:10.18129/b9.bioc.tfhaz"],"license":"Artistic-2.0","summary":"Transcription Factor High Accumulation Zones"}}}

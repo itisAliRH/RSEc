@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-dmrcaller","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-dmrcaller","biocontainers__identifiers":["doi:10.18129/b9.bioc.dmrcaller"],"biocontainers__license":"GPL-3.0","biocontainers__summary":"Differentially Methylated Regions caller"}}
+{"tool_name":"bioconductor-dmrcaller","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-dmrcaller","identifiers":["doi:10.18129/b9.bioc.dmrcaller"],"license":"GPL-3.0","summary":"Differentially Methylated Regions caller"}}}

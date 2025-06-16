@@ -1,1 +1,1 @@
-{"tool_name":"perl-test-sys-info","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-test-sys-info","biocontainers__license":"perl_5","biocontainers__summary":"Centralized test suite for sys::info."}}
+{"tool_name":"perl-test-sys-info","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-test-sys-info","identifiers":null,"license":"perl_5","summary":"Centralized test suite for sys::info."}}}

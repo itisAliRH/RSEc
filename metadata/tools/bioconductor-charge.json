@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-charge","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-charge","biocontainers__identifiers":["doi:10.18129/b9.bioc.charge"],"biocontainers__license":"GPL-2","biocontainers__summary":"CHARGE: CHromosome Assessment in R from Gene Expression data"}}
+{"tool_name":"bioconductor-charge","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-charge","identifiers":["doi:10.18129/b9.bioc.charge"],"license":"GPL-2","summary":"CHARGE: CHromosome Assessment in R from Gene Expression data"}}}

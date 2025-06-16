@@ -1,1 +1,1 @@
-{"tool_name":"mobyle-programs","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mobyle-programs","biocontainers__identifiers":["doi:10.1093/bioinformatics/btp493"],"biocontainers__license":"LGPL-2+","biocontainers__summary":"Program descriptions for the mobyle portal"}}
+{"tool_name":"mobyle-programs","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mobyle-programs","identifiers":["doi:10.1093/bioinformatics/btp493"],"license":"LGPL-2+","summary":"Program descriptions for the mobyle portal"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"misopy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"misopy","biocontainers__license":"GPL2","biocontainers__summary":"Mixture of Isoforms model (MISO) for isoform quantitation using RNA-Seq"}}
+{"tool_name":"misopy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"misopy","identifiers":null,"license":"GPL2","summary":"Mixture of Isoforms model (MISO) for isoform quantitation using RNA-Seq"}}}

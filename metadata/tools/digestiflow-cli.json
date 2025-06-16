@@ -1,1 +1,1 @@
-{"tool_name":"digestiflow-cli","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"digestiflow-cli","biocontainers__license":"MIT","biocontainers__summary":"Command line client for Digestiflow."}}
+{"tool_name":"digestiflow-cli","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"digestiflow-cli","identifiers":null,"license":"MIT","summary":"Command line client for Digestiflow."}}}

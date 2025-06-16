@@ -1,1 +1,1 @@
-{"tool_name":"cyushuffle","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"cyushuffle","biocontainers__license":"BSD","biocontainers__summary":"A Cython wrapper over uShuffle - a useful tool for shuffling biological sequences while preserving the k-let counts"}}
+{"tool_name":"cyushuffle","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"cyushuffle","identifiers":null,"license":"BSD","summary":"A Cython wrapper over uShuffle - a useful tool for shuffling biological sequences while preserving the k-let counts"}}}

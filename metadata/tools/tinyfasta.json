@@ -1,1 +1,1 @@
-{"tool_name":"tinyfasta","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"tinyfasta","biocontainers__license":"MIT","biocontainers__summary":"Tiny python package, with no external dependencies, for parsing fasta sequence files."}}
+{"tool_name":"tinyfasta","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"tinyfasta","identifiers":null,"license":"MIT","summary":"Tiny python package, with no external dependencies, for parsing fasta sequence files."}}}

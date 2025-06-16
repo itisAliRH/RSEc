@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-rgraphviz","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-rgraphviz","biocontainers__identifiers":["doi:10.18129/b9.bioc.rgraphviz"],"biocontainers__license":"EPL","biocontainers__summary":"Provides plotting capabilities for R graph objects"}}
+{"tool_name":"bioconductor-rgraphviz","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-rgraphviz","identifiers":["doi:10.18129/b9.bioc.rgraphviz"],"license":"EPL","summary":"Provides plotting capabilities for R graph objects"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-qsmooth","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-qsmooth","biocontainers__identifiers":["doi:10.18129/b9.bioc.qsmooth"],"biocontainers__license":"CC BY 4.0","biocontainers__summary":"Smooth quantile normalization"}}
+{"tool_name":"bioconductor-qsmooth","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-qsmooth","identifiers":["doi:10.18129/b9.bioc.qsmooth"],"license":"CC BY 4.0","summary":"Smooth quantile normalization"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"r-funr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-funr","biocontainers__license":"MIT","biocontainers__summary":"A small utility which wraps Rscript and provides access to all R functions from the shell."}}
+{"tool_name":"r-funr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-funr","identifiers":null,"license":"MIT","summary":"A small utility which wraps Rscript and provides access to all R functions from the shell."}}}

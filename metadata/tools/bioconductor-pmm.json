@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-pmm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-pmm","biocontainers__identifiers":["biotools:pmm","doi:10.3929/ethz-a-010607487"],"biocontainers__license":"GPL-3","biocontainers__summary":"Parallel Mixed Model"}}
+{"tool_name":"bioconductor-pmm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-pmm","identifiers":["biotools:pmm","doi:10.3929/ethz-a-010607487"],"license":"GPL-3","summary":"Parallel Mixed Model"}}}

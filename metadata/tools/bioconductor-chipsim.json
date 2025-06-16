@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-chipsim","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-chipsim","biocontainers__identifiers":["biotools:chipsim","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Simulation of ChIP-seq experiments"}}
+{"tool_name":"bioconductor-chipsim","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-chipsim","identifiers":["biotools:chipsim","doi:10.1038/nmeth.3252"],"license":"GPL (>= 2)","summary":"Simulation of ChIP-seq experiments"}}}

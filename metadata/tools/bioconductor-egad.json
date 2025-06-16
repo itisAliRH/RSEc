@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-egad","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-egad","biocontainers__identifiers":["doi:10.18129/b9.bioc.egad"],"biocontainers__license":"GPL-2","biocontainers__summary":"Extending guilt by association by degree"}}
+{"tool_name":"bioconductor-egad","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-egad","identifiers":["doi:10.18129/b9.bioc.egad"],"license":"GPL-2","summary":"Extending guilt by association by degree"}}}

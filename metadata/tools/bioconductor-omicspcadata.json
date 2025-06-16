@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-omicspcadata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-omicspcadata","biocontainers__identifiers":["doi:10.18129/b9.bioc.omicspcadata"],"biocontainers__license":"GPL-3","biocontainers__summary":"Supporting data for package OMICsPCA"}}
+{"tool_name":"bioconductor-omicspcadata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-omicspcadata","identifiers":["doi:10.18129/b9.bioc.omicspcadata"],"license":"GPL-3","summary":"Supporting data for package OMICsPCA"}}}

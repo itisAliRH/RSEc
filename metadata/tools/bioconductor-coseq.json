@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-coseq","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-coseq","biocontainers__identifiers":["doi:10.18129/b9.bioc.coseq"],"biocontainers__license":"GPL (>=3)","biocontainers__summary":"Co-Expression Analysis of Sequencing Data"}}
+{"tool_name":"bioconductor-coseq","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-coseq","identifiers":["doi:10.18129/b9.bioc.coseq"],"license":"GPL (>=3)","summary":"Co-Expression Analysis of Sequencing Data"}}}

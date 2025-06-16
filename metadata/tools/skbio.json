@@ -1,1 +1,1 @@
-{"tool_name":"skbio","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"skbio","biocontainers__license":"BSD-3-clause","biocontainers__summary":"Python3 data structures, algorithms, educational resources for bioinformatic"}}
+{"tool_name":"skbio","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"skbio","identifiers":null,"license":"BSD-3-clause","summary":"Python3 data structures, algorithms, educational resources for bioinformatic"}}}

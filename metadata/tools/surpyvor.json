@@ -1,1 +1,1 @@
-{"tool_name":"surpyvor","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"surpyvor","biocontainers__identifiers":["doi:10.1101/gr.244939.118"],"biocontainers__license":"MIT","biocontainers__summary":"Evaluating, merging and plotting sv vcf files"}}
+{"tool_name":"surpyvor","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"surpyvor","identifiers":["doi:10.1101/gr.244939.118"],"license":"MIT","summary":"Evaluating, merging and plotting sv vcf files"}}}

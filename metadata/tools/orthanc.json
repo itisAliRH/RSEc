@@ -1,1 +1,1 @@
-{"tool_name":"orthanc","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"orthanc","biocontainers__license":"GPL-3.0+ with OpenSSL exception","biocontainers__summary":"Lightweight, restful dicom server for medical imaging"}}
+{"tool_name":"orthanc","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"orthanc","identifiers":null,"license":"GPL-3.0+ with OpenSSL exception","summary":"Lightweight, restful dicom server for medical imaging"}}}

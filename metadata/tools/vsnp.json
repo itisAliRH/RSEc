@@ -1,1 +1,1 @@
-{"tool_name":"vsnp","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"vsnp","biocontainers__license":"GPL-3.0","biocontainers__summary":"Rapidly call, validate, and compare SNPs from FASTQ files in a timely manner utilizing large data sets."}}
+{"tool_name":"vsnp","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"vsnp","identifiers":null,"license":"GPL-3.0","summary":"Rapidly call, validate, and compare SNPs from FASTQ files in a timely manner utilizing large data sets."}}}

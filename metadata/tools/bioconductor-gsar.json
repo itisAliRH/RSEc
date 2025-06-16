@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-gsar","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-gsar","biocontainers__identifiers":["doi:10.18129/b9.bioc.gsar"],"biocontainers__license":"GPL (>=2)","biocontainers__summary":"Gene Set Analysis in R"}}
+{"tool_name":"bioconductor-gsar","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-gsar","identifiers":["doi:10.18129/b9.bioc.gsar"],"license":"GPL (>=2)","summary":"Gene Set Analysis in R"}}}

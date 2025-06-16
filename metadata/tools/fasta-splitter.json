@@ -1,1 +1,1 @@
-{"tool_name":"fasta-splitter","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fasta-splitter","biocontainers__license":"Not available","biocontainers__summary":"Divides a large fasta file into a set of smaller, approximately equally sized files"}}
+{"tool_name":"fasta-splitter","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fasta-splitter","identifiers":null,"license":"Not available","summary":"Divides a large fasta file into a set of smaller, approximately equally sized files"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"kopt","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"kopt","biocontainers__license":"MIT","biocontainers__summary":"Keras-hyperopt (kopt); Hyper-parameter tuning for Keras using hyperopt."}}
+{"tool_name":"kopt","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"kopt","identifiers":null,"license":"MIT","summary":"Keras-hyperopt (kopt); Hyper-parameter tuning for Keras using hyperopt."}}}

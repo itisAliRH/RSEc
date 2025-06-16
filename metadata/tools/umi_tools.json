@@ -1,1 +1,1 @@
-{"tool_name":"umi_tools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"umi_tools","biocontainers__license":"MIT","biocontainers__summary":"Tools for dealing with unique molecular identifiers"}}
+{"tool_name":"umi_tools","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"umi_tools","identifiers":null,"license":"MIT","summary":"Tools for dealing with unique molecular identifiers"}}}

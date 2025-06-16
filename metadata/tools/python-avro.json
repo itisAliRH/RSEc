@@ -1,1 +1,1 @@
-{"tool_name":"python-avro","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-avro","biocontainers__license":"Not available","biocontainers__summary":"Apache Avro is a data serialization system."}}
+{"tool_name":"python-avro","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python-avro","identifiers":null,"license":"Not available","summary":"Apache Avro is a data serialization system."}}}

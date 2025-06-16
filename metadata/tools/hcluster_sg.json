@@ -1,1 +1,1 @@
-{"tool_name":"hcluster_sg","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"hcluster_sg","biocontainers__license":"GPL-2.0","biocontainers__summary":"A tool for hierarchically clustering on a sparse graph"}}
+{"tool_name":"hcluster_sg","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"hcluster_sg","identifiers":null,"license":"GPL-2.0","summary":"A tool for hierarchically clustering on a sparse graph"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-rnaseqmap","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-rnaseqmap","biocontainers__identifiers":["biotools:rnaseqmap","doi:10.1186/1471-2105-12-200"],"biocontainers__license":"GPL-2","biocontainers__summary":"rnaSeq secondary analyses"}}
+{"tool_name":"bioconductor-rnaseqmap","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-rnaseqmap","identifiers":["biotools:rnaseqmap","doi:10.1186/1471-2105-12-200"],"license":"GPL-2","summary":"rnaSeq secondary analyses"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-elbow","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-elbow","biocontainers__identifiers":["doi:10.18129/b9.bioc.elbow"],"biocontainers__license":"file LICENSE","biocontainers__summary":"ELBOW - Evaluating foLd change By the lOgit Way"}}
+{"tool_name":"bioconductor-elbow","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-elbow","identifiers":["doi:10.18129/b9.bioc.elbow"],"license":"file LICENSE","summary":"ELBOW - Evaluating foLd change By the lOgit Way"}}}

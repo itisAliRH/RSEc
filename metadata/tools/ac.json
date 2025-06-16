@@ -1,1 +1,1 @@
-{"tool_name":"ac","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ac","biocontainers__identifiers":["doi:10.1007/s12539-019-00322-1"],"biocontainers__license":"GPL-3.0","biocontainers__summary":"A lossless compression tool for Amino Acid sequences"}}
+{"tool_name":"ac","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ac","identifiers":["doi:10.1007/s12539-019-00322-1"],"license":"GPL-3.0","summary":"A lossless compression tool for Amino Acid sequences"}}}

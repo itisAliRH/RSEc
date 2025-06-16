@@ -1,1 +1,1 @@
-{"tool_name":"biopet-seqstat","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"biopet-seqstat","biocontainers__license":"MIT","biocontainers__summary":"Seqstats outputs several stats on a fastq file."}}
+{"tool_name":"biopet-seqstat","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"biopet-seqstat","identifiers":null,"license":"MIT","summary":"Seqstats outputs several stats on a fastq file."}}}

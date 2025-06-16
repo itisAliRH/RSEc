@@ -1,1 +1,1 @@
-{"tool_name":"eukrep","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"eukrep","biocontainers__identifiers":["doi:10.1101/171355"],"biocontainers__license":"MIT","biocontainers__summary":"Classification of eukaryotic and prokaryotic sequences from metagenomic datasets"}}
+{"tool_name":"eukrep","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"eukrep","identifiers":["doi:10.1101/171355"],"license":"MIT","summary":"Classification of eukaryotic and prokaryotic sequences from metagenomic datasets"}}}

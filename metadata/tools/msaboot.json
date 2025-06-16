@@ -1,1 +1,1 @@
-{"tool_name":"msaboot","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"msaboot","biocontainers__license":"Apache-2.0","biocontainers__summary":"Generate bootstrapping replicates for multiple sequence alignment data."}}
+{"tool_name":"msaboot","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"msaboot","identifiers":null,"license":"Apache-2.0","summary":"Generate bootstrapping replicates for multiple sequence alignment data."}}}

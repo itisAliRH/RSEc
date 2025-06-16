@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-chipexoqual","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-chipexoqual","biocontainers__identifiers":["doi:10.18129/b9.bioc.chipexoqual"],"biocontainers__license":"GPL (>=2)","biocontainers__summary":"ChIPexoQual"}}
+{"tool_name":"bioconductor-chipexoqual","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-chipexoqual","identifiers":["doi:10.18129/b9.bioc.chipexoqual"],"license":"GPL (>=2)","summary":"ChIPexoQual"}}}

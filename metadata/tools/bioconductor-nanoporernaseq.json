@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-nanoporernaseq","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-nanoporernaseq","biocontainers__identifiers":["doi:10.18129/b9.bioc.nanoporernaseq"],"biocontainers__license":"Not available","biocontainers__summary":"Nanopore rna-seq example data"}}
+{"tool_name":"bioconductor-nanoporernaseq","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-nanoporernaseq","identifiers":["doi:10.18129/b9.bioc.nanoporernaseq"],"license":"Not available","summary":"Nanopore rna-seq example data"}}}

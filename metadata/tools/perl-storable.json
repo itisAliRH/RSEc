@@ -1,1 +1,1 @@
-{"tool_name":"perl-storable","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-storable","biocontainers__license":"perl_5","biocontainers__summary":"persistence for Perl data structures"}}
+{"tool_name":"perl-storable","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-storable","identifiers":null,"license":"perl_5","summary":"persistence for Perl data structures"}}}

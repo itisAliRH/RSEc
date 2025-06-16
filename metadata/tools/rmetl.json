@@ -1,1 +1,1 @@
-{"tool_name":"rmetl","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"rmetl","biocontainers__identifiers":["doi:10.1093/bioinformatics/btz106"],"biocontainers__license":"MIT","biocontainers__summary":"rMETL is a realignment-based Mobile Element insertion detection Tool for Long read"}}
+{"tool_name":"rmetl","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"rmetl","identifiers":["doi:10.1093/bioinformatics/btz106"],"license":"MIT","summary":"rMETL is a realignment-based Mobile Element insertion detection Tool for Long read"}}}

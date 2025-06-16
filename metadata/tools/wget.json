@@ -1,1 +1,1 @@
-{"tool_name":"wget","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"wget","biocontainers__license":"GPL-3.0","biocontainers__summary":"utility for non-interactive download of files from the Web"}}
+{"tool_name":"wget","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"wget","identifiers":null,"license":"GPL-3.0","summary":"utility for non-interactive download of files from the Web"}}}

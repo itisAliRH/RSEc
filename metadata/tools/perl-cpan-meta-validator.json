@@ -1,1 +1,1 @@
-{"tool_name":"perl-cpan-meta-validator","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-cpan-meta-validator","biocontainers__license":"perl_5","biocontainers__summary":"Validate cpan distribution metadata structures"}}
+{"tool_name":"perl-cpan-meta-validator","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-cpan-meta-validator","identifiers":null,"license":"perl_5","summary":"Validate cpan distribution metadata structures"}}}

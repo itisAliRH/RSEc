@@ -1,1 +1,1 @@
-{"tool_name":"perl-autoloader","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-autoloader","biocontainers__license":"perl_5","biocontainers__summary":"Load subroutines only on demand"}}
+{"tool_name":"perl-autoloader","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-autoloader","identifiers":null,"license":"perl_5","summary":"Load subroutines only on demand"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"ctdconverter","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ctdconverter","biocontainers__license":"custom, see /usr/share/doc/ctdconverter/copyright","biocontainers__summary":"Convert ctd files into galaxy tool and cwl commandlinetool files"}}
+{"tool_name":"ctdconverter","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ctdconverter","identifiers":null,"license":"custom, see /usr/share/doc/ctdconverter/copyright","summary":"Convert ctd files into galaxy tool and cwl commandlinetool files"}}}

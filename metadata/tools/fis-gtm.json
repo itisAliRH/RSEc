@@ -1,1 +1,1 @@
-{"tool_name":"fis-gtm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fis-gtm","biocontainers__license":"AGPL-3.0","biocontainers__summary":"Metapackage for the latest version of fis-gt.m database"}}
+{"tool_name":"fis-gtm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fis-gtm","identifiers":null,"license":"AGPL-3.0","summary":"Metapackage for the latest version of fis-gt.m database"}}}

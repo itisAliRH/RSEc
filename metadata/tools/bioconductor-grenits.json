@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-grenits","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-grenits","biocontainers__identifiers":["doi:10.18129/b9.bioc.grenits"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Gene Regulatory Network Inference Using Time Series"}}
+{"tool_name":"bioconductor-grenits","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-grenits","identifiers":["doi:10.18129/b9.bioc.grenits"],"license":"GPL (>= 2)","summary":"Gene Regulatory Network Inference Using Time Series"}}}

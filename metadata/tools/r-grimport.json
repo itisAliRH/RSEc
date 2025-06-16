@@ -1,1 +1,1 @@
-{"tool_name":"r-grimport","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-grimport","biocontainers__license":"GPL-2.","biocontainers__summary":"Functions for converting, importing, and drawing PostScript pictures in R plots."}}
+{"tool_name":"r-grimport","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-grimport","identifiers":null,"license":"GPL-2.","summary":"Functions for converting, importing, and drawing PostScript pictures in R plots."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-mozilla-ca","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-mozilla-ca","biocontainers__license":"Not available","biocontainers__summary":"Mozilla's ca cert bundle in pem format"}}
+{"tool_name":"perl-mozilla-ca","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-mozilla-ca","identifiers":null,"license":"Not available","summary":"Mozilla's ca cert bundle in pem format"}}}

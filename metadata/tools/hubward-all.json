@@ -1,1 +1,1 @@
-{"tool_name":"hubward-all","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"hubward-all","biocontainers__license":"The license for this meta-package is MIT; individual tools vary","biocontainers__summary":"Meta-package for hubward including bedtools and UCSC tools"}}
+{"tool_name":"hubward-all","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"hubward-all","identifiers":null,"license":"The license for this meta-package is MIT; individual tools vary","summary":"Meta-package for hubward including bedtools and UCSC tools"}}}

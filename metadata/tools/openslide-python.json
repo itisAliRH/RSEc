@@ -1,1 +1,1 @@
-{"tool_name":"openslide-python","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"openslide-python","biocontainers__license":"GNU Lesser General Public v2 (LGPLv2)","biocontainers__summary":"Python interface to OpenSlide"}}
+{"tool_name":"openslide-python","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"openslide-python","identifiers":null,"license":"GNU Lesser General Public v2 (LGPLv2)","summary":"Python interface to OpenSlide"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-base","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-base","biocontainers__license":"perl_5","biocontainers__summary":"base - Establish an ISA relationship with base classes at compile time"}}
+{"tool_name":"perl-base","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-base","identifiers":null,"license":"perl_5","summary":"base - Establish an ISA relationship with base classes at compile time"}}}

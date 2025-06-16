@@ -1,1 +1,1 @@
-{"tool_name":"dropbox","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"dropbox","biocontainers__license":"https://raw.githubusercontent.com/dropbox/dropbox-sdk-python/master/LICENSE","biocontainers__summary":"Official Dropbox API Client"}}
+{"tool_name":"dropbox","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"dropbox","identifiers":null,"license":"https://raw.githubusercontent.com/dropbox/dropbox-sdk-python/master/LICENSE","summary":"Official Dropbox API Client"}}}

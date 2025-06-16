@@ -1,1 +1,1 @@
-{"tool_name":"perl-term-encoding","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-term-encoding","biocontainers__license":"perl_5","biocontainers__summary":"Detect encoding of the current terminal"}}
+{"tool_name":"perl-term-encoding","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-term-encoding","identifiers":null,"license":"perl_5","summary":"Detect encoding of the current terminal"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"anchore-cli","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"anchore-cli","biocontainers__license":"Apache-2.0","biocontainers__summary":"The Anchore CLI provides a command line interface on top of the Anchore Engine REST API."}}
+{"tool_name":"anchore-cli","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"anchore-cli","identifiers":null,"license":"Apache-2.0","summary":"The Anchore CLI provides a command line interface on top of the Anchore Engine REST API."}}}

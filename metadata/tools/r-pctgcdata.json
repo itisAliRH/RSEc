@@ -1,1 +1,1 @@
-{"tool_name":"r-pctgcdata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-pctgcdata","biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Provides GC percentage of a 1 kilobase window at a genomic position for different"}}
+{"tool_name":"r-pctgcdata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-pctgcdata","identifiers":null,"license":"GPL (>= 2)","summary":"Provides GC percentage of a 1 kilobase window at a genomic position for different"}}}

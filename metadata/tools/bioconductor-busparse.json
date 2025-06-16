@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-busparse","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-busparse","biocontainers__identifiers":["doi:10.18129/b9.bioc.busparse"],"biocontainers__license":"BSD_2_clause","biocontainers__summary":"kallisto | bustools R utilities"}}
+{"tool_name":"bioconductor-busparse","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-busparse","identifiers":["doi:10.18129/b9.bioc.busparse"],"license":"BSD_2_clause","summary":"kallisto | bustools R utilities"}}}

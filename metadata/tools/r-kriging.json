@@ -1,1 +1,1 @@
-{"tool_name":"r-kriging","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-kriging","biocontainers__license":"GPL-2","biocontainers__summary":"Simple and highly optimized ordinary kriging algorithm to plot geographical data"}}
+{"tool_name":"r-kriging","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-kriging","identifiers":null,"license":"GPL-2","summary":"Simple and highly optimized ordinary kriging algorithm to plot geographical data"}}}

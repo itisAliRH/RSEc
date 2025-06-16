@@ -1,1 +1,1 @@
-{"tool_name":"asqcan","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"asqcan","biocontainers__license":"GPL-3.","biocontainers__summary":"A combined pipeline for bacterial genome assembly, quality control and annotation"}}
+{"tool_name":"asqcan","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"asqcan","identifiers":null,"license":"GPL-3.","summary":"A combined pipeline for bacterial genome assembly, quality control and annotation"}}}

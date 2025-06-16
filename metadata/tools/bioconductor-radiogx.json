@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-radiogx","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-radiogx","biocontainers__identifiers":["doi:10.1093/bioinformatics/btv723"],"biocontainers__license":"GPL-3","biocontainers__summary":"Analysis of Large-Scale Radio-Genomic Data"}}
+{"tool_name":"bioconductor-radiogx","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-radiogx","identifiers":["doi:10.1093/bioinformatics/btv723"],"license":"GPL-3","summary":"Analysis of Large-Scale Radio-Genomic Data"}}}

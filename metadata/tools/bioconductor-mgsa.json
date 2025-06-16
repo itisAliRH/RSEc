@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-mgsa","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-mgsa","biocontainers__identifiers":["biotools:mgsa","doi:10.1093/nar/gkq045"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Model-based gene set analysis"}}
+{"tool_name":"bioconductor-mgsa","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-mgsa","identifiers":["biotools:mgsa","doi:10.1093/nar/gkq045"],"license":"Artistic-2.0","summary":"Model-based gene set analysis"}}}

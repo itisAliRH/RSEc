@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-evaluomer","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-evaluomer","biocontainers__identifiers":["doi:10.18129/b9.bioc.evaluomer"],"biocontainers__license":"GPL-3","biocontainers__summary":"Evaluation of Bioinformatics Metrics"}}
+{"tool_name":"bioconductor-evaluomer","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-evaluomer","identifiers":["doi:10.18129/b9.bioc.evaluomer"],"license":"GPL-3","summary":"Evaluation of Bioinformatics Metrics"}}}

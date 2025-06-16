@@ -1,1 +1,1 @@
-{"tool_name":"picard-tools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"picard-tools","biocontainers__license":"MIT","biocontainers__summary":"Command line tools to manipulate sam and bam files"}}
+{"tool_name":"picard-tools","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"picard-tools","identifiers":null,"license":"MIT","summary":"Command line tools to manipulate sam and bam files"}}}

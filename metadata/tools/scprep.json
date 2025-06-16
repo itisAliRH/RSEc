@@ -1,1 +1,1 @@
-{"tool_name":"scprep","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"scprep","biocontainers__license":"GPL-3.0","biocontainers__summary":"Tools for loading and preprocessing biological matrices in python."}}
+{"tool_name":"scprep","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"scprep","identifiers":null,"license":"GPL-3.0","summary":"Tools for loading and preprocessing biological matrices in python."}}}

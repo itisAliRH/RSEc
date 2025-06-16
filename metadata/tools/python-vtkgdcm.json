@@ -1,1 +1,1 @@
-{"tool_name":"python-vtkgdcm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-vtkgdcm","biocontainers__license":"BSD-3-clause-alike-CREATIS","biocontainers__summary":"Grassroots dicom vtk/python bindings"}}
+{"tool_name":"python-vtkgdcm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python-vtkgdcm","identifiers":null,"license":"BSD-3-clause-alike-CREATIS","summary":"Grassroots dicom vtk/python bindings"}}}

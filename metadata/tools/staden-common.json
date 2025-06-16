@@ -1,1 +1,1 @@
-{"tool_name":"staden-common","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"staden-common","biocontainers__license":"BSD-like","biocontainers__summary":"Architecture independent files for staden"}}
+{"tool_name":"staden-common","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"staden-common","identifiers":null,"license":"BSD-like","summary":"Architecture independent files for staden"}}}

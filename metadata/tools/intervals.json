@@ -1,1 +1,1 @@
-{"tool_name":"intervals","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"intervals","biocontainers__license":"BSD License","biocontainers__summary":"Python tools for handling intervals (ranges of comparable objects)."}}
+{"tool_name":"intervals","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"intervals","identifiers":null,"license":"BSD License","summary":"Python tools for handling intervals (ranges of comparable objects)."}}}

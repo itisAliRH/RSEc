@@ -1,1 +1,1 @@
-{"tool_name":"ctseq","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ctseq","biocontainers__license":"Not available","biocontainers__summary":"Ctseq is a pipeline to analyze methylation patch pcr data"}}
+{"tool_name":"ctseq","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ctseq","identifiers":null,"license":"Not available","summary":"Ctseq is a pipeline to analyze methylation patch pcr data"}}}

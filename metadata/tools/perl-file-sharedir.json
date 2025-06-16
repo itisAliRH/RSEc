@@ -1,1 +1,1 @@
-{"tool_name":"perl-file-sharedir","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-file-sharedir","biocontainers__license":"perl_5","biocontainers__summary":"Locate per-dist and per-module shared files"}}
+{"tool_name":"perl-file-sharedir","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-file-sharedir","identifiers":null,"license":"perl_5","summary":"Locate per-dist and per-module shared files"}}}

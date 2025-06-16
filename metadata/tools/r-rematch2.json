@@ -1,1 +1,1 @@
-{"tool_name":"r-rematch2","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-rematch2","biocontainers__license":"MIT","biocontainers__summary":"Wrappers on 'regexpr' and 'gregexpr' to return the match results in tidy data frames."}}
+{"tool_name":"r-rematch2","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-rematch2","identifiers":null,"license":"MIT","summary":"Wrappers on 'regexpr' and 'gregexpr' to return the match results in tidy data frames."}}}

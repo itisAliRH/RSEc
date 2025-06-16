@@ -1,1 +1,1 @@
-{"tool_name":"fml-asm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fml-asm","biocontainers__license":"MIT","biocontainers__summary":"Tool for assembling illumina short reads in small regions"}}
+{"tool_name":"fml-asm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fml-asm","identifiers":null,"license":"MIT","summary":"Tool for assembling illumina short reads in small regions"}}}

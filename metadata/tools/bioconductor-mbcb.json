@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-mbcb","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-mbcb","biocontainers__identifiers":["doi:10.18129/b9.bioc.mbcb"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"MBCB (Model-based Background Correction for Beadarray)"}}
+{"tool_name":"bioconductor-mbcb","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-mbcb","identifiers":["doi:10.18129/b9.bioc.mbcb"],"license":"GPL (>= 2)","summary":"MBCB (Model-based Background Correction for Beadarray)"}}}

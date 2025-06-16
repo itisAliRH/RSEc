@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-biscuiteerdata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-biscuiteerdata","biocontainers__identifiers":["doi:10.18129/b9.bioc.biscuiteerdata"],"biocontainers__license":"GPL-3","biocontainers__summary":"Data Package for Biscuiteer"}}
+{"tool_name":"bioconductor-biscuiteerdata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-biscuiteerdata","identifiers":["doi:10.18129/b9.bioc.biscuiteerdata"],"license":"GPL-3","summary":"Data Package for Biscuiteer"}}}

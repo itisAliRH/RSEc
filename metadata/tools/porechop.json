@@ -1,1 +1,1 @@
-{"tool_name":"porechop","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"porechop","biocontainers__identifiers":[{"doi":null}],"biocontainers__license":"GPL-3.0+","biocontainers__summary":"Adapter trimmer for oxford nanopore reads"}}
+{"tool_name":"porechop","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"porechop","identifiers":[{"doi":null}],"license":"GPL-3.0+","summary":"Adapter trimmer for oxford nanopore reads"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"yasm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"yasm","biocontainers__license":"BSD","biocontainers__summary":"Yasm is a complete rewrite of the NASM assembler under the \"new\" BSD License"}}
+{"tool_name":"yasm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"yasm","identifiers":null,"license":"BSD","summary":"Yasm is a complete rewrite of the NASM assembler under the \"new\" BSD License"}}}

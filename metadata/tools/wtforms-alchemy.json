@@ -1,1 +1,1 @@
-{"tool_name":"wtforms-alchemy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"wtforms-alchemy","biocontainers__license":"Not available","biocontainers__summary":"Generates wtforms forms from sqlalchemy models."}}
+{"tool_name":"wtforms-alchemy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"wtforms-alchemy","identifiers":null,"license":"Not available","summary":"Generates wtforms forms from sqlalchemy models."}}}

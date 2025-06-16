@@ -1,1 +1,1 @@
-{"tool_name":"kalign3","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"kalign3","biocontainers__identifiers":["doi:10.1093/bioinformatics/btz795"],"biocontainers__license":"GPL-2.0","biocontainers__summary":"Kalign is a fast and accurate multiple sequence alignment algorithm."}}
+{"tool_name":"kalign3","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"kalign3","identifiers":["doi:10.1093/bioinformatics/btz795"],"license":"GPL-2.0","summary":"Kalign is a fast and accurate multiple sequence alignment algorithm."}}}

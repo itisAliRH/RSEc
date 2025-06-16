@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-clumsiddata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-clumsiddata","biocontainers__identifiers":["doi:10.18129/b9.bioc.clumsiddata"],"biocontainers__license":"MIT","biocontainers__summary":"Data for the clumsid package"}}
+{"tool_name":"bioconductor-clumsiddata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-clumsiddata","identifiers":["doi:10.18129/b9.bioc.clumsiddata"],"license":"MIT","summary":"Data for the clumsid package"}}}

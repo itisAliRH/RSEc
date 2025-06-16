@@ -1,1 +1,1 @@
-{"tool_name":"perl-filedirutil","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-filedirutil","biocontainers__license":"agpl_3","biocontainers__summary":"A moose role for basic file io"}}
+{"tool_name":"perl-filedirutil","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-filedirutil","identifiers":null,"license":"agpl_3","summary":"A moose role for basic file io"}}}

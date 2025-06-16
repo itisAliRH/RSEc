@@ -1,1 +1,1 @@
-{"tool_name":"piler-cr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"piler-cr","biocontainers__identifiers":["doi:10.1186/1471-2105-8-18"],"biocontainers__license":"Public Domain","biocontainers__summary":"Identification and analysis of CRISPR repeats."}}
+{"tool_name":"piler-cr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"piler-cr","identifiers":["doi:10.1186/1471-2105-8-18"],"license":"Public Domain","summary":"Identification and analysis of CRISPR repeats."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"picard-slim","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"picard-slim","biocontainers__license":"MIT","biocontainers__summary":"Java tools for working with ngs data in the bam format."}}
+{"tool_name":"picard-slim","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"picard-slim","identifiers":null,"license":"MIT","summary":"Java tools for working with ngs data in the bam format."}}}

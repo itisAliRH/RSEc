@@ -1,1 +1,1 @@
-{"tool_name":"r-umi4c","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-umi4c","biocontainers__license":"GPL","biocontainers__summary":"Process UMI-4C data from scratch to produce nice plots."}}
+{"tool_name":"r-umi4c","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-umi4c","identifiers":null,"license":"GPL","summary":"Process UMI-4C data from scratch to produce nice plots."}}}

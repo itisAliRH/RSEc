@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-rhdf5client","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-rhdf5client","biocontainers__identifiers":["doi:10.18129/b9.bioc.rhdf5client"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Access HDF5 content from h5serv"}}
+{"tool_name":"bioconductor-rhdf5client","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-rhdf5client","identifiers":["doi:10.18129/b9.bioc.rhdf5client"],"license":"Artistic-2.0","summary":"Access HDF5 content from h5serv"}}}

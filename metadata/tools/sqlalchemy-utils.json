@@ -1,1 +1,1 @@
-{"tool_name":"sqlalchemy-utils","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sqlalchemy-utils","biocontainers__license":"BSD License","biocontainers__summary":"Various utility functions for SQLAlchemy."}}
+{"tool_name":"sqlalchemy-utils","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sqlalchemy-utils","identifiers":null,"license":"BSD License","summary":"Various utility functions for SQLAlchemy."}}}

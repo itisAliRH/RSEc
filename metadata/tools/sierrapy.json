@@ -1,1 +1,1 @@
-{"tool_name":"sierrapy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sierrapy","biocontainers__license":"MIT","biocontainers__summary":"A client of hivdb sierra graphql webservice."}}
+{"tool_name":"sierrapy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sierrapy","identifiers":null,"license":"MIT","summary":"A client of hivdb sierra graphql webservice."}}}

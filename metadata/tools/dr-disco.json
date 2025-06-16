@@ -1,1 +1,1 @@
-{"tool_name":"dr-disco","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"dr-disco","biocontainers__license":"GPL-3.0","biocontainers__summary":"Dr. Disco: fusion gene and genomic breakpoint detection in random hexamer"}}
+{"tool_name":"dr-disco","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"dr-disco","identifiers":null,"license":"GPL-3.0","summary":"Dr. Disco: fusion gene and genomic breakpoint detection in random hexamer"}}}

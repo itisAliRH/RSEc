@@ -1,1 +1,1 @@
-{"tool_name":"python-intervaltree","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-intervaltree","biocontainers__license":"Apache-2.0","biocontainers__summary":"Faster than intervaltree_bio"}}
+{"tool_name":"python-intervaltree","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python-intervaltree","identifiers":null,"license":"Apache-2.0","summary":"Faster than intervaltree_bio"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-filesys-df","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-filesys-df","biocontainers__license":"Not available","biocontainers__summary":"Perl extension for filesystem disk space information."}}
+{"tool_name":"perl-filesys-df","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-filesys-df","identifiers":null,"license":"Not available","summary":"Perl extension for filesystem disk space information."}}}

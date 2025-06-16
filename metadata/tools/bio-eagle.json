@@ -1,1 +1,1 @@
-{"tool_name":"bio-eagle","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bio-eagle","biocontainers__license":"GPL-3.0+","biocontainers__summary":"Haplotype phasing within a genotyped cohort or using a phased reference panel"}}
+{"tool_name":"bio-eagle","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bio-eagle","identifiers":null,"license":"GPL-3.0+","summary":"Haplotype phasing within a genotyped cohort or using a phased reference panel"}}}

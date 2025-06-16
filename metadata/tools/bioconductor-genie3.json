@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-genie3","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-genie3","biocontainers__identifiers":["doi:10.18129/b9.bioc.genie3"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"GEne Network Inference with Ensemble of trees"}}
+{"tool_name":"bioconductor-genie3","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-genie3","identifiers":["doi:10.18129/b9.bioc.genie3"],"license":"GPL (>= 2)","summary":"GEne Network Inference with Ensemble of trees"}}}

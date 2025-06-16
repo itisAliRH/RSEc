@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-diffhic","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-diffhic","biocontainers__identifiers":["doi:10.18129/b9.bioc.diffhic"],"biocontainers__license":"GPL-3","biocontainers__summary":"Differential Analyis of Hi-C Data"}}
+{"tool_name":"bioconductor-diffhic","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-diffhic","identifiers":["doi:10.18129/b9.bioc.diffhic"],"license":"GPL-3","summary":"Differential Analyis of Hi-C Data"}}}

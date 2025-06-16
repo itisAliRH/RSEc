@@ -1,1 +1,1 @@
-{"tool_name":"illumina-interop","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"illumina-interop","biocontainers__license":"GPL-3.0","biocontainers__summary":"The Illumina InterOp libraries are a set of common routines used for reading"}}
+{"tool_name":"illumina-interop","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"illumina-interop","identifiers":null,"license":"GPL-3.0","summary":"The Illumina InterOp libraries are a set of common routines used for reading"}}}

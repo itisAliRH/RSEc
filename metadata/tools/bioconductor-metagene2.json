@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-metagene2","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-metagene2","biocontainers__identifiers":["doi:10.18129/b9.bioc.metagene2"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"A package to produce metagene plots"}}
+{"tool_name":"bioconductor-metagene2","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-metagene2","identifiers":["doi:10.18129/b9.bioc.metagene2"],"license":"Artistic-2.0","summary":"A package to produce metagene plots"}}}

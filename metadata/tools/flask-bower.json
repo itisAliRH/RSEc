@@ -1,1 +1,1 @@
-{"tool_name":"flask-bower","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"flask-bower","biocontainers__license":"GPL-2.0","biocontainers__summary":"An extension to manage and serve your javascript assets with bower"}}
+{"tool_name":"flask-bower","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"flask-bower","identifiers":null,"license":"GPL-2.0","summary":"An extension to manage and serve your javascript assets with bower"}}}

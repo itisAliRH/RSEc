@@ -1,1 +1,1 @@
-{"tool_name":"mmvc","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mmvc","biocontainers__license":"MIT","biocontainers__summary":"Call variants based on a bayesian multinomial mixture model."}}
+{"tool_name":"mmvc","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mmvc","identifiers":null,"license":"MIT","summary":"Call variants based on a bayesian multinomial mixture model."}}}

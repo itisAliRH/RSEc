@@ -1,1 +1,1 @@
-{"tool_name":"bolt-lmm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bolt-lmm","biocontainers__license":"custom, see /usr/share/doc/bolt-lmm/copyright","biocontainers__summary":"Efficient large cohorts genome-wide bayesian mixed-model association testing"}}
+{"tool_name":"bolt-lmm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bolt-lmm","identifiers":null,"license":"custom, see /usr/share/doc/bolt-lmm/copyright","summary":"Efficient large cohorts genome-wide bayesian mixed-model association testing"}}}

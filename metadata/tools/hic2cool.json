@@ -1,1 +1,1 @@
-{"tool_name":"hic2cool","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"hic2cool","biocontainers__license":"MIT","biocontainers__summary":"A converter between .hic files (from juicer) and .cool files (for cooler)."}}
+{"tool_name":"hic2cool","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"hic2cool","identifiers":null,"license":"MIT","summary":"A converter between .hic files (from juicer) and .cool files (for cooler)."}}}

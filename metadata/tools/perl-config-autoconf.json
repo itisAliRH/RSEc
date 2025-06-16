@@ -1,1 +1,1 @@
-{"tool_name":"perl-config-autoconf","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-config-autoconf","biocontainers__license":"perl_5","biocontainers__summary":"A module to implement some of AutoConf macros in pure perl."}}
+{"tool_name":"perl-config-autoconf","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-config-autoconf","identifiers":null,"license":"perl_5","summary":"A module to implement some of AutoConf macros in pure perl."}}}

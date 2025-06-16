@@ -1,1 +1,1 @@
-{"tool_name":"connor","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"connor","biocontainers__license":"Apache-2.0","biocontainers__summary":"A command-line tool to deduplicate bam files based on custom, inline barcoding."}}
+{"tool_name":"connor","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"connor","identifiers":null,"license":"Apache-2.0","summary":"A command-line tool to deduplicate bam files based on custom, inline barcoding."}}}

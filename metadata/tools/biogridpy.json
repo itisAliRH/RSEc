@@ -1,1 +1,1 @@
-{"tool_name":"biogridpy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"biogridpy","biocontainers__license":"MIT","biocontainers__summary":"Python client for the biogrid rest api webservice"}}
+{"tool_name":"biogridpy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"biogridpy","identifiers":null,"license":"MIT","summary":"Python client for the biogrid rest api webservice"}}}

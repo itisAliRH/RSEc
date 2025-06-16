@@ -1,1 +1,1 @@
-{"tool_name":"r-knitrbootstrap","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-knitrbootstrap","biocontainers__license":"MIT","biocontainers__summary":"A framework to create Bootstrap 3 HTML reports from knitr Rmarkdown."}}
+{"tool_name":"r-knitrbootstrap","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-knitrbootstrap","identifiers":null,"license":"MIT","summary":"A framework to create Bootstrap 3 HTML reports from knitr Rmarkdown."}}}

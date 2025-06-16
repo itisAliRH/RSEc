@@ -1,1 +1,1 @@
-{"tool_name":"python3-fastcluster","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python3-fastcluster","biocontainers__license":"BSD","biocontainers__summary":"Fast hierarchical clustering routines for Python 3"}}
+{"tool_name":"python3-fastcluster","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python3-fastcluster","identifiers":null,"license":"BSD","summary":"Fast hierarchical clustering routines for Python 3"}}}

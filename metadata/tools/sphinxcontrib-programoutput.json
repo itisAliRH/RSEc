@@ -1,1 +1,1 @@
-{"tool_name":"sphinxcontrib-programoutput","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sphinxcontrib-programoutput","biocontainers__license":"BSD License","biocontainers__summary":"Sphinx extension to include program output"}}
+{"tool_name":"sphinxcontrib-programoutput","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sphinxcontrib-programoutput","identifiers":null,"license":"BSD License","summary":"Sphinx extension to include program output"}}}

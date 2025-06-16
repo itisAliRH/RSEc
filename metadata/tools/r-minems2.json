@@ -1,1 +1,1 @@
-{"tool_name":"r-minems2","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-minems2","biocontainers__license":"GPL-3.0","biocontainers__summary":"Mine MS-MS spectra using a frequent usbgraph mining approach."}}
+{"tool_name":"r-minems2","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-minems2","identifiers":null,"license":"GPL-3.0","summary":"Mine MS-MS spectra using a frequent usbgraph mining approach."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"oncopipe","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"oncopipe","biocontainers__license":"Not available","biocontainers__summary":"Functions for running snakemake modules"}}
+{"tool_name":"oncopipe","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"oncopipe","identifiers":null,"license":"Not available","summary":"Functions for running snakemake modules"}}}

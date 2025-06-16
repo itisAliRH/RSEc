@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-pubscore","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-pubscore","biocontainers__identifiers":["doi:10.18129/b9.bioc.pubscore"],"biocontainers__license":"MIT","biocontainers__summary":"Automatic calculation of literature relevance of genes"}}
+{"tool_name":"bioconductor-pubscore","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-pubscore","identifiers":["doi:10.18129/b9.bioc.pubscore"],"license":"MIT","summary":"Automatic calculation of literature relevance of genes"}}}

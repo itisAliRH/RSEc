@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-dart","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-dart","biocontainers__identifiers":["doi:10.18129/b9.bioc.dart"],"biocontainers__license":"GPL-2","biocontainers__summary":"Denoising Algorithm based on Relevance network Topology"}}
+{"tool_name":"bioconductor-dart","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-dart","identifiers":["doi:10.18129/b9.bioc.dart"],"license":"GPL-2","summary":"Denoising Algorithm based on Relevance network Topology"}}}

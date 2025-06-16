@@ -1,1 +1,1 @@
-{"tool_name":"gvcf2bed","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"gvcf2bed","biocontainers__license":"MIT","biocontainers__summary":"Convert gVCF into BED"}}
+{"tool_name":"gvcf2bed","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"gvcf2bed","identifiers":null,"license":"MIT","summary":"Convert gVCF into BED"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-try-tiny-retry","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-try-tiny-retry","biocontainers__license":"Apache-2.0","biocontainers__summary":"Just like try::tiny, but with retry instead of try."}}
+{"tool_name":"perl-try-tiny-retry","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-try-tiny-retry","identifiers":null,"license":"Apache-2.0","summary":"Just like try::tiny, but with retry instead of try."}}}

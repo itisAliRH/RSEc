@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-chipxpressdata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-chipxpressdata","biocontainers__identifiers":["doi:10.18129/b9.bioc.chipxpressdata"],"biocontainers__license":"GPL (>=2)","biocontainers__summary":"ChIPXpress Pre-built Databases"}}
+{"tool_name":"bioconductor-chipxpressdata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-chipxpressdata","identifiers":["doi:10.18129/b9.bioc.chipxpressdata"],"license":"GPL (>=2)","summary":"ChIPXpress Pre-built Databases"}}}

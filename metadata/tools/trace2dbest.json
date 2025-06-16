@@ -1,1 +1,1 @@
-{"tool_name":"trace2dbest","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"trace2dbest","biocontainers__license":"GPL-2.0","biocontainers__summary":"Bulk submission of chromatogram data to dbest"}}
+{"tool_name":"trace2dbest","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"trace2dbest","identifiers":null,"license":"GPL-2.0","summary":"Bulk submission of chromatogram data to dbest"}}}

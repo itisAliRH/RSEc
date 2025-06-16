@@ -1,1 +1,1 @@
-{"tool_name":"quicksect","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"quicksect","biocontainers__license":"MIT","biocontainers__summary":"A cythonized, extended version of the interval search tree in bx"}}
+{"tool_name":"quicksect","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"quicksect","identifiers":null,"license":"MIT","summary":"A cythonized, extended version of the interval search tree in bx"}}}

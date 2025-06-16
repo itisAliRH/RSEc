@@ -1,1 +1,1 @@
-{"tool_name":"perl-file-share","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-file-share","biocontainers__license":"Not available","biocontainers__summary":"Extend file::sharedir to local libraries"}}
+{"tool_name":"perl-file-share","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-file-share","identifiers":null,"license":"Not available","summary":"Extend file::sharedir to local libraries"}}}

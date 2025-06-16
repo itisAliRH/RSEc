@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-prodata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-prodata","biocontainers__identifiers":["doi:10.18129/b9.bioc.prodata"],"biocontainers__license":"GPL","biocontainers__summary":"SELDI-TOF data of Breast cancer samples"}}
+{"tool_name":"bioconductor-prodata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-prodata","identifiers":["doi:10.18129/b9.bioc.prodata"],"license":"GPL","summary":"SELDI-TOF data of Breast cancer samples"}}}

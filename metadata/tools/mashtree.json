@@ -1,1 +1,1 @@
-{"tool_name":"mashtree","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mashtree","biocontainers__identifiers":["doi:10.21105/joss.01762"],"biocontainers__license":"GPL-3.0","biocontainers__summary":"Create a tree using Mash distances"}}
+{"tool_name":"mashtree","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mashtree","identifiers":["doi:10.21105/joss.01762"],"license":"GPL-3.0","summary":"Create a tree using Mash distances"}}}

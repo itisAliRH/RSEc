@@ -1,1 +1,1 @@
-{"tool_name":"brockman-pipeline","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"brockman-pipeline","biocontainers__license":"GNU General Public License v3.0","biocontainers__summary":"Brockman representation of chromatin by k-mers in mark-associated nucleotides"}}
+{"tool_name":"brockman-pipeline","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"brockman-pipeline","identifiers":null,"license":"GNU General Public License v3.0","summary":"Brockman representation of chromatin by k-mers in mark-associated nucleotides"}}}

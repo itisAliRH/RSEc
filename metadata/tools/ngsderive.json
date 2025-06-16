@@ -1,1 +1,1 @@
-{"tool_name":"ngsderive","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ngsderive","biocontainers__license":"MIT","biocontainers__summary":"Backwards derive attributes from ngs data"}}
+{"tool_name":"ngsderive","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ngsderive","identifiers":null,"license":"MIT","summary":"Backwards derive attributes from ngs data"}}}

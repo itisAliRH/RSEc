@@ -1,1 +1,1 @@
-{"tool_name":"mysqlclient","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mysqlclient","biocontainers__license":"GNU General Public License (GPL)","biocontainers__summary":"Python interface to MySQL"}}
+{"tool_name":"mysqlclient","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mysqlclient","identifiers":null,"license":"GNU General Public License (GPL)","summary":"Python interface to MySQL"}}}

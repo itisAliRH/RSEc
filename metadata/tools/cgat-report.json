@@ -1,1 +1,1 @@
-{"tool_name":"cgat-report","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"cgat-report","biocontainers__license":"BSD","biocontainers__summary":"A report generator in python based on sphinx"}}
+{"tool_name":"cgat-report","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"cgat-report","identifiers":null,"license":"BSD","summary":"A report generator in python based on sphinx"}}}

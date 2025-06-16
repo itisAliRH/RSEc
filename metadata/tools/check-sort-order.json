@@ -1,1 +1,1 @@
-{"tool_name":"check-sort-order","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"check-sort-order","biocontainers__license":"MIT","biocontainers__summary":"Check sort-order of genomic files according to a genomefile"}}
+{"tool_name":"check-sort-order","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"check-sort-order","identifiers":null,"license":"MIT","summary":"Check sort-order of genomic files according to a genomefile"}}}

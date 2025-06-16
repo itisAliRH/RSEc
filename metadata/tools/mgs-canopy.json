@@ -1,1 +1,1 @@
-{"tool_name":"mgs-canopy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mgs-canopy","biocontainers__identifiers":["doi:10.1038/nbt.2939"],"biocontainers__license":"GPL-3.0","biocontainers__summary":"Canopy clustering algorithm"}}
+{"tool_name":"mgs-canopy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mgs-canopy","identifiers":["doi:10.1038/nbt.2939"],"license":"GPL-3.0","summary":"Canopy clustering algorithm"}}}

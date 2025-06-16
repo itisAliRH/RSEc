@@ -1,1 +1,1 @@
-{"tool_name":"perl-module-loaded","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-module-loaded","biocontainers__license":"perl_5","biocontainers__summary":"Mark modules as loaded/unloaded"}}
+{"tool_name":"perl-module-loaded","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-module-loaded","identifiers":null,"license":"perl_5","summary":"Mark modules as loaded/unloaded"}}}

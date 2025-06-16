@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-flowcybar","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-flowcybar","biocontainers__identifiers":["doi:10.18129/b9.bioc.flowcybar"],"biocontainers__license":"GPL-2","biocontainers__summary":"Analyze flow cytometric data using gate information"}}
+{"tool_name":"bioconductor-flowcybar","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-flowcybar","identifiers":["doi:10.18129/b9.bioc.flowcybar"],"license":"GPL-2","summary":"Analyze flow cytometric data using gate information"}}}

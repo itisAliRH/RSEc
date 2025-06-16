@@ -1,1 +1,1 @@
-{"tool_name":"gnuplot-py","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"gnuplot-py","biocontainers__license":"LGPL","biocontainers__summary":"A Python interface to the gnuplot plotting program."}}
+{"tool_name":"gnuplot-py","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"gnuplot-py","identifiers":null,"license":"LGPL","summary":"A Python interface to the gnuplot plotting program."}}}

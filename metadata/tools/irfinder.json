@@ -1,1 +1,1 @@
-{"tool_name":"irfinder","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"irfinder","biocontainers__identifiers":["doi:10.1186/s13059-017-1184-4"],"biocontainers__license":"MIT","biocontainers__summary":"Intron Retention Finder"}}
+{"tool_name":"irfinder","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"irfinder","identifiers":["doi:10.1186/s13059-017-1184-4"],"license":"MIT","summary":"Intron Retention Finder"}}}

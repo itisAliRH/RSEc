@@ -1,1 +1,1 @@
-{"tool_name":"irida-sistr-results","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"irida-sistr-results","biocontainers__license":"Apache-2.0","biocontainers__summary":"Exports sistr results available through irida into a single report."}}
+{"tool_name":"irida-sistr-results","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"irida-sistr-results","identifiers":null,"license":"Apache-2.0","summary":"Exports sistr results available through irida into a single report."}}}

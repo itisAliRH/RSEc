@@ -1,1 +1,1 @@
-{"tool_name":"byobu","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"byobu","biocontainers__license":"GPL-3.0","biocontainers__summary":"Byobu is a GPLv3 open source text-based window manager and terminal multiplexer."}}
+{"tool_name":"byobu","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"byobu","identifiers":null,"license":"GPL-3.0","summary":"Byobu is a GPLv3 open source text-based window manager and terminal multiplexer."}}}

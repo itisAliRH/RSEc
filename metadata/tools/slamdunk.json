@@ -1,1 +1,1 @@
-{"tool_name":"slamdunk","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"slamdunk","biocontainers__identifiers":["doi:10.1186/s12859-019-2849-7"],"biocontainers__license":"AGPL-3.0","biocontainers__summary":"Slamdunk is a software tool for slamseq data analysis."}}
+{"tool_name":"slamdunk","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"slamdunk","identifiers":["doi:10.1186/s12859-019-2849-7"],"license":"AGPL-3.0","summary":"Slamdunk is a software tool for slamseq data analysis."}}}

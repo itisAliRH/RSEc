@@ -1,1 +1,1 @@
-{"tool_name":"perl-list-someutils","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-list-someutils","biocontainers__license":"perl_5","biocontainers__summary":"Provide the stuff missing in List::Util"}}
+{"tool_name":"perl-list-someutils","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-list-someutils","identifiers":null,"license":"perl_5","summary":"Provide the stuff missing in List::Util"}}}

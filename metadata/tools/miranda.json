@@ -1,1 +1,1 @@
-{"tool_name":"miranda","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"miranda","biocontainers__license":"GPL-2.0 + RNAlib license (no commercial redistribution)","biocontainers__summary":"An algorithm for finding genomic targets for microRNAs"}}
+{"tool_name":"miranda","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"miranda","identifiers":null,"license":"GPL-2.0 + RNAlib license (no commercial redistribution)","summary":"An algorithm for finding genomic targets for microRNAs"}}}

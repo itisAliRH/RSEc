@@ -1,1 +1,1 @@
-{"tool_name":"scpred-cli","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"scpred-cli","biocontainers__license":"Apache-2.0","biocontainers__summary":"A set of command-line wrappers for the core functions in the scpred package."}}
+{"tool_name":"scpred-cli","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"scpred-cli","identifiers":null,"license":"Apache-2.0","summary":"A set of command-line wrappers for the core functions in the scpred package."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"agg","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"agg","biocontainers__license":"GPL-3.0","biocontainers__summary":"gvcf aggregation tool"}}
+{"tool_name":"agg","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"agg","identifiers":null,"license":"GPL-3.0","summary":"gvcf aggregation tool"}}}

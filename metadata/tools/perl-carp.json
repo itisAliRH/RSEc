@@ -1,1 +1,1 @@
-{"tool_name":"perl-carp","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-carp","biocontainers__license":"perl_5","biocontainers__summary":"Alternative warn and die for modules"}}
+{"tool_name":"perl-carp","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-carp","identifiers":null,"license":"perl_5","summary":"Alternative warn and die for modules"}}}

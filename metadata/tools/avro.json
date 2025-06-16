@@ -1,1 +1,1 @@
-{"tool_name":"avro","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"avro","biocontainers__license":"Apache-2.0","biocontainers__summary":"Apache avro serialization system (python 3 library)"}}
+{"tool_name":"avro","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"avro","identifiers":null,"license":"Apache-2.0","summary":"Apache avro serialization system (python 3 library)"}}}

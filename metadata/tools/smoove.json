@@ -1,1 +1,1 @@
-{"tool_name":"smoove","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"smoove","biocontainers__license":"Apache-2.0","biocontainers__summary":"Structural variant calling and genotyping with existing tools, but, smoothly"}}
+{"tool_name":"smoove","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"smoove","identifiers":null,"license":"Apache-2.0","summary":"Structural variant calling and genotyping with existing tools, but, smoothly"}}}

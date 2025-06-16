@@ -1,1 +1,1 @@
-{"tool_name":"seer","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"seer","biocontainers__identifiers":["doi:10.1038/ncomms12797"],"biocontainers__license":"custom, see /usr/share/doc/seer/copyright","biocontainers__summary":"Genomic sequence element (kmer) enrichment analysis"}}
+{"tool_name":"seer","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"seer","identifiers":["doi:10.1038/ncomms12797"],"license":"custom, see /usr/share/doc/seer/copyright","summary":"Genomic sequence element (kmer) enrichment analysis"}}}

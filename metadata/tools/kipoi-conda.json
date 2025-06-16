@@ -1,1 +1,1 @@
-{"tool_name":"kipoi-conda","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"kipoi-conda","biocontainers__identifiers":["doi:10.1101/375345","doi:10.1038/s41587-019-0140-0"],"biocontainers__license":"MIT","biocontainers__summary":"Kipoi: model zoo for genomics"}}
+{"tool_name":"kipoi-conda","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"kipoi-conda","identifiers":["doi:10.1101/375345","doi:10.1038/s41587-019-0140-0"],"license":"MIT","summary":"Kipoi: model zoo for genomics"}}}

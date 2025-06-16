@@ -1,1 +1,1 @@
-{"tool_name":"chipseq-greylist","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"chipseq-greylist","biocontainers__license":"MIT","biocontainers__summary":"Python implementation of GreyListChIP Bioconductor package."}}
+{"tool_name":"chipseq-greylist","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"chipseq-greylist","identifiers":null,"license":"MIT","summary":"Python implementation of GreyListChIP Bioconductor package."}}}

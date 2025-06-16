@@ -1,1 +1,1 @@
-{"tool_name":"git-lfs","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"git-lfs","biocontainers__license":"MIT","biocontainers__summary":"An open source Git extension for versioning large files"}}
+{"tool_name":"git-lfs","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"git-lfs","identifiers":null,"license":"MIT","summary":"An open source Git extension for versioning large files"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"shmlast","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"shmlast","biocontainers__identifiers":["doi:10.1371/journal.pgen.1004365"],"biocontainers__license":"BSD-3","biocontainers__summary":"Conditional reciprocal best hits with last"}}
+{"tool_name":"shmlast","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"shmlast","identifiers":["doi:10.1371/journal.pgen.1004365"],"license":"BSD-3","summary":"Conditional reciprocal best hits with last"}}}

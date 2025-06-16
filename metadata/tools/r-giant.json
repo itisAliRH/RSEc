@@ -1,1 +1,1 @@
-{"tool_name":"r-giant","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-giant","biocontainers__license":"Artistic-2.0","biocontainers__summary":"Toolbox for various enrichment analysis methods and quantification of uncertainty of gene sets."}}
+{"tool_name":"r-giant","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-giant","identifiers":null,"license":"Artistic-2.0","summary":"Toolbox for various enrichment analysis methods and quantification of uncertainty of gene sets."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bio-rainbow","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bio-rainbow","biocontainers__license":"GPL-3.0+","biocontainers__summary":"Clustering and assembling short reads for bioinformatics"}}
+{"tool_name":"bio-rainbow","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bio-rainbow","identifiers":null,"license":"GPL-3.0+","summary":"Clustering and assembling short reads for bioinformatics"}}}

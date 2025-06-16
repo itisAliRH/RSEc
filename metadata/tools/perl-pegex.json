@@ -1,1 +1,1 @@
-{"tool_name":"perl-pegex","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-pegex","biocontainers__license":"perl_5","biocontainers__summary":"Pegex grammar for the pegex grammar language"}}
+{"tool_name":"perl-pegex","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-pegex","identifiers":null,"license":"perl_5","summary":"Pegex grammar for the pegex grammar language"}}}

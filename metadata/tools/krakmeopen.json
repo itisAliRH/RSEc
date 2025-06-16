@@ -1,1 +1,1 @@
-{"tool_name":"krakmeopen","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"krakmeopen","biocontainers__license":"Not available","biocontainers__summary":"A kraken 2 downstream analysis toolkit. calculate quality metrics for kraken 2 classifications."}}
+{"tool_name":"krakmeopen","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"krakmeopen","identifiers":null,"license":"Not available","summary":"A kraken 2 downstream analysis toolkit. calculate quality metrics for kraken 2 classifications."}}}

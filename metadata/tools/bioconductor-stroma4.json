@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-stroma4","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-stroma4","biocontainers__identifiers":["doi:10.18129/b9.bioc.stroma4"],"biocontainers__license":"GPL-3","biocontainers__summary":"Assign Properties to TNBC Patients"}}
+{"tool_name":"bioconductor-stroma4","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-stroma4","identifiers":["doi:10.18129/b9.bioc.stroma4"],"license":"GPL-3","summary":"Assign Properties to TNBC Patients"}}}

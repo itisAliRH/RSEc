@@ -1,1 +1,1 @@
-{"tool_name":"r-tcr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-tcr","biocontainers__license":"Apache-2.0","biocontainers__summary":"Platform for the advanced analysis of T cell receptor and Immunoglobulin repertoires"}}
+{"tool_name":"r-tcr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-tcr","identifiers":null,"license":"Apache-2.0","summary":"Platform for the advanced analysis of T cell receptor and Immunoglobulin repertoires"}}}

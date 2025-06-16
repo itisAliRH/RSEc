@@ -1,1 +1,1 @@
-{"tool_name":"gdcm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"gdcm","biocontainers__license":"BSD-3-clause-alike-CREATIS","biocontainers__summary":"Grassroots dicom python bindings"}}
+{"tool_name":"gdcm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"gdcm","identifiers":null,"license":"BSD-3-clause-alike-CREATIS","summary":"Grassroots dicom python bindings"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"scrublet","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"scrublet","biocontainers__identifiers":["doi:10.1016/j.cels.2018.11.005"],"biocontainers__license":"MIT","biocontainers__summary":"Doublet prediction in single-cell RNA-sequencing data"}}
+{"tool_name":"scrublet","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"scrublet","identifiers":["doi:10.1016/j.cels.2018.11.005"],"license":"MIT","summary":"Doublet prediction in single-cell RNA-sequencing data"}}}

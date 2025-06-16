@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-biocio","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-biocio","biocontainers__identifiers":["doi:10.18129/b9.bioc.biocio"],"biocontainers__license":"Not available","biocontainers__summary":"Standard input and output for bioconductor packages"}}
+{"tool_name":"bioconductor-biocio","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-biocio","identifiers":["doi:10.18129/b9.bioc.biocio"],"license":"Not available","summary":"Standard input and output for bioconductor packages"}}}

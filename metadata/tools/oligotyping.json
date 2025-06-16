@@ -1,1 +1,1 @@
-{"tool_name":"oligotyping","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"oligotyping","biocontainers__license":"GPL (> 3)","biocontainers__summary":"The oligotyping and minimum entropy decomposition (med) pipeline for the analysis of marker gene amplicons"}}
+{"tool_name":"oligotyping","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"oligotyping","identifiers":null,"license":"GPL (> 3)","summary":"The oligotyping and minimum entropy decomposition (med) pipeline for the analysis of marker gene amplicons"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"dehomopolymerate","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"dehomopolymerate","biocontainers__license":"GPL-3.0","biocontainers__summary":"Collapse homopolymer runs in FASTQ files"}}
+{"tool_name":"dehomopolymerate","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"dehomopolymerate","identifiers":null,"license":"GPL-3.0","summary":"Collapse homopolymer runs in FASTQ files"}}}

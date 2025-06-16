@@ -1,1 +1,1 @@
-{"tool_name":"jemboss","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"jemboss","biocontainers__identifiers":["doi:10.1093/bioinformatics/btg251"],"biocontainers__license":"emboss","biocontainers__summary":"Graphical user interface to emboss"}}
+{"tool_name":"jemboss","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"jemboss","identifiers":["doi:10.1093/bioinformatics/btg251"],"license":"emboss","summary":"Graphical user interface to emboss"}}}

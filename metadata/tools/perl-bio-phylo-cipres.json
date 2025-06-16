@@ -1,1 +1,1 @@
-{"tool_name":"perl-bio-phylo-cipres","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-bio-phylo-cipres","biocontainers__license":"perl_5","biocontainers__summary":"Reusable components for cipres rest api access"}}
+{"tool_name":"perl-bio-phylo-cipres","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-bio-phylo-cipres","identifiers":null,"license":"perl_5","summary":"Reusable components for cipres rest api access"}}}

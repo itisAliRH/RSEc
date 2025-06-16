@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-interest","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-interest","biocontainers__identifiers":["doi:10.18129/B9.bioc.IntEREst"],"biocontainers__license":"GPL-2","biocontainers__summary":"Intron-Exon Retention Estimator"}}
+{"tool_name":"bioconductor-interest","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-interest","identifiers":["doi:10.18129/B9.bioc.IntEREst"],"license":"GPL-2","summary":"Intron-Exon Retention Estimator"}}}

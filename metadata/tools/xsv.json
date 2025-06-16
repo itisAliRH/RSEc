@@ -1,1 +1,1 @@
-{"tool_name":"xsv","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"xsv","biocontainers__license":"MIT","biocontainers__summary":"A fast CSV toolkit written in Rust."}}
+{"tool_name":"xsv","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"xsv","identifiers":null,"license":"MIT","summary":"A fast CSV toolkit written in Rust."}}}

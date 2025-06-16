@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-paa","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-paa","biocontainers__identifiers":["doi:10.18129/b9.bioc.paa"],"biocontainers__license":"BSD-3-Clause","biocontainers__summary":"PAA (Protein Array Analyzer)"}}
+{"tool_name":"bioconductor-paa","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-paa","identifiers":["doi:10.18129/b9.bioc.paa"],"license":"BSD-3-Clause","summary":"PAA (Protein Array Analyzer)"}}}

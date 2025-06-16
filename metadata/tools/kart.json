@@ -1,1 +1,1 @@
-{"tool_name":"kart","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"kart","biocontainers__identifiers":["doi:10.1093/bioinformatics/btx189"],"biocontainers__license":"MIT","biocontainers__summary":"Kart: a divide-and-conquer algorithm for NGS read alignment"}}
+{"tool_name":"kart","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"kart","identifiers":["doi:10.1093/bioinformatics/btx189"],"license":"MIT","summary":"Kart: a divide-and-conquer algorithm for NGS read alignment"}}}

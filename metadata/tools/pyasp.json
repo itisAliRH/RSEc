@@ -1,1 +1,1 @@
-{"tool_name":"pyasp","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pyasp","biocontainers__license":"GPLv3 +","biocontainers__summary":"A convenience wrapper for the asp tools gringo, gringo4 and clasp."}}
+{"tool_name":"pyasp","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pyasp","identifiers":null,"license":"GPLv3 +","summary":"A convenience wrapper for the asp tools gringo, gringo4 and clasp."}}}

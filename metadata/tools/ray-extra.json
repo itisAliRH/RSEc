@@ -1,1 +1,1 @@
-{"tool_name":"ray-extra","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ray-extra","biocontainers__identifiers":["doi:10.1186/gb-2012-13-12-r122"],"biocontainers__license":"GPL-3","biocontainers__summary":"Scripts and xsl sheets for post-processing for ray"}}
+{"tool_name":"ray-extra","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ray-extra","identifiers":["doi:10.1186/gb-2012-13-12-r122"],"license":"GPL-3","summary":"Scripts and xsl sheets for post-processing for ray"}}}

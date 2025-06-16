@@ -1,1 +1,1 @@
-{"tool_name":"pydp","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pydp","biocontainers__license":"Not available","biocontainers__summary":"Pydp is library for implementing dirichlet process mixture models (dpmm)"}}
+{"tool_name":"pydp","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pydp","identifiers":null,"license":"Not available","summary":"Pydp is library for implementing dirichlet process mixture models (dpmm)"}}}

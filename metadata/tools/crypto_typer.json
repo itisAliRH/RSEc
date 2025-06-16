@@ -1,1 +1,1 @@
-{"tool_name":"crypto_typer","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"crypto_typer","biocontainers__license":"Apache-2.0","biocontainers__summary":"This package crypto_typer: tool to subtype the parasite, cryptosporidium, based on the 18s and gp60 markers."}}
+{"tool_name":"crypto_typer","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"crypto_typer","identifiers":null,"license":"Apache-2.0","summary":"This package crypto_typer: tool to subtype the parasite, cryptosporidium, based on the 18s and gp60 markers."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-msmstests","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-msmstests","biocontainers__identifiers":["doi:10.18129/b9.bioc.msmstests"],"biocontainers__license":"GPL-2","biocontainers__summary":"LC-MS/MS Differential Expression Tests"}}
+{"tool_name":"bioconductor-msmstests","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-msmstests","identifiers":["doi:10.18129/b9.bioc.msmstests"],"license":"GPL-2","summary":"LC-MS/MS Differential Expression Tests"}}}

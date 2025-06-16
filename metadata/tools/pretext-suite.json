@@ -1,1 +1,1 @@
-{"tool_name":"pretext-suite","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pretext-suite","biocontainers__license":"MIT","biocontainers__summary":"Meta-package for Pretext Hi-C contact map tools."}}
+{"tool_name":"pretext-suite","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pretext-suite","identifiers":null,"license":"MIT","summary":"Meta-package for Pretext Hi-C contact map tools."}}}

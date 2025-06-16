@@ -1,1 +1,1 @@
-{"tool_name":"perl-proc-fork","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-proc-fork","biocontainers__license":"Not available","biocontainers__summary":"Simple, intuitive interface to the fork() system call"}}
+{"tool_name":"perl-proc-fork","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-proc-fork","identifiers":null,"license":"Not available","summary":"Simple, intuitive interface to the fork() system call"}}}

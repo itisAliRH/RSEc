@@ -1,1 +1,1 @@
-{"tool_name":"perl-git-wrapper","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-git-wrapper","biocontainers__license":"perl_5","biocontainers__summary":"Wrap git(7) command-line interface"}}
+{"tool_name":"perl-git-wrapper","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-git-wrapper","identifiers":null,"license":"perl_5","summary":"Wrap git(7) command-line interface"}}}

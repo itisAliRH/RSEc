@@ -1,1 +1,1 @@
-{"tool_name":"jannovar-cli","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"jannovar-cli","biocontainers__license":"BSD2 license","biocontainers__summary":"Java tool for performing annotation of vcf files"}}
+{"tool_name":"jannovar-cli","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"jannovar-cli","identifiers":null,"license":"BSD2 license","summary":"Java tool for performing annotation of vcf files"}}}

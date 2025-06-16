@@ -1,1 +1,1 @@
-{"tool_name":"bcftools-snvphyl-plugin","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bcftools-snvphyl-plugin","biocontainers__license":"Apache-2.0","biocontainers__summary":"The SNVPhyl (Single Nucleotide Variant PHYLogenomics) pipeline is a pipeline"}}
+{"tool_name":"bcftools-snvphyl-plugin","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bcftools-snvphyl-plugin","identifiers":null,"license":"Apache-2.0","summary":"The SNVPhyl (Single Nucleotide Variant PHYLogenomics) pipeline is a pipeline"}}}

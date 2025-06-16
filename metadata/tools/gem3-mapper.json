@@ -1,1 +1,1 @@
-{"tool_name":"gem3-mapper","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"gem3-mapper","biocontainers__identifiers":["doi:10.1038/nmeth.2221","biotools:GEM_Mapper"],"biocontainers__license":"GPL-3.0","biocontainers__summary":"The GEM read mapper (v3)."}}
+{"tool_name":"gem3-mapper","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"gem3-mapper","identifiers":["doi:10.1038/nmeth.2221","biotools:GEM_Mapper"],"license":"GPL-3.0","summary":"The GEM read mapper (v3)."}}}

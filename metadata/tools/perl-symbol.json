@@ -1,1 +1,1 @@
-{"tool_name":"perl-symbol","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-symbol","biocontainers__license":"perl_5","biocontainers__summary":"Manipulate perl symbols and their names"}}
+{"tool_name":"perl-symbol","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-symbol","identifiers":null,"license":"perl_5","summary":"Manipulate perl symbols and their names"}}}

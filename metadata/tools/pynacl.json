@@ -1,1 +1,1 @@
-{"tool_name":"pynacl","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pynacl","biocontainers__license":"Apache-2.0","biocontainers__summary":"Python binding to the Networking and Cryptography (NaCl) library"}}
+{"tool_name":"pynacl","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pynacl","identifiers":null,"license":"Apache-2.0","summary":"Python binding to the Networking and Cryptography (NaCl) library"}}}

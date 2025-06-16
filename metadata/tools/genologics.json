@@ -1,1 +1,1 @@
-{"tool_name":"genologics","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"genologics","biocontainers__license":"MIT","biocontainers__summary":"Python interface to the genologics lims (laboratory information management system) server via its rest api."}}
+{"tool_name":"genologics","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"genologics","identifiers":null,"license":"MIT","summary":"Python interface to the genologics lims (laboratory information management system) server via its rest api."}}}

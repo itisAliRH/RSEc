@@ -1,1 +1,1 @@
-{"tool_name":"perl-archive-zip","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-archive-zip","biocontainers__license":"perl_5","biocontainers__summary":"Provide an interface to zip archive files."}}
+{"tool_name":"perl-archive-zip","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-archive-zip","identifiers":null,"license":"perl_5","summary":"Provide an interface to zip archive files."}}}

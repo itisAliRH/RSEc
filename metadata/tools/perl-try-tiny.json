@@ -1,1 +1,1 @@
-{"tool_name":"perl-try-tiny","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-try-tiny","biocontainers__license":"MIT","biocontainers__summary":"Minimal try/catch with proper preservation of $@"}}
+{"tool_name":"perl-try-tiny","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-try-tiny","identifiers":null,"license":"MIT","summary":"Minimal try/catch with proper preservation of $@"}}}

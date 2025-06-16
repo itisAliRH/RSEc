@@ -1,1 +1,1 @@
-{"tool_name":"perl-xml-entities","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-xml-entities","biocontainers__license":"perl_5","biocontainers__summary":"Mapping of xml entities to unicode"}}
+{"tool_name":"perl-xml-entities","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-xml-entities","identifiers":null,"license":"perl_5","summary":"Mapping of xml entities to unicode"}}}

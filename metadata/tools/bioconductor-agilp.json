@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-agilp","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-agilp","biocontainers__identifiers":["doi:10.18129/b9.bioc.agilp"],"biocontainers__license":"GPL-3","biocontainers__summary":"Agilent expression array processing package"}}
+{"tool_name":"bioconductor-agilp","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-agilp","identifiers":["doi:10.18129/b9.bioc.agilp"],"license":"GPL-3","summary":"Agilent expression array processing package"}}}

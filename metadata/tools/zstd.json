@@ -1,1 +1,1 @@
-{"tool_name":"zstd","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"zstd","biocontainers__license":"BSD","biocontainers__summary":"Fast lossless compression algorithm -- cli tool"}}
+{"tool_name":"zstd","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"zstd","identifiers":null,"license":"BSD","summary":"Fast lossless compression algorithm -- cli tool"}}}

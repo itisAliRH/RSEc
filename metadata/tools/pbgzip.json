@@ -1,1 +1,1 @@
-{"tool_name":"pbgzip","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pbgzip","biocontainers__license":"MIT","biocontainers__summary":"Parallel block gzip"}}
+{"tool_name":"pbgzip","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pbgzip","identifiers":null,"license":"MIT","summary":"Parallel block gzip"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"r-facets","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-facets","biocontainers__identifiers":["biotools:facets","doi:10.1093/nar/gkw520"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Cellular Fraction and Copy Numbers from Tumor Sequencing"}}
+{"tool_name":"r-facets","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-facets","identifiers":["biotools:facets","doi:10.1093/nar/gkw520"],"license":"GPL (>= 2)","summary":"Cellular Fraction and Copy Numbers from Tumor Sequencing"}}}

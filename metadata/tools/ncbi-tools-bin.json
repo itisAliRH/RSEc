@@ -1,1 +1,1 @@
-{"tool_name":"ncbi-tools-bin","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ncbi-tools-bin","biocontainers__license":"public_domain","biocontainers__summary":"Ncbi libraries for biology applications (text-based utilities)"}}
+{"tool_name":"ncbi-tools-bin","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ncbi-tools-bin","identifiers":null,"license":"public_domain","summary":"Ncbi libraries for biology applications (text-based utilities)"}}}

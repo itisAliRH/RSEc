@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-rnamodr.data","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-rnamodr.data","biocontainers__identifiers":["doi:10.18129/b9.bioc.rnamodr.data"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Example data for the rnamodr package"}}
+{"tool_name":"bioconductor-rnamodr.data","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-rnamodr.data","identifiers":["doi:10.18129/b9.bioc.rnamodr.data"],"license":"Artistic-2.0","summary":"Example data for the rnamodr package"}}}

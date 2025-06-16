@@ -1,1 +1,1 @@
-{"tool_name":"pbcopper","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pbcopper","biocontainers__license":"BSD-3-Clause-Clear","biocontainers__summary":"Core C++ library for data structures, algorithms, and utilities"}}
+{"tool_name":"pbcopper","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pbcopper","identifiers":null,"license":"BSD-3-Clause-Clear","summary":"Core C++ library for data structures, algorithms, and utilities"}}}

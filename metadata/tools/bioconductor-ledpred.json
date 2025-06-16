@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-ledpred","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-ledpred","biocontainers__identifiers":["doi:10.18129/b9.bioc.ledpred"],"biocontainers__license":"MIT | file LICENSE","biocontainers__summary":"Learning from dna to predict enhancers"}}
+{"tool_name":"bioconductor-ledpred","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-ledpred","identifiers":["doi:10.18129/b9.bioc.ledpred"],"license":"MIT | file LICENSE","summary":"Learning from dna to predict enhancers"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"gtf_to_genes","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"gtf_to_genes","biocontainers__license":"MIT","biocontainers__summary":"Fast gtf parser"}}
+{"tool_name":"gtf_to_genes","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"gtf_to_genes","identifiers":null,"license":"MIT","summary":"Fast gtf parser"}}}

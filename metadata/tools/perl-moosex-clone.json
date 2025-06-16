@@ -1,1 +1,1 @@
-{"tool_name":"perl-moosex-clone","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-moosex-clone","biocontainers__license":"Not available","biocontainers__summary":"Fine-grained cloning support for moose objects."}}
+{"tool_name":"perl-moosex-clone","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-moosex-clone","identifiers":null,"license":"Not available","summary":"Fine-grained cloning support for moose objects."}}}

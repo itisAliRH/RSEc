@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-degnorm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-degnorm","biocontainers__identifiers":["doi:10.1186/s13059-019-1682-7"],"biocontainers__license":"LGPL (>= 3)","biocontainers__summary":"degradation normalization for RNA-seq data"}}
+{"tool_name":"bioconductor-degnorm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-degnorm","identifiers":["doi:10.1186/s13059-019-1682-7"],"license":"LGPL (>= 3)","summary":"degradation normalization for RNA-seq data"}}}

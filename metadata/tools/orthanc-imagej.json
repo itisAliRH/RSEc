@@ -1,1 +1,1 @@
-{"tool_name":"orthanc-imagej","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"orthanc-imagej","biocontainers__license":"GPL-3","biocontainers__summary":"Imagej plugin to import images from orthanc"}}
+{"tool_name":"orthanc-imagej","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"orthanc-imagej","identifiers":null,"license":"GPL-3","summary":"Imagej plugin to import images from orthanc"}}}

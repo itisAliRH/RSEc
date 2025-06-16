@@ -1,1 +1,1 @@
-{"tool_name":"snp-pipeline","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"snp-pipeline","biocontainers__identifiers":["doi:10.7717/peerj-cs.20"],"biocontainers__license":"BSD License","biocontainers__summary":"Script and functions for SNP matrix construction"}}
+{"tool_name":"snp-pipeline","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"snp-pipeline","identifiers":["doi:10.7717/peerj-cs.20"],"license":"BSD License","summary":"Script and functions for SNP matrix construction"}}}

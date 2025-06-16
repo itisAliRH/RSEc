@@ -1,1 +1,1 @@
-{"tool_name":"mothur-mpi","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mothur-mpi","biocontainers__license":"GPL-3.0+","biocontainers__summary":"Mpi-enabled binary for mothur"}}
+{"tool_name":"mothur-mpi","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mothur-mpi","identifiers":null,"license":"GPL-3.0+","summary":"Mpi-enabled binary for mothur"}}}

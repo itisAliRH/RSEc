@@ -1,1 +1,1 @@
-{"tool_name":"wigeon","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"wigeon","biocontainers__license":"BSD-3-clause","biocontainers__summary":"Reimplementation of the pintail 16s dna anomaly detection utility"}}
+{"tool_name":"wigeon","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"wigeon","identifiers":null,"license":"BSD-3-clause","summary":"Reimplementation of the pintail 16s dna anomaly detection utility"}}}

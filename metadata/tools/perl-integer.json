@@ -1,1 +1,1 @@
-{"tool_name":"perl-integer","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-integer","biocontainers__license":"perl_5","biocontainers__summary":"Perl pragma to use integer arithmetic instead of floating point"}}
+{"tool_name":"perl-integer","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-integer","identifiers":null,"license":"perl_5","summary":"Perl pragma to use integer arithmetic instead of floating point"}}}

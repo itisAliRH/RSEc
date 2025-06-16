@@ -1,1 +1,1 @@
-{"tool_name":"biopython.convert","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"biopython.convert","biocontainers__license":"MIT","biocontainers__summary":"Interconvert various file formats supported by BioPython"}}
+{"tool_name":"biopython.convert","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"biopython.convert","identifiers":null,"license":"MIT","summary":"Interconvert various file formats supported by BioPython"}}}

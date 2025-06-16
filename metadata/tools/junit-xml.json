@@ -1,1 +1,1 @@
-{"tool_name":"junit-xml","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"junit-xml","biocontainers__license":"MIT","biocontainers__summary":"Creates JUnit XML test result documents that can be read by tools such as Jenkins"}}
+{"tool_name":"junit-xml","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"junit-xml","identifiers":null,"license":"MIT","summary":"Creates JUnit XML test result documents that can be read by tools such as Jenkins"}}}

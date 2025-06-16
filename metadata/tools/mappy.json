@@ -1,1 +1,1 @@
-{"tool_name":"mappy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mappy","biocontainers__identifiers":["doi:10.1093/bioinformatics/bty191"],"biocontainers__license":"MIT","biocontainers__summary":"Minimap2 Python binding"}}
+{"tool_name":"mappy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mappy","identifiers":["doi:10.1093/bioinformatics/bty191"],"license":"MIT","summary":"Minimap2 Python binding"}}}

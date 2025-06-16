@@ -1,1 +1,1 @@
-{"tool_name":"python-consensuscore2","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-consensuscore2","biocontainers__license":"BSD 3-Clause Clear License","biocontainers__summary":"Pacbio arrow consensus library for sequel data"}}
+{"tool_name":"python-consensuscore2","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python-consensuscore2","identifiers":null,"license":"BSD 3-Clause Clear License","summary":"Pacbio arrow consensus library for sequel data"}}}

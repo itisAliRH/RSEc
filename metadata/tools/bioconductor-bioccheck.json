@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-bioccheck","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-bioccheck","biocontainers__identifiers":["doi:10.18129/b9.bioc.bioccheck"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Bioconductor-specific package checks"}}
+{"tool_name":"bioconductor-bioccheck","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-bioccheck","identifiers":["doi:10.18129/b9.bioc.bioccheck"],"license":"Artistic-2.0","summary":"Bioconductor-specific package checks"}}}

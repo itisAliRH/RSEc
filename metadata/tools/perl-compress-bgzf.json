@@ -1,1 +1,1 @@
-{"tool_name":"perl-compress-bgzf","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-compress-bgzf","biocontainers__license":"gpl_3","biocontainers__summary":"Read/write blocked gzip (bgzf) files"}}
+{"tool_name":"perl-compress-bgzf","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-compress-bgzf","identifiers":null,"license":"gpl_3","summary":"Read/write blocked gzip (bgzf) files"}}}

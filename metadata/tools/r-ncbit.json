@@ -1,1 +1,1 @@
-{"tool_name":"r-ncbit","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-ncbit","biocontainers__license":"GPL-2 | GPL-3 [expanded from: GPL (\u2265 2)]","biocontainers__summary":"Making ncbi taxonomic data locally available and searchable as an r object"}}
+{"tool_name":"r-ncbit","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-ncbit","identifiers":null,"license":"GPL-2 | GPL-3 [expanded from: GPL (\u2265 2)]","summary":"Making ncbi taxonomic data locally available and searchable as an r object"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"r-dbchip","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-dbchip","biocontainers__license":"GPL (>= 2)","biocontainers__summary":"ChIP-seq differential binding"}}
+{"tool_name":"r-dbchip","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-dbchip","identifiers":null,"license":"GPL (>= 2)","summary":"ChIP-seq differential binding"}}}

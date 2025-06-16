@@ -1,1 +1,1 @@
-{"tool_name":"daisysuite","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"daisysuite","biocontainers__license":"GPL-3.0","biocontainers__summary":"Daisysuite - mapping-based pipeline for horizontal gene transfer (hgt) detection using sequencing data"}}
+{"tool_name":"daisysuite","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"daisysuite","identifiers":null,"license":"GPL-3.0","summary":"Daisysuite - mapping-based pipeline for horizontal gene transfer (hgt) detection using sequencing data"}}}

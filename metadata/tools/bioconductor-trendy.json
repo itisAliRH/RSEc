@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-trendy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-trendy","biocontainers__identifiers":["doi:10.18129/b9.bioc.trendy"],"biocontainers__license":"GPL-3","biocontainers__summary":"Breakpoint analysis of time-course expression data"}}
+{"tool_name":"bioconductor-trendy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-trendy","identifiers":["doi:10.18129/b9.bioc.trendy"],"license":"GPL-3","summary":"Breakpoint analysis of time-course expression data"}}}

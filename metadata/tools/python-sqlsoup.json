@@ -1,1 +1,1 @@
-{"tool_name":"python-sqlsoup","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-sqlsoup","biocontainers__license":"Expat","biocontainers__summary":"One step database access tool for python3, built on the sqlalchemy orm"}}
+{"tool_name":"python-sqlsoup","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python-sqlsoup","identifiers":null,"license":"Expat","summary":"One step database access tool for python3, built on the sqlalchemy orm"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"card_trick","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"card_trick","biocontainers__license":"MIT","biocontainers__summary":"Utility package to find gene <-> drug relationships within CARD"}}
+{"tool_name":"card_trick","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"card_trick","identifiers":null,"license":"MIT","summary":"Utility package to find gene <-> drug relationships within CARD"}}}

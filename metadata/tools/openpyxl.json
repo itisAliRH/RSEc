@@ -1,1 +1,1 @@
-{"tool_name":"openpyxl","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"openpyxl","biocontainers__license":"MIT","biocontainers__summary":"A python library to read/write excel 2007 xlsx/xlsm files"}}
+{"tool_name":"openpyxl","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"openpyxl","identifiers":null,"license":"MIT","summary":"A python library to read/write excel 2007 xlsx/xlsm files"}}}

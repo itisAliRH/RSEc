@@ -1,1 +1,1 @@
-{"tool_name":"perl-version-next","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-version-next","biocontainers__license":"apache_2_0","biocontainers__summary":"increment module version numbers simply and correctly"}}
+{"tool_name":"perl-version-next","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-version-next","identifiers":null,"license":"apache_2_0","summary":"increment module version numbers simply and correctly"}}}

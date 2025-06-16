@@ -1,1 +1,1 @@
-{"tool_name":"snp-pileup","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"snp-pileup","biocontainers__license":"MIT","biocontainers__summary":"Compute SNP pileup at reference positions in one or more input bam files. Output is ready for the R package facets"}}
+{"tool_name":"snp-pileup","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"snp-pileup","identifiers":null,"license":"MIT","summary":"Compute SNP pileup at reference positions in one or more input bam files. Output is ready for the R package facets"}}}

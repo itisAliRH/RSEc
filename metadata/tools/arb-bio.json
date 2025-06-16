@@ -1,1 +1,1 @@
-{"tool_name":"arb-bio","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"arb-bio","biocontainers__identifiers":["biotools:arb","doi:10.1093/nar/gkh293","doi:10.1002/9781118010518.ch46"],"biocontainers__license":"ARB","biocontainers__summary":"ARB 6 Sequence Analysis Suite"}}
+{"tool_name":"arb-bio","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"arb-bio","identifiers":["biotools:arb","doi:10.1093/nar/gkh293","doi:10.1002/9781118010518.ch46"],"license":"ARB","summary":"ARB 6 Sequence Analysis Suite"}}}

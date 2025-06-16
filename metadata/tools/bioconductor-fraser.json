@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-fraser","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-fraser","biocontainers__identifiers":["doi:10.18129/b9.bioc.fraser"],"biocontainers__license":"MIT","biocontainers__summary":"Find RAre Splicing Events in RNA-Seq Data"}}
+{"tool_name":"bioconductor-fraser","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-fraser","identifiers":["doi:10.18129/b9.bioc.fraser"],"license":"MIT","summary":"Find RAre Splicing Events in RNA-Seq Data"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-exception-class","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-exception-class","biocontainers__license":"perl_5","biocontainers__summary":"A module that allows you to declare real exception classes in Perl"}}
+{"tool_name":"perl-exception-class","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-exception-class","identifiers":null,"license":"perl_5","summary":"A module that allows you to declare real exception classes in Perl"}}}

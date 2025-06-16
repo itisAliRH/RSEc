@@ -1,1 +1,1 @@
-{"tool_name":"biothings_client","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"biothings_client","biocontainers__license":"Not available","biocontainers__summary":"Python client for biothings api services."}}
+{"tool_name":"biothings_client","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"biothings_client","identifiers":null,"license":"Not available","summary":"Python client for biothings api services."}}}

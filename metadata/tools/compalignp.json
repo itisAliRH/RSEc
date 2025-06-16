@@ -1,1 +1,1 @@
-{"tool_name":"compalignp","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"compalignp","biocontainers__license":"GPL","biocontainers__summary":"Compute fractional \"identity\" between trusted alignment and test alignment."}}
+{"tool_name":"compalignp","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"compalignp","identifiers":null,"license":"GPL","summary":"Compute fractional \"identity\" between trusted alignment and test alignment."}}}

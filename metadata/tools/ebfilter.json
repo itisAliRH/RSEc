@@ -1,1 +1,1 @@
-{"tool_name":"ebfilter","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ebfilter","biocontainers__license":"GPL-3.0","biocontainers__summary":"EBFilter (Empirical Bayesian Mutation Filtering)"}}
+{"tool_name":"ebfilter","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ebfilter","identifiers":null,"license":"GPL-3.0","summary":"EBFilter (Empirical Bayesian Mutation Filtering)"}}}

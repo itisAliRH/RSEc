@@ -1,1 +1,1 @@
-{"tool_name":"aletsch","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"aletsch","biocontainers__license":"BSD-3-Clause","biocontainers__summary":"Aletsch is a scalable, accurate, and versatile assembler for multiple RNA-seq samples."}}
+{"tool_name":"aletsch","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"aletsch","identifiers":null,"license":"BSD-3-Clause","summary":"Aletsch is a scalable, accurate, and versatile assembler for multiple RNA-seq samples."}}}

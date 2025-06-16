@@ -1,1 +1,1 @@
-{"tool_name":"perl-autodie","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-autodie","biocontainers__license":"perl_5","biocontainers__summary":"Replace functions with ones that succeed or die with lexical scope"}}
+{"tool_name":"perl-autodie","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-autodie","identifiers":null,"license":"perl_5","summary":"Replace functions with ones that succeed or die with lexical scope"}}}

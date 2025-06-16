@@ -1,1 +1,1 @@
-{"tool_name":"crux-toolkit","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"crux-toolkit","biocontainers__license":"Apache-2.0","biocontainers__summary":"A cross-platform suite of analysis tools for interpreting protein mass spectrometry data"}}
+{"tool_name":"crux-toolkit","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"crux-toolkit","identifiers":null,"license":"Apache-2.0","summary":"A cross-platform suite of analysis tools for interpreting protein mass spectrometry data"}}}

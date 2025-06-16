@@ -1,1 +1,1 @@
-{"tool_name":"r-geiger","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-geiger","biocontainers__identifiers":["doi:10.1093/bioinformatics/btu181"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Methods for fitting macroevolutionary models to phylogenetic trees."}}
+{"tool_name":"r-geiger","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-geiger","identifiers":["doi:10.1093/bioinformatics/btu181"],"license":"GPL (>= 2)","summary":"Methods for fitting macroevolutionary models to phylogenetic trees."}}}

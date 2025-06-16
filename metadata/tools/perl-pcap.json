@@ -1,1 +1,1 @@
-{"tool_name":"perl-pcap","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-pcap","biocontainers__license":"GPL-3.0","biocontainers__summary":"Ngs reference implementations and helper code for the igcg/tcga pan-cancer analysis project"}}
+{"tool_name":"perl-pcap","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-pcap","identifiers":null,"license":"GPL-3.0","summary":"Ngs reference implementations and helper code for the igcg/tcga pan-cancer analysis project"}}}

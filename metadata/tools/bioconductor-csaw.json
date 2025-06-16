@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-csaw","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-csaw","biocontainers__identifiers":["biotools:csaw","doi:10.1093/nar/gku351"],"biocontainers__license":"GPL-3","biocontainers__summary":"ChIP-Seq Analysis with Windows"}}
+{"tool_name":"bioconductor-csaw","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-csaw","identifiers":["biotools:csaw","doi:10.1093/nar/gku351"],"license":"GPL-3","summary":"ChIP-Seq Analysis with Windows"}}}

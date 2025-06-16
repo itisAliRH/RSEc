@@ -1,1 +1,1 @@
-{"tool_name":"perl-carp-clan","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-carp-clan","biocontainers__license":"perl_5","biocontainers__summary":"Report errors from perspective of caller of a clan of modules"}}
+{"tool_name":"perl-carp-clan","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-carp-clan","identifiers":null,"license":"perl_5","summary":"Report errors from perspective of caller of a clan of modules"}}}

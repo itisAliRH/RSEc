@@ -1,1 +1,1 @@
-{"tool_name":"isoncorrect","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"isoncorrect","biocontainers__identifiers":["doi:10.1038/s41467-020-20340-8"],"biocontainers__license":"GPL-3.0","biocontainers__summary":"De novo error-correction of long-read transcriptome reads."}}
+{"tool_name":"isoncorrect","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"isoncorrect","identifiers":["doi:10.1038/s41467-020-20340-8"],"license":"GPL-3.0","summary":"De novo error-correction of long-read transcriptome reads."}}}

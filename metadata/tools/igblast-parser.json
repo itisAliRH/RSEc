@@ -1,1 +1,1 @@
-{"tool_name":"igblast-parser","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"igblast-parser","biocontainers__license":"MIT","biocontainers__summary":"Parser of Igblast results into a csv file"}}
+{"tool_name":"igblast-parser","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"igblast-parser","identifiers":null,"license":"MIT","summary":"Parser of Igblast results into a csv file"}}}

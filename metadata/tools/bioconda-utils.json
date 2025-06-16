@@ -1,1 +1,1 @@
-{"tool_name":"bioconda-utils","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconda-utils","biocontainers__license":"MIT","biocontainers__summary":"Utilities for building and managing bioconda recipes."}}
+{"tool_name":"bioconda-utils","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconda-utils","identifiers":null,"license":"MIT","summary":"Utilities for building and managing bioconda recipes."}}}

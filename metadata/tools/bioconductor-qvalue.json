@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-qvalue","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-qvalue","biocontainers__identifiers":["doi:10.18129/b9.bioc.qvalue"],"biocontainers__license":"LGPL","biocontainers__summary":"Gnu r package for q-value estimation for fdr control"}}
+{"tool_name":"bioconductor-qvalue","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-qvalue","identifiers":["doi:10.18129/b9.bioc.qvalue"],"license":"LGPL","summary":"Gnu r package for q-value estimation for fdr control"}}}

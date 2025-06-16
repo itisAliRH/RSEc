@@ -1,1 +1,1 @@
-{"tool_name":"r-ash","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-ash","biocontainers__license":"GPL (>= 2)","biocontainers__summary":"David Scott's ASH routines ported from S-PLUS to R."}}
+{"tool_name":"r-ash","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-ash","identifiers":null,"license":"GPL (>= 2)","summary":"David Scott's ASH routines ported from S-PLUS to R."}}}

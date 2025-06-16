@@ -1,1 +1,1 @@
-{"tool_name":"sloika","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sloika","biocontainers__license":"Mozilla Public License 2.0 (MPL 2.0)","biocontainers__summary":"Sloika is Oxford Nanopore Technologies' software for training neural network models for base calling"}}
+{"tool_name":"sloika","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sloika","identifiers":null,"license":"Mozilla Public License 2.0 (MPL 2.0)","summary":"Sloika is Oxford Nanopore Technologies' software for training neural network models for base calling"}}}

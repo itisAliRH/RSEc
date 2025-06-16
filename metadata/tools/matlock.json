@@ -1,1 +1,1 @@
-{"tool_name":"matlock","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"matlock","biocontainers__license":"GNU Affero General Public License v3","biocontainers__summary":"Simple tools for working with Hi-C data"}}
+{"tool_name":"matlock","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"matlock","identifiers":null,"license":"GNU Affero General Public License v3","summary":"Simple tools for working with Hi-C data"}}}

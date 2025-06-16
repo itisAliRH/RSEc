@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-roc","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-roc","biocontainers__identifiers":["biotools:roc","doi:10.1038/nmeth.3252"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"utilities for ROC, with microarray focus"}}
+{"tool_name":"bioconductor-roc","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-roc","identifiers":["biotools:roc","doi:10.1038/nmeth.3252"],"license":"Artistic-2.0","summary":"utilities for ROC, with microarray focus"}}}

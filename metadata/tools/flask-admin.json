@@ -1,1 +1,1 @@
-{"tool_name":"flask-admin","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"flask-admin","biocontainers__license":"BSD License","biocontainers__summary":"Simple and extensible admin interface framework for Flask"}}
+{"tool_name":"flask-admin","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"flask-admin","identifiers":null,"license":"BSD License","summary":"Simple and extensible admin interface framework for Flask"}}}

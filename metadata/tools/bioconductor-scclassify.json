@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-scclassify","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-scclassify","biocontainers__identifiers":["doi:10.18129/b9.bioc.scclassify"],"biocontainers__license":"GPL-3","biocontainers__summary":"scClassify: single-cell Hierarchical Classification"}}
+{"tool_name":"bioconductor-scclassify","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-scclassify","identifiers":["doi:10.18129/b9.bioc.scclassify"],"license":"GPL-3","summary":"scClassify: single-cell Hierarchical Classification"}}}

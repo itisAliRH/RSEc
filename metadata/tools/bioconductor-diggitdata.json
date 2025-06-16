@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-diggitdata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-diggitdata","biocontainers__identifiers":["doi:10.18129/b9.bioc.diggitdata"],"biocontainers__license":"GPL (>=2)","biocontainers__summary":"Example data for the diggit package"}}
+{"tool_name":"bioconductor-diggitdata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-diggitdata","identifiers":["doi:10.18129/b9.bioc.diggitdata"],"license":"GPL (>=2)","summary":"Example data for the diggit package"}}}

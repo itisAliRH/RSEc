@@ -1,1 +1,1 @@
-{"tool_name":"semidbm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"semidbm","biocontainers__license":"Not available","biocontainers__summary":"Cross platform (fast) dbm interface in python"}}
+{"tool_name":"semidbm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"semidbm","identifiers":null,"license":"Not available","summary":"Cross platform (fast) dbm interface in python"}}}

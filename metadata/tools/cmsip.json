@@ -1,1 +1,1 @@
-{"tool_name":"cmsip","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"cmsip","biocontainers__license":"MIT","biocontainers__summary":"A package for detecting differential 5hmc regions from cms-ip sequencing data."}}
+{"tool_name":"cmsip","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"cmsip","identifiers":null,"license":"MIT","summary":"A package for detecting differential 5hmc regions from cms-ip sequencing data."}}}

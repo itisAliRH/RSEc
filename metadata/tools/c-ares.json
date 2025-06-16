@@ -1,1 +1,1 @@
-{"tool_name":"c-ares","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"c-ares","biocontainers__license":"MIT","biocontainers__summary":"c-ares is a C library for asynchronous DNS requests (including name resolves)"}}
+{"tool_name":"c-ares","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"c-ares","identifiers":null,"license":"MIT","summary":"c-ares is a C library for asynchronous DNS requests (including name resolves)"}}}

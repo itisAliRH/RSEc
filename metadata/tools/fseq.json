@@ -1,1 +1,1 @@
-{"tool_name":"fseq","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fseq","biocontainers__license":"GNU General Public License v3.0","biocontainers__summary":"F-seq: a feature density estimator for high-throughput sequence tags"}}
+{"tool_name":"fseq","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fseq","identifiers":null,"license":"GNU General Public License v3.0","summary":"F-seq: a feature density estimator for high-throughput sequence tags"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"kounta","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"kounta","biocontainers__license":"GNU General Public License v3.0","biocontainers__summary":"Generate multi-sample k-mer count matrix"}}
+{"tool_name":"kounta","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"kounta","identifiers":null,"license":"GNU General Public License v3.0","summary":"Generate multi-sample k-mer count matrix"}}}

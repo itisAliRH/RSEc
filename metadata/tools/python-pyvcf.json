@@ -1,1 +1,1 @@
-{"tool_name":"python-pyvcf","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-pyvcf","biocontainers__license":"MIT","biocontainers__summary":"A Variant Call Format reader for Python."}}
+{"tool_name":"python-pyvcf","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python-pyvcf","identifiers":null,"license":"MIT","summary":"A Variant Call Format reader for Python."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"pb-falconc","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pb-falconc","biocontainers__license":"BSD-3-Clause-Clear","biocontainers__summary":"C utilities for PacBio assembly (pb-falcon etc.)"}}
+{"tool_name":"pb-falconc","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pb-falconc","identifiers":null,"license":"BSD-3-Clause-Clear","summary":"C utilities for PacBio assembly (pb-falcon etc.)"}}}

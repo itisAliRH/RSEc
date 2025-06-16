@@ -1,1 +1,1 @@
-{"tool_name":"chado-tools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"chado-tools","biocontainers__license":"GNU General Public License v3.0","biocontainers__summary":"Tools to access chado databases"}}
+{"tool_name":"chado-tools","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"chado-tools","identifiers":null,"license":"GNU General Public License v3.0","summary":"Tools to access chado databases"}}}

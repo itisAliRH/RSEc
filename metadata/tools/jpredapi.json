@@ -1,1 +1,1 @@
-{"tool_name":"jpredapi","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"jpredapi","biocontainers__license":"MIT","biocontainers__summary":"Python library for submitting jobs to JPRED - A Protein Secondary Structure Prediction Server"}}
+{"tool_name":"jpredapi","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"jpredapi","identifiers":null,"license":"MIT","summary":"Python library for submitting jobs to JPRED - A Protein Secondary Structure Prediction Server"}}}

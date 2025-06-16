@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-biseq","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-biseq","biocontainers__identifiers":["biotools:biseq","doi:10.1093/bib/bbv095"],"biocontainers__license":"LGPL-3","biocontainers__summary":"Processing and analyzing bisulfite sequencing data"}}
+{"tool_name":"bioconductor-biseq","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-biseq","identifiers":["biotools:biseq","doi:10.1093/bib/bbv095"],"license":"LGPL-3","summary":"Processing and analyzing bisulfite sequencing data"}}}

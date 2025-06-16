@@ -1,1 +1,1 @@
-{"tool_name":"colormap","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"colormap","biocontainers__license":"BSD-3-Clause/colormap","biocontainers__summary":"Ease manipulation of matplotlib colormaps and color codecs (python 3)"}}
+{"tool_name":"colormap","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"colormap","identifiers":null,"license":"BSD-3-Clause/colormap","summary":"Ease manipulation of matplotlib colormaps and color codecs (python 3)"}}}

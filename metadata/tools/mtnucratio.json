@@ -1,1 +1,1 @@
-{"tool_name":"mtnucratio","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mtnucratio","biocontainers__license":"GPL-3.0","biocontainers__summary":"A small tool to determine MT to Nuclear ratios for NGS data."}}
+{"tool_name":"mtnucratio","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mtnucratio","identifiers":null,"license":"GPL-3.0","summary":"A small tool to determine MT to Nuclear ratios for NGS data."}}}

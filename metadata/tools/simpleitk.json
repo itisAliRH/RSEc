@@ -1,1 +1,1 @@
-{"tool_name":"simpleitk","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"simpleitk","biocontainers__license":"Apache-2.0","biocontainers__summary":"Python bindings for simpleitk"}}
+{"tool_name":"simpleitk","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"simpleitk","identifiers":null,"license":"Apache-2.0","summary":"Python bindings for simpleitk"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"sequenza-utils","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sequenza-utils","biocontainers__license":"GPL-3.0","biocontainers__summary":"Analysis of cancer sequencing samples, utilities for the R package sequenza"}}
+{"tool_name":"sequenza-utils","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sequenza-utils","identifiers":null,"license":"GPL-3.0","summary":"Analysis of cancer sequencing samples, utilities for the R package sequenza"}}}

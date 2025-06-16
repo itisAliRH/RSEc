@@ -1,1 +1,1 @@
-{"tool_name":"primedrpa","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"primedrpa","biocontainers__identifiers":["doi:10.1093/bioinformatics/bty701"],"biocontainers__license":"GPL-3.0","biocontainers__summary":"Rpa primer & probe design tool."}}
+{"tool_name":"primedrpa","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"primedrpa","identifiers":["doi:10.1093/bioinformatics/bty701"],"license":"GPL-3.0","summary":"Rpa primer & probe design tool."}}}

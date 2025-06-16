@@ -1,1 +1,1 @@
-{"tool_name":"req","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"req","biocontainers__license":"GPL-3.0","biocontainers__summary":"Estimating the rate of elementary quartets (REQ) of each internal branch of a phylogenetic tree from a distance matrix"}}
+{"tool_name":"req","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"req","identifiers":null,"license":"GPL-3.0","summary":"Estimating the rate of elementary quartets (REQ) of each internal branch of a phylogenetic tree from a distance matrix"}}}

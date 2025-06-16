@@ -1,1 +1,1 @@
-{"tool_name":"perl-lwp-simple","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-lwp-simple","biocontainers__license":"Perl","biocontainers__summary":"simple procedural interface to LWP"}}
+{"tool_name":"perl-lwp-simple","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-lwp-simple","identifiers":null,"license":"Perl","summary":"simple procedural interface to LWP"}}}

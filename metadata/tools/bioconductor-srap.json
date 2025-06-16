@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-srap","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-srap","biocontainers__identifiers":["biotools:srap","doi:10.7717/peerj.159"],"biocontainers__license":"GPL-3","biocontainers__summary":"Simplified RNA-Seq Analysis Pipeline"}}
+{"tool_name":"bioconductor-srap","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-srap","identifiers":["biotools:srap","doi:10.7717/peerj.159"],"license":"GPL-3","summary":"Simplified RNA-Seq Analysis Pipeline"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"r-loomr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-loomr","biocontainers__license":"GPL-3","biocontainers__summary":"An R-based interface for loom files"}}
+{"tool_name":"r-loomr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-loomr","identifiers":null,"license":"GPL-3","summary":"An R-based interface for loom files"}}}

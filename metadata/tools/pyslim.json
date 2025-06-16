@@ -1,1 +1,1 @@
-{"tool_name":"pyslim","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pyslim","biocontainers__license":"MIT","biocontainers__summary":"Manipulate tree sequences produced by SLiM."}}
+{"tool_name":"pyslim","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pyslim","identifiers":null,"license":"MIT","summary":"Manipulate tree sequences produced by SLiM."}}}

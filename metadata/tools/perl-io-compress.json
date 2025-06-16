@@ -1,1 +1,1 @@
-{"tool_name":"perl-io-compress","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-io-compress","biocontainers__license":"perl_5","biocontainers__summary":"Io interface to compressed data files/buffers"}}
+{"tool_name":"perl-io-compress","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-io-compress","identifiers":null,"license":"perl_5","summary":"Io interface to compressed data files/buffers"}}}

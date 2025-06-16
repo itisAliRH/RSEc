@@ -1,1 +1,1 @@
-{"tool_name":"r-svgui","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-svgui","biocontainers__license":"GPL-2","biocontainers__summary":"Functions to manage GUIs from R"}}
+{"tool_name":"r-svgui","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-svgui","identifiers":null,"license":"GPL-2","summary":"Functions to manage GUIs from R"}}}

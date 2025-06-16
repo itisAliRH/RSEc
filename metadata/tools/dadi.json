@@ -1,1 +1,1 @@
-{"tool_name":"dadi","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"dadi","biocontainers__license":"BSD-3-Clause","biocontainers__summary":"Fit population genetic models using diffusion approximations to the allele frequency spectrum"}}
+{"tool_name":"dadi","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"dadi","identifiers":null,"license":"BSD-3-Clause","summary":"Fit population genetic models using diffusion approximations to the allele frequency spectrum"}}}

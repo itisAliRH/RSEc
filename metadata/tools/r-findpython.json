@@ -1,1 +1,1 @@
-{"tool_name":"r-findpython","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-findpython","biocontainers__identifiers":["cran:findpython"],"biocontainers__license":"MIT","biocontainers__summary":"Package designed to find an acceptable python binary."}}
+{"tool_name":"r-findpython","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-findpython","identifiers":["cran:findpython"],"license":"MIT","summary":"Package designed to find an acceptable python binary."}}}

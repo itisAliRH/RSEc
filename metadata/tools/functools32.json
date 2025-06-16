@@ -1,1 +1,1 @@
-{"tool_name":"functools32","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"functools32","biocontainers__license":"PSF","biocontainers__summary":"Functools32: Backport of the functools module from python 3.2.3 for use on 2.7 and pypy."}}
+{"tool_name":"functools32","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"functools32","identifiers":null,"license":"PSF","summary":"Functools32: Backport of the functools module from python 3.2.3 for use on 2.7 and pypy."}}}

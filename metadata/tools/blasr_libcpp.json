@@ -1,1 +1,1 @@
-{"tool_name":"blasr_libcpp","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"blasr_libcpp","biocontainers__license":"BSD-3-Clause-Clear","biocontainers__summary":"blasr_libcpp is a support library used by blasr and other PacBio tools"}}
+{"tool_name":"blasr_libcpp","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"blasr_libcpp","identifiers":null,"license":"BSD-3-Clause-Clear","summary":"blasr_libcpp is a support library used by blasr and other PacBio tools"}}}

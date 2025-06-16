@@ -1,1 +1,1 @@
-{"tool_name":"aquila_umap","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"aquila_umap","biocontainers__license":"MIT","biocontainers__summary":"This is a program to generate Umap for Aquila diploid assembly."}}
+{"tool_name":"aquila_umap","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"aquila_umap","identifiers":null,"license":"MIT","summary":"This is a program to generate Umap for Aquila diploid assembly."}}}

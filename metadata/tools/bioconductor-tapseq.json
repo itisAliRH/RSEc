@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-tapseq","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-tapseq","biocontainers__identifiers":["doi:10.18129/b9.bioc.tapseq"],"biocontainers__license":"MIT","biocontainers__summary":"Targeted scrna-seq primer design for tap-seq"}}
+{"tool_name":"bioconductor-tapseq","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-tapseq","identifiers":["doi:10.18129/b9.bioc.tapseq"],"license":"MIT","summary":"Targeted scrna-seq primer design for tap-seq"}}}

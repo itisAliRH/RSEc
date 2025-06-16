@@ -1,1 +1,1 @@
-{"tool_name":"r-taxonomizr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-taxonomizr","biocontainers__license":"GPL (>=2)","biocontainers__summary":"Functions for assigning taxonomy to NCBI accession numbers and taxon IDs based on"}}
+{"tool_name":"r-taxonomizr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-taxonomizr","identifiers":null,"license":"GPL (>=2)","summary":"Functions for assigning taxonomy to NCBI accession numbers and taxon IDs based on"}}}

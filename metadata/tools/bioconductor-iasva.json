@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-iasva","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-iasva","biocontainers__identifiers":["doi:10.18129/b9.bioc.iasva"],"biocontainers__license":"GPL-2","biocontainers__summary":"Iteratively Adjusted Surrogate Variable Analysis"}}
+{"tool_name":"bioconductor-iasva","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-iasva","identifiers":["doi:10.18129/b9.bioc.iasva"],"license":"GPL-2","summary":"Iteratively Adjusted Surrogate Variable Analysis"}}}

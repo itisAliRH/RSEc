@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-drugvsdiseasedata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-drugvsdiseasedata","biocontainers__identifiers":["doi:10.18129/b9.bioc.drugvsdiseasedata"],"biocontainers__license":"GPL-3","biocontainers__summary":"Drug versus Disease Data"}}
+{"tool_name":"bioconductor-drugvsdiseasedata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-drugvsdiseasedata","identifiers":["doi:10.18129/b9.bioc.drugvsdiseasedata"],"license":"GPL-3","summary":"Drug versus Disease Data"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"pyalveo","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pyalveo","biocontainers__license":"BSD","biocontainers__summary":"A Python library for interfacing with the Alveo API"}}
+{"tool_name":"pyalveo","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pyalveo","identifiers":null,"license":"BSD","summary":"A Python library for interfacing with the Alveo API"}}}

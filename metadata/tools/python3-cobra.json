@@ -1,1 +1,1 @@
-{"tool_name":"python3-cobra","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python3-cobra","biocontainers__identifiers":["doi:10.1186/1752-0509-7-74"],"biocontainers__license":"GPL-2.0","biocontainers__summary":"Cobrapy is a package for constraint-based modeling of biological networks."}}
+{"tool_name":"python3-cobra","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python3-cobra","identifiers":["doi:10.1186/1752-0509-7-74"],"license":"GPL-2.0","summary":"Cobrapy is a package for constraint-based modeling of biological networks."}}}

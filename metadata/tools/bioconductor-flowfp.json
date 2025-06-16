@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-flowfp","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-flowfp","biocontainers__identifiers":["biotools:flowfp","doi:10.1155/2009/193947"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Fingerprinting for Flow Cytometry"}}
+{"tool_name":"bioconductor-flowfp","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-flowfp","identifiers":["biotools:flowfp","doi:10.1155/2009/193947"],"license":"Artistic-2.0","summary":"Fingerprinting for Flow Cytometry"}}}

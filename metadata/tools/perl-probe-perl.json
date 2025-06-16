@@ -1,1 +1,1 @@
-{"tool_name":"perl-probe-perl","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-probe-perl","biocontainers__license":"perl_5","biocontainers__summary":"Information about the currently running perl"}}
+{"tool_name":"perl-probe-perl","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-probe-perl","identifiers":null,"license":"perl_5","summary":"Information about the currently running perl"}}}

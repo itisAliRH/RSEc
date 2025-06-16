@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-clumsid","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-clumsid","biocontainers__identifiers":["doi:10.18129/b9.bioc.clumsid"],"biocontainers__license":"MIT","biocontainers__summary":"Clustering of ms2 spectra for metabolite identification"}}
+{"tool_name":"bioconductor-clumsid","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-clumsid","identifiers":["doi:10.18129/b9.bioc.clumsid"],"license":"MIT","summary":"Clustering of ms2 spectra for metabolite identification"}}}

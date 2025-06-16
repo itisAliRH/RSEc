@@ -1,1 +1,1 @@
-{"tool_name":"pairsnp","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pairsnp","biocontainers__license":"MIT","biocontainers__summary":"pairsnp calculates pairwise SNP distance matrices from multiple sequence alignment fasta files."}}
+{"tool_name":"pairsnp","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pairsnp","identifiers":null,"license":"MIT","summary":"pairsnp calculates pairwise SNP distance matrices from multiple sequence alignment fasta files."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"artic-porechop","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"artic-porechop","biocontainers__license":"GPL-3.0","biocontainers__summary":"Adapter removal and demultiplexing of Oxford Nanopore reads (fork of rrwick/Porechop)"}}
+{"tool_name":"artic-porechop","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"artic-porechop","identifiers":null,"license":"GPL-3.0","summary":"Adapter removal and demultiplexing of Oxford Nanopore reads (fork of rrwick/Porechop)"}}}

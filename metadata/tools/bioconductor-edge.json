@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-edge","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-edge","biocontainers__identifiers":["doi:10.18129/b9.bioc.edge"],"biocontainers__license":"MIT","biocontainers__summary":"Extraction of Differential Gene Expression"}}
+{"tool_name":"bioconductor-edge","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-edge","identifiers":["doi:10.18129/b9.bioc.edge"],"license":"MIT","summary":"Extraction of Differential Gene Expression"}}}

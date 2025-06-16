@@ -1,1 +1,1 @@
-{"tool_name":"happer","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"happer","biocontainers__license":"BSD","biocontainers__summary":"Minimal Python library for generating haplotype sequences."}}
+{"tool_name":"happer","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"happer","identifiers":null,"license":"BSD","summary":"Minimal Python library for generating haplotype sequences."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"phispy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"phispy","biocontainers__identifiers":["doi:10.5281/zenodo.3475717"],"biocontainers__license":"MIT","biocontainers__summary":"Prophage finder using multiple metrics"}}
+{"tool_name":"phispy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"phispy","identifiers":["doi:10.5281/zenodo.3475717"],"license":"MIT","summary":"Prophage finder using multiple metrics"}}}

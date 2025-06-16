@@ -1,1 +1,1 @@
-{"tool_name":"hmftools-amber","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"hmftools-amber","biocontainers__license":"GPL-3.0","biocontainers__summary":"Generates a tumor baf file for use in purple"}}
+{"tool_name":"hmftools-amber","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"hmftools-amber","identifiers":null,"license":"GPL-3.0","summary":"Generates a tumor baf file for use in purple"}}}

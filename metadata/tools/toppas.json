@@ -1,1 +1,1 @@
-{"tool_name":"toppas","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"toppas","biocontainers__identifiers":["doi:10.1038/nmeth.3959"],"biocontainers__license":"BSD-2-Clause","biocontainers__summary":"A graphical workflow editor for the analysis of high-throughput proteomics data"}}
+{"tool_name":"toppas","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"toppas","identifiers":["doi:10.1038/nmeth.3959"],"license":"BSD-2-Clause","summary":"A graphical workflow editor for the analysis of high-throughput proteomics data"}}}

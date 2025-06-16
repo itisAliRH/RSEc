@@ -1,1 +1,1 @@
-{"tool_name":"perl-yaml-libyaml","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-yaml-libyaml","biocontainers__license":"Not available","biocontainers__summary":"Perl yaml serialization using xs and libyaml"}}
+{"tool_name":"perl-yaml-libyaml","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-yaml-libyaml","identifiers":null,"license":"Not available","summary":"Perl yaml serialization using xs and libyaml"}}}

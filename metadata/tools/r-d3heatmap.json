@@ -1,1 +1,1 @@
-{"tool_name":"r-d3heatmap","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-d3heatmap","biocontainers__license":"Custom License","biocontainers__summary":"A D3.js-based heatmap htmlwidget for R"}}
+{"tool_name":"r-d3heatmap","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-d3heatmap","identifiers":null,"license":"Custom License","summary":"A D3.js-based heatmap htmlwidget for R"}}}

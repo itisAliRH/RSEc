@@ -1,1 +1,1 @@
-{"tool_name":"vcfpy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"vcfpy","biocontainers__license":"MIT","biocontainers__summary":"Python 3 VCF library with good support for both reading and writing"}}
+{"tool_name":"vcfpy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"vcfpy","identifiers":null,"license":"MIT","summary":"Python 3 VCF library with good support for both reading and writing"}}}

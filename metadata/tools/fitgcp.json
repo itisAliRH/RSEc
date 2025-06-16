@@ -1,1 +1,1 @@
-{"tool_name":"fitgcp","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fitgcp","biocontainers__identifiers":["doi:10.1093/bioinformatics/btt147"],"biocontainers__license":"BSDlike","biocontainers__summary":"Fitting genome coverage distributions with mixture models"}}
+{"tool_name":"fitgcp","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fitgcp","identifiers":["doi:10.1093/bioinformatics/btt147"],"license":"BSDlike","summary":"Fitting genome coverage distributions with mixture models"}}}

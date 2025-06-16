@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-m3dexampledata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-m3dexampledata","biocontainers__identifiers":["doi:10.18129/b9.bioc.m3dexampledata"],"biocontainers__license":"GPL (>=2)","biocontainers__summary":"M3Drop Example Data"}}
+{"tool_name":"bioconductor-m3dexampledata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-m3dexampledata","identifiers":["doi:10.18129/b9.bioc.m3dexampledata"],"license":"GPL (>=2)","summary":"M3Drop Example Data"}}}

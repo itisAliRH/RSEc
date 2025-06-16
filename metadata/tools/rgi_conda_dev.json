@@ -1,1 +1,1 @@
-{"tool_name":"rgi_conda_dev","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"rgi_conda_dev","biocontainers__identifiers":["doi:10.1093/nar/gkw343","doi:10.1093/nar/gky379"],"biocontainers__license":"Apache-2.0","biocontainers__summary":"Conda Galaxy Toool"}}
+{"tool_name":"rgi_conda_dev","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"rgi_conda_dev","identifiers":["doi:10.1093/nar/gkw343","doi:10.1093/nar/gky379"],"license":"Apache-2.0","summary":"Conda Galaxy Toool"}}}

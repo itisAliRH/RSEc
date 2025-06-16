@@ -1,1 +1,1 @@
-{"tool_name":"hypro","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"hypro","biocontainers__license":"GPL","biocontainers__summary":"Extend hypothetical prokka protein annotations using additional homology searches against larger databases"}}
+{"tool_name":"hypro","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"hypro","identifiers":null,"license":"GPL","summary":"Extend hypothetical prokka protein annotations using additional homology searches against larger databases"}}}

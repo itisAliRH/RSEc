@@ -1,1 +1,1 @@
-{"tool_name":"rdflib","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"rdflib","biocontainers__license":"BSD","biocontainers__summary":"RDFLib is a pure Python package work working with RDF"}}
+{"tool_name":"rdflib","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"rdflib","identifiers":null,"license":"BSD","summary":"RDFLib is a pure Python package work working with RDF"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"rpkmforgenes","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"rpkmforgenes","biocontainers__license":"Not available","biocontainers__summary":"Calculates gene expression from a read mapping file"}}
+{"tool_name":"rpkmforgenes","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"rpkmforgenes","identifiers":null,"license":"Not available","summary":"Calculates gene expression from a read mapping file"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-gsean","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-gsean","biocontainers__identifiers":["doi:10.18129/b9.bioc.gsean"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Gene set enrichment analysis with networks"}}
+{"tool_name":"bioconductor-gsean","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-gsean","identifiers":["doi:10.18129/b9.bioc.gsean"],"license":"Artistic-2.0","summary":"Gene set enrichment analysis with networks"}}}

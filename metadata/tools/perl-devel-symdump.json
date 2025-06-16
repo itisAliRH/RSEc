@@ -1,1 +1,1 @@
-{"tool_name":"perl-devel-symdump","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-devel-symdump","biocontainers__license":"perl_5","biocontainers__summary":"Dump symbol names or the symbol table"}}
+{"tool_name":"perl-devel-symdump","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-devel-symdump","identifiers":null,"license":"perl_5","summary":"Dump symbol names or the symbol table"}}}

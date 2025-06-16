@@ -1,1 +1,1 @@
-{"tool_name":"nimnexus","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"nimnexus","biocontainers__license":"MIT","biocontainers__summary":"command-line tools for processing ChIP-nexus data"}}
+{"tool_name":"nimnexus","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"nimnexus","identifiers":null,"license":"MIT","summary":"command-line tools for processing ChIP-nexus data"}}}

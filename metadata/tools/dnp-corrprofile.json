@@ -1,1 +1,1 @@
-{"tool_name":"dnp-corrprofile","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"dnp-corrprofile","biocontainers__license":"MIT","biocontainers__summary":"Profile of correlations between the patterns of dinucleotide frequency on forward and reverse strands"}}
+{"tool_name":"dnp-corrprofile","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"dnp-corrprofile","identifiers":null,"license":"MIT","summary":"Profile of correlations between the patterns of dinucleotide frequency on forward and reverse strands"}}}

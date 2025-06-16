@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-ripseekerdata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-ripseekerdata","biocontainers__identifiers":["doi:10.18129/b9.bioc.ripseekerdata"],"biocontainers__license":"GPL-2","biocontainers__summary":"test data for RIPSeeker"}}
+{"tool_name":"bioconductor-ripseekerdata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-ripseekerdata","identifiers":["doi:10.18129/b9.bioc.ripseekerdata"],"license":"GPL-2","summary":"test data for RIPSeeker"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"dunovo","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"dunovo","biocontainers__identifiers":["doi:10.1038/nprot.2014.170"],"biocontainers__license":"GPL-2.0","biocontainers__summary":"Du Novo: A pipeline for processing duplex sequencing data."}}
+{"tool_name":"dunovo","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"dunovo","identifiers":["doi:10.1038/nprot.2014.170"],"license":"GPL-2.0","summary":"Du Novo: A pipeline for processing duplex sequencing data."}}}

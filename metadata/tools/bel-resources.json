@@ -1,1 +1,1 @@
-{"tool_name":"bel-resources","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bel-resources","biocontainers__license":"MIT","biocontainers__summary":"Utilities for BEL resource files."}}
+{"tool_name":"bel-resources","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bel-resources","identifiers":null,"license":"MIT","summary":"Utilities for BEL resource files."}}}

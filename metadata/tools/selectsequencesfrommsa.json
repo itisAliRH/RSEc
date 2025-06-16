@@ -1,1 +1,1 @@
-{"tool_name":"selectsequencesfrommsa","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"selectsequencesfrommsa","biocontainers__license":"GNU General Public License v3.0","biocontainers__summary":"Tool to select representative sequences from a multiple sequence alignment"}}
+{"tool_name":"selectsequencesfrommsa","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"selectsequencesfrommsa","identifiers":null,"license":"GNU General Public License v3.0","summary":"Tool to select representative sequences from a multiple sequence alignment"}}}

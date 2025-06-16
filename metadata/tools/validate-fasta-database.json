@@ -1,1 +1,1 @@
-{"tool_name":"validate-fasta-database","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"validate-fasta-database","biocontainers__license":"GPL-3.0","biocontainers__summary":"Code for Galaxy tool for quality control on FASTA database"}}
+{"tool_name":"validate-fasta-database","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"validate-fasta-database","identifiers":null,"license":"GPL-3.0","summary":"Code for Galaxy tool for quality control on FASTA database"}}}

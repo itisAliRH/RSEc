@@ -1,1 +1,1 @@
-{"tool_name":"pybamparser","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pybamparser","biocontainers__license":"GNU General Public License v2.0","biocontainers__summary":"Tools for parsing bam data"}}
+{"tool_name":"pybamparser","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pybamparser","identifiers":null,"license":"GNU General Public License v2.0","summary":"Tools for parsing bam data"}}}

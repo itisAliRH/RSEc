@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-omadb","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-omadb","biocontainers__identifiers":["doi:10.18129/b9.bioc.omadb"],"biocontainers__license":"GPL-3","biocontainers__summary":"R wrapper for the OMA REST API"}}
+{"tool_name":"bioconductor-omadb","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-omadb","identifiers":["doi:10.18129/b9.bioc.omadb"],"license":"GPL-3","summary":"R wrapper for the OMA REST API"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"deblur","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"deblur","biocontainers__license":"BSD","biocontainers__summary":"Deblur is a greedy deconvolution algorithm based on known read error profiles."}}
+{"tool_name":"deblur","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"deblur","identifiers":null,"license":"BSD","summary":"Deblur is a greedy deconvolution algorithm based on known read error profiles."}}}

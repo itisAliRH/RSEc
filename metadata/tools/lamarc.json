@@ -1,1 +1,1 @@
-{"tool_name":"lamarc","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"lamarc","biocontainers__license":"Apache-2.0","biocontainers__summary":"Likelihood analysis with metropolis algorithm using random coalescence"}}
+{"tool_name":"lamarc","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"lamarc","identifiers":null,"license":"Apache-2.0","summary":"Likelihood analysis with metropolis algorithm using random coalescence"}}}

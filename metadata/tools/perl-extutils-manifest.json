@@ -1,1 +1,1 @@
-{"tool_name":"perl-extutils-manifest","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-extutils-manifest","biocontainers__license":"perl_5","biocontainers__summary":"Utilities to write and check a manifest file"}}
+{"tool_name":"perl-extutils-manifest","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-extutils-manifest","identifiers":null,"license":"perl_5","summary":"Utilities to write and check a manifest file"}}}

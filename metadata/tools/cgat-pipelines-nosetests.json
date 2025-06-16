@@ -1,1 +1,1 @@
-{"tool_name":"cgat-pipelines-nosetests","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"cgat-pipelines-nosetests","biocontainers__license":"MIT","biocontainers__summary":"Metapackage to test CGAT Pipelines"}}
+{"tool_name":"cgat-pipelines-nosetests","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"cgat-pipelines-nosetests","identifiers":null,"license":"MIT","summary":"Metapackage to test CGAT Pipelines"}}}

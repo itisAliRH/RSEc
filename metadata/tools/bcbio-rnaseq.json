@@ -1,1 +1,1 @@
-{"tool_name":"bcbio-rnaseq","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bcbio-rnaseq","biocontainers__license":"MIT","biocontainers__summary":"Report generation for bcbio-nextgen rna-seq runs"}}
+{"tool_name":"bcbio-rnaseq","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bcbio-rnaseq","identifiers":null,"license":"MIT","summary":"Report generation for bcbio-nextgen rna-seq runs"}}}

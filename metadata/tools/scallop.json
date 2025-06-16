@@ -1,1 +1,1 @@
-{"tool_name":"scallop","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"scallop","biocontainers__license":"BSD 3-Clause License","biocontainers__summary":"Scallop is a reference-based transcriptome assembler for RNA-seq"}}
+{"tool_name":"scallop","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"scallop","identifiers":null,"license":"BSD 3-Clause License","summary":"Scallop is a reference-based transcriptome assembler for RNA-seq"}}}

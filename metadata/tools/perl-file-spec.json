@@ -1,1 +1,1 @@
-{"tool_name":"perl-file-spec","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-file-spec","biocontainers__license":"perl_5","biocontainers__summary":"Portably perform operations on file names"}}
+{"tool_name":"perl-file-spec","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-file-spec","identifiers":null,"license":"perl_5","summary":"Portably perform operations on file names"}}}

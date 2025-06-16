@@ -1,1 +1,1 @@
-{"tool_name":"sift4g","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sift4g","biocontainers__license":"GPL-3.0","biocontainers__summary":"SIFT 4G is a faster version of SIFT that enables us to scale up and provide SIFT predictions for more organisms."}}
+{"tool_name":"sift4g","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sift4g","identifiers":null,"license":"GPL-3.0","summary":"SIFT 4G is a faster version of SIFT that enables us to scale up and provide SIFT predictions for more organisms."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-pod-checker","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-pod-checker","biocontainers__license":"perl_5","biocontainers__summary":"Pod::checker verifies pod documentation contents for compliance with the pod format specifications"}}
+{"tool_name":"perl-pod-checker","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-pod-checker","identifiers":null,"license":"perl_5","summary":"Pod::checker verifies pod documentation contents for compliance with the pod format specifications"}}}

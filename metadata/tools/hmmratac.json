@@ -1,1 +1,1 @@
-{"tool_name":"hmmratac","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"hmmratac","biocontainers__identifiers":["doi:10.1093/nar/gkz533"],"biocontainers__license":"GPL-3.0","biocontainers__summary":"Peak caller for ATAC-seq data"}}
+{"tool_name":"hmmratac","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"hmmratac","identifiers":["doi:10.1093/nar/gkz533"],"license":"GPL-3.0","summary":"Peak caller for ATAC-seq data"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"sompy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sompy","biocontainers__license":"MIT","biocontainers__summary":"Numpy based SOM Library."}}
+{"tool_name":"sompy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sompy","identifiers":null,"license":"MIT","summary":"Numpy based SOM Library."}}}

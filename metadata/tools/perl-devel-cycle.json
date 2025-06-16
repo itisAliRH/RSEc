@@ -1,1 +1,1 @@
-{"tool_name":"perl-devel-cycle","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-devel-cycle","biocontainers__license":"Not available","biocontainers__summary":"Find memory cycles in objects"}}
+{"tool_name":"perl-devel-cycle","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-devel-cycle","identifiers":null,"license":"Not available","summary":"Find memory cycles in objects"}}}

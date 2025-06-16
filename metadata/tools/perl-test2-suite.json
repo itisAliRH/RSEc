@@ -1,1 +1,1 @@
-{"tool_name":"perl-test2-suite","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-test2-suite","biocontainers__license":"perl_5","biocontainers__summary":"Distribution with a rich set of tools built upon the test2 framework."}}
+{"tool_name":"perl-test2-suite","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-test2-suite","identifiers":null,"license":"perl_5","summary":"Distribution with a rich set of tools built upon the test2 framework."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"e-mem","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"e-mem","biocontainers__identifiers":["doi:10.1093/bioinformatics/btu687"],"biocontainers__license":"GPL-3.0+","biocontainers__summary":"Efficient computation of maximal exact matches for very large genomes"}}
+{"tool_name":"e-mem","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"e-mem","identifiers":["doi:10.1093/bioinformatics/btu687"],"license":"GPL-3.0+","summary":"Efficient computation of maximal exact matches for very large genomes"}}}

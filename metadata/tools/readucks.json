@@ -1,1 +1,1 @@
-{"tool_name":"readucks","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"readucks","biocontainers__license":"GNU General Public License v3.0","biocontainers__summary":"Readucks: a simple demultiplexer for nanopore reads"}}
+{"tool_name":"readucks","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"readucks","identifiers":null,"license":"GNU General Public License v3.0","summary":"Readucks: a simple demultiplexer for nanopore reads"}}}

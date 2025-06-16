@@ -1,1 +1,1 @@
-{"tool_name":"surankco","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"surankco","biocontainers__license":"BSD-3-clause","biocontainers__summary":"Supervised ranking of contigs in de novo assemblies"}}
+{"tool_name":"surankco","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"surankco","identifiers":null,"license":"BSD-3-clause","summary":"Supervised ranking of contigs in de novo assemblies"}}}

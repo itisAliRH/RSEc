@@ -1,1 +1,1 @@
-{"tool_name":"bcdoc","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bcdoc","biocontainers__license":"Apache-2.0","biocontainers__summary":"Tools to help document botocore-based projects"}}
+{"tool_name":"bcdoc","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bcdoc","identifiers":null,"license":"Apache-2.0","summary":"Tools to help document botocore-based projects"}}}

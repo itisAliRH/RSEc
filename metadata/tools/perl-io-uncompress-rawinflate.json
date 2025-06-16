@@ -1,1 +1,1 @@
-{"tool_name":"perl-io-uncompress-rawinflate","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-io-uncompress-rawinflate","biocontainers__license":"perl_5","biocontainers__summary":"Read rfc 1951 files/buffers"}}
+{"tool_name":"perl-io-uncompress-rawinflate","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-io-uncompress-rawinflate","identifiers":null,"license":"perl_5","summary":"Read rfc 1951 files/buffers"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-santa","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-santa","biocontainers__identifiers":["doi:10.18129/b9.bioc.santa"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Spatial Analysis of Network Associations"}}
+{"tool_name":"bioconductor-santa","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-santa","identifiers":["doi:10.18129/b9.bioc.santa"],"license":"GPL (>= 2)","summary":"Spatial Analysis of Network Associations"}}}

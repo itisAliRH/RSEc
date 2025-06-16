@@ -1,1 +1,1 @@
-{"tool_name":"pyasn1-modules","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pyasn1-modules","biocontainers__license":"BSD","biocontainers__summary":"a small but growing collection of ASN.1 data structures expressed in Python terms using pyasn1 data model"}}
+{"tool_name":"pyasn1-modules","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pyasn1-modules","identifiers":null,"license":"BSD","summary":"a small but growing collection of ASN.1 data structures expressed in Python terms using pyasn1 data model"}}}

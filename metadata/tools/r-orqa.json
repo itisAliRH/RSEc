@@ -1,1 +1,1 @@
-{"tool_name":"r-orqa","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-orqa","biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Assess repeatability, accuracy and corss-platform agreement of titration microarray"}}
+{"tool_name":"r-orqa","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-orqa","identifiers":null,"license":"GPL (>= 2)","summary":"Assess repeatability, accuracy and corss-platform agreement of titration microarray"}}}

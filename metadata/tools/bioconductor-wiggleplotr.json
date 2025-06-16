@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-wiggleplotr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-wiggleplotr","biocontainers__identifiers":["doi:10.18129/b9.bioc.wiggleplotr"],"biocontainers__license":"Apache-2.0","biocontainers__summary":"Make read coverage plots from bigwig files"}}
+{"tool_name":"bioconductor-wiggleplotr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-wiggleplotr","identifiers":["doi:10.18129/b9.bioc.wiggleplotr"],"license":"Apache-2.0","summary":"Make read coverage plots from bigwig files"}}}

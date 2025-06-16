@@ -1,1 +1,1 @@
-{"tool_name":"perl-test-differences","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-test-differences","biocontainers__license":"Not available","biocontainers__summary":"Test strings and data structures and show differences if not ok"}}
+{"tool_name":"perl-test-differences","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-test-differences","identifiers":null,"license":"Not available","summary":"Test strings and data structures and show differences if not ok"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"ncbi-genome-download","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ncbi-genome-download","biocontainers__license":"Apache-2.0","biocontainers__summary":"Download genome files from the ncbi ftp server."}}
+{"tool_name":"ncbi-genome-download","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ncbi-genome-download","identifiers":null,"license":"Apache-2.0","summary":"Download genome files from the ncbi ftp server."}}}

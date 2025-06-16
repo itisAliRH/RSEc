@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-harmandata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-harmandata","biocontainers__identifiers":["doi:10.18129/b9.bioc.harmandata"],"biocontainers__license":"GPL-3","biocontainers__summary":"Data for the Harman package"}}
+{"tool_name":"bioconductor-harmandata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-harmandata","identifiers":["doi:10.18129/b9.bioc.harmandata"],"license":"GPL-3","summary":"Data for the Harman package"}}}

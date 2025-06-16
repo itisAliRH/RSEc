@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-mosim","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-mosim","biocontainers__identifiers":["doi:10.18129/b9.bioc.mosim"],"biocontainers__license":"GPL-3","biocontainers__summary":"Multi-Omics Simulation (MOSim)"}}
+{"tool_name":"bioconductor-mosim","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-mosim","identifiers":["doi:10.18129/b9.bioc.mosim"],"license":"GPL-3","summary":"Multi-Omics Simulation (MOSim)"}}}

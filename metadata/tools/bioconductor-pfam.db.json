@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-pfam.db","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-pfam.db","biocontainers__identifiers":["doi:10.18129/b9.bioc.pfam.db"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"A set of protein ID mappings for PFAM"}}
+{"tool_name":"bioconductor-pfam.db","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-pfam.db","identifiers":["doi:10.18129/b9.bioc.pfam.db"],"license":"Artistic-2.0","summary":"A set of protein ID mappings for PFAM"}}}

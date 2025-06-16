@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-sesame","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-sesame","biocontainers__identifiers":["doi:10.18129/b9.bioc.sesame"],"biocontainers__license":"MIT","biocontainers__summary":"Tools for analyzing illumina infinium dna methylation arrays"}}
+{"tool_name":"bioconductor-sesame","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-sesame","identifiers":["doi:10.18129/b9.bioc.sesame"],"license":"MIT","summary":"Tools for analyzing illumina infinium dna methylation arrays"}}}

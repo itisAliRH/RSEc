@@ -1,1 +1,1 @@
-{"tool_name":"rsa","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"rsa","biocontainers__license":"Apache Software License","biocontainers__summary":"Pure-Python RSA implementation"}}
+{"tool_name":"rsa","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"rsa","identifiers":null,"license":"Apache Software License","summary":"Pure-Python RSA implementation"}}}

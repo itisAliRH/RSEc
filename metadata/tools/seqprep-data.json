@@ -1,1 +1,1 @@
-{"tool_name":"seqprep-data","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"seqprep-data","biocontainers__license":"MIT","biocontainers__summary":"Example data set for seqprep - only used for testing"}}
+{"tool_name":"seqprep-data","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"seqprep-data","identifiers":null,"license":"MIT","summary":"Example data set for seqprep - only used for testing"}}}

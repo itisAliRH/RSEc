@@ -1,1 +1,1 @@
-{"tool_name":"r-fgwas","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-fgwas","biocontainers__identifiers":["doi:10.1016/j.jgg.2018.06.006"],"biocontainers__license":"GNU GPL","biocontainers__summary":"Gwas tools for longitudinal genetic traits based on fgwas statistical model."}}
+{"tool_name":"r-fgwas","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-fgwas","identifiers":["doi:10.1016/j.jgg.2018.06.006"],"license":"GNU GPL","summary":"Gwas tools for longitudinal genetic traits based on fgwas statistical model."}}}

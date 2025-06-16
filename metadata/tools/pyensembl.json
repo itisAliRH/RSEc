@@ -1,1 +1,1 @@
-{"tool_name":"pyensembl","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pyensembl","biocontainers__license":"Apache-2.0","biocontainers__summary":"Python interface to ensembl reference genome metadata"}}
+{"tool_name":"pyensembl","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pyensembl","identifiers":null,"license":"Apache-2.0","summary":"Python interface to ensembl reference genome metadata"}}}

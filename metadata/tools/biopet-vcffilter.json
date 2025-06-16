@@ -1,1 +1,1 @@
-{"tool_name":"biopet-vcffilter","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"biopet-vcffilter","biocontainers__license":"MIT","biocontainers__summary":"This tool enables a user to filter vcf files."}}
+{"tool_name":"biopet-vcffilter","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"biopet-vcffilter","identifiers":null,"license":"MIT","summary":"This tool enables a user to filter vcf files."}}}

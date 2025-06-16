@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-mait","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-mait","biocontainers__identifiers":["doi:10.18129/b9.bioc.mait"],"biocontainers__license":"GPL-2","biocontainers__summary":"Statistical Analysis of Metabolomic Data"}}
+{"tool_name":"bioconductor-mait","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-mait","identifiers":["doi:10.18129/b9.bioc.mait"],"license":"GPL-2","summary":"Statistical Analysis of Metabolomic Data"}}}

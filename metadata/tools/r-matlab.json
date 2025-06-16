@@ -1,1 +1,1 @@
-{"tool_name":"r-matlab","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-matlab","biocontainers__license":"Artistic-2.0","biocontainers__summary":"Emulate MATLAB code using R."}}
+{"tool_name":"r-matlab","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-matlab","identifiers":null,"license":"Artistic-2.0","summary":"Emulate MATLAB code using R."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"biopet-sampleconfig","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"biopet-sampleconfig","biocontainers__license":"MIT","biocontainers__summary":"extracttsv  this mean can extract samples, libraries and readgroups from a sample config file."}}
+{"tool_name":"biopet-sampleconfig","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"biopet-sampleconfig","identifiers":null,"license":"MIT","summary":"extracttsv  this mean can extract samples, libraries and readgroups from a sample config file."}}}

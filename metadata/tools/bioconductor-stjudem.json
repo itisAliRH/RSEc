@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-stjudem","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-stjudem","biocontainers__identifiers":["doi:10.18129/b9.bioc.stjudem"],"biocontainers__license":"LGPL (>= 2)","biocontainers__summary":"Microarray Data from Yeoh et al. in MACAT format"}}
+{"tool_name":"bioconductor-stjudem","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-stjudem","identifiers":["doi:10.18129/b9.bioc.stjudem"],"license":"LGPL (>= 2)","summary":"Microarray Data from Yeoh et al. in MACAT format"}}}

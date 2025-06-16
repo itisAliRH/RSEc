@@ -1,1 +1,1 @@
-{"tool_name":"python-sortedcontainers","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-sortedcontainers","biocontainers__license":"Apache License, Version 2.0","biocontainers__summary":"Sorted collections library, written in pure-python, and fast as c-extensions"}}
+{"tool_name":"python-sortedcontainers","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python-sortedcontainers","identifiers":null,"license":"Apache License, Version 2.0","summary":"Sorted collections library, written in pure-python, and fast as c-extensions"}}}

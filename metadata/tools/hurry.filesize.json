@@ -1,1 +1,1 @@
-{"tool_name":"hurry.filesize","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"hurry.filesize","biocontainers__license":"ZPL 2.1","biocontainers__summary":"A simple python library for human readable file sizes (or anything sized in bytes)."}}
+{"tool_name":"hurry.filesize","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"hurry.filesize","identifiers":null,"license":"ZPL 2.1","summary":"A simple python library for human readable file sizes (or anything sized in bytes)."}}}

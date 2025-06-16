@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-scruff","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-scruff","biocontainers__identifiers":["doi:10.18129/b9.bioc.scruff"],"biocontainers__license":"MIT","biocontainers__summary":"Single cell rna-seq umi filtering facilitator (scruff)"}}
+{"tool_name":"bioconductor-scruff","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-scruff","identifiers":["doi:10.18129/b9.bioc.scruff"],"license":"MIT","summary":"Single cell rna-seq umi filtering facilitator (scruff)"}}}

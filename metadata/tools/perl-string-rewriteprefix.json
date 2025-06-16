@@ -1,1 +1,1 @@
-{"tool_name":"perl-string-rewriteprefix","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-string-rewriteprefix","biocontainers__license":"Not available","biocontainers__summary":"Rewrite strings based on a set of known prefixes"}}
+{"tool_name":"perl-string-rewriteprefix","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-string-rewriteprefix","identifiers":null,"license":"Not available","summary":"Rewrite strings based on a set of known prefixes"}}}

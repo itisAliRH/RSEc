@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-logitt","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-logitt","biocontainers__identifiers":["biotools:logitt","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"logit-t Package"}}
+{"tool_name":"bioconductor-logitt","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-logitt","identifiers":["biotools:logitt","doi:10.1038/nmeth.3252"],"license":"GPL (>= 2)","summary":"logit-t Package"}}}

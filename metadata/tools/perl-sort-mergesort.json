@@ -1,1 +1,1 @@
-{"tool_name":"perl-sort-mergesort","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-sort-mergesort","biocontainers__license":"Not available","biocontainers__summary":"Merge sorted streams to create a new stream"}}
+{"tool_name":"perl-sort-mergesort","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-sort-mergesort","identifiers":null,"license":"Not available","summary":"Merge sorted streams to create a new stream"}}}

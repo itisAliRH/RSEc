@@ -1,1 +1,1 @@
-{"tool_name":"umitools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"umitools","biocontainers__identifiers":["doi:10.1186/s12864-018-4933-1"],"biocontainers__license":"MIT","biocontainers__summary":"A toolset for handling sequencing data with unique molecular identifiers (umis)"}}
+{"tool_name":"umitools","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"umitools","identifiers":["doi:10.1186/s12864-018-4933-1"],"license":"MIT","summary":"A toolset for handling sequencing data with unique molecular identifiers (umis)"}}}

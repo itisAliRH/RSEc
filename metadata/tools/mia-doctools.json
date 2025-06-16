@@ -1,1 +1,1 @@
-{"tool_name":"mia-doctools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mia-doctools","biocontainers__identifiers":["doi:10.1186/1751-0473-8-20"],"biocontainers__license":"GPL-3.0+","biocontainers__summary":"Helper scripts for run-time document creation"}}
+{"tool_name":"mia-doctools","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mia-doctools","identifiers":["doi:10.1186/1751-0473-8-20"],"license":"GPL-3.0+","summary":"Helper scripts for run-time document creation"}}}

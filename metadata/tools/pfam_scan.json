@@ -1,1 +1,1 @@
-{"tool_name":"pfam_scan","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pfam_scan","biocontainers__license":"GPL-2.0","biocontainers__summary":"Pfam_scan.pl is a perl script calling hmmer v3 to search a fasta file against a library of pfam hmms."}}
+{"tool_name":"pfam_scan","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pfam_scan","identifiers":null,"license":"GPL-2.0","summary":"Pfam_scan.pl is a perl script calling hmmer v3 to search a fasta file against a library of pfam hmms."}}}

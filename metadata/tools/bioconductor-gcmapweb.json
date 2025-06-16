@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-gcmapweb","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-gcmapweb","biocontainers__identifiers":["doi:10.18129/b9.bioc.gcmapweb"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"A web interface for gene-set enrichment analyses"}}
+{"tool_name":"bioconductor-gcmapweb","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-gcmapweb","identifiers":["doi:10.18129/b9.bioc.gcmapweb"],"license":"Artistic-2.0","summary":"A web interface for gene-set enrichment analyses"}}}

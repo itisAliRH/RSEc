@@ -1,1 +1,1 @@
-{"tool_name":"python-dateutil","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-dateutil","biocontainers__license":"BSD","biocontainers__summary":"Extensions to the standard python datetime module"}}
+{"tool_name":"python-dateutil","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python-dateutil","identifiers":null,"license":"BSD","summary":"Extensions to the standard python datetime module"}}}

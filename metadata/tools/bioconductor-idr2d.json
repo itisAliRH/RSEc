@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-idr2d","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-idr2d","biocontainers__identifiers":["doi:10.18129/b9.bioc.idr2d"],"biocontainers__license":"MIT","biocontainers__summary":"Irreproducible discovery rate for genomic interactions data"}}
+{"tool_name":"bioconductor-idr2d","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-idr2d","identifiers":["doi:10.18129/b9.bioc.idr2d"],"license":"MIT","summary":"Irreproducible discovery rate for genomic interactions data"}}}

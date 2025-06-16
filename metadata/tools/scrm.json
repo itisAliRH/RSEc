@@ -1,1 +1,1 @@
-{"tool_name":"scrm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"scrm","biocontainers__identifiers":["doi:10.1093/bioinformatics/btu861"],"biocontainers__license":"GPL-3.0+","biocontainers__summary":"Simulator of evolution of genetic sequences"}}
+{"tool_name":"scrm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"scrm","identifiers":["doi:10.1093/bioinformatics/btu861"],"license":"GPL-3.0+","summary":"Simulator of evolution of genetic sequences"}}}

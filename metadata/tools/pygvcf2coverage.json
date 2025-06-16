@@ -1,1 +1,1 @@
-{"tool_name":"pygvcf2coverage","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pygvcf2coverage","biocontainers__license":"MIT","biocontainers__summary":"Python tool to extra coverage from gvcf files."}}
+{"tool_name":"pygvcf2coverage","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pygvcf2coverage","identifiers":null,"license":"MIT","summary":"Python tool to extra coverage from gvcf files."}}}

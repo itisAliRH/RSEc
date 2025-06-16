@@ -1,1 +1,1 @@
-{"tool_name":"trackhub","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"trackhub","biocontainers__license":"MIT","biocontainers__summary":"Create and manage ucsc track hubs from python"}}
+{"tool_name":"trackhub","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"trackhub","identifiers":null,"license":"MIT","summary":"Create and manage ucsc track hubs from python"}}}

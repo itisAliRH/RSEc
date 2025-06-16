@@ -1,1 +1,1 @@
-{"tool_name":"perl-locale","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-locale","biocontainers__license":"perl_5","biocontainers__summary":"Perl pragma to use or avoid posix locales for built-in operations"}}
+{"tool_name":"perl-locale","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-locale","identifiers":null,"license":"perl_5","summary":"Perl pragma to use or avoid posix locales for built-in operations"}}}

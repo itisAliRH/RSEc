@@ -1,1 +1,1 @@
-{"tool_name":"r-qqman","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-qqman","biocontainers__license":"GPL-3","biocontainers__summary":"Create Q-Q and manhattan plots for GWAS data from PLINK results."}}
+{"tool_name":"r-qqman","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-qqman","identifiers":null,"license":"GPL-3","summary":"Create Q-Q and manhattan plots for GWAS data from PLINK results."}}}

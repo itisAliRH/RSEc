@@ -1,1 +1,1 @@
-{"tool_name":"xopen","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"xopen","biocontainers__license":"MIT","biocontainers__summary":"Python3 module to open compressed files transparently"}}
+{"tool_name":"xopen","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"xopen","identifiers":null,"license":"MIT","summary":"Python3 module to open compressed files transparently"}}}

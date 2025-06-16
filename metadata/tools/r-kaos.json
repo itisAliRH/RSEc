@@ -1,1 +1,1 @@
-{"tool_name":"r-kaos","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-kaos","biocontainers__identifiers":["doi:10.1101/575324"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Sequences encoding by using the chaos game representation"}}
+{"tool_name":"r-kaos","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-kaos","identifiers":["doi:10.1101/575324"],"license":"GPL (>= 2)","summary":"Sequences encoding by using the chaos game representation"}}}

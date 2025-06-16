@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-cocoa","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-cocoa","biocontainers__identifiers":["doi:10.18129/b9.bioc.cocoa"],"biocontainers__license":"GPL-3","biocontainers__summary":"Coordinate Covariation Analysis"}}
+{"tool_name":"bioconductor-cocoa","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-cocoa","identifiers":["doi:10.18129/b9.bioc.cocoa"],"license":"GPL-3","summary":"Coordinate Covariation Analysis"}}}

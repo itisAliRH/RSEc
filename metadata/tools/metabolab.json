@@ -1,1 +1,1 @@
-{"tool_name":"metabolab","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"metabolab","biocontainers__license":"GPL","biocontainers__summary":"A container for a non-GUI version of MetaboLab, software for processing and analysing NMR data."}}
+{"tool_name":"metabolab","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"metabolab","identifiers":null,"license":"GPL","summary":"A container for a non-GUI version of MetaboLab, software for processing and analysing NMR data."}}}

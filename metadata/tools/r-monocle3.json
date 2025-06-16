@@ -1,1 +1,1 @@
-{"tool_name":"r-monocle3","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-monocle3","biocontainers__license":"MIT","biocontainers__summary":"An analysis toolkit for single-cell RNA-seq."}}
+{"tool_name":"r-monocle3","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-monocle3","identifiers":null,"license":"MIT","summary":"An analysis toolkit for single-cell RNA-seq."}}}

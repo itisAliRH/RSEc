@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-readat","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-readat","biocontainers__identifiers":["doi:10.18129/b9.bioc.readat"],"biocontainers__license":"GPL-3","biocontainers__summary":"Functionality to Read and Manipulate SomaLogic ADAT files"}}
+{"tool_name":"bioconductor-readat","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-readat","identifiers":["doi:10.18129/b9.bioc.readat"],"license":"GPL-3","summary":"Functionality to Read and Manipulate SomaLogic ADAT files"}}}

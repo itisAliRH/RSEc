@@ -1,1 +1,1 @@
-{"tool_name":"grapetree","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"grapetree","biocontainers__identifiers":["doi:10.1101/gr.232397.117"],"biocontainers__license":"Not available","biocontainers__summary":"Web interface of grapetree, which is a program for phylogenetic analysis."}}
+{"tool_name":"grapetree","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"grapetree","identifiers":["doi:10.1101/gr.232397.117"],"license":"Not available","summary":"Web interface of grapetree, which is a program for phylogenetic analysis."}}}

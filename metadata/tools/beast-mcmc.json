@@ -1,1 +1,1 @@
-{"tool_name":"beast-mcmc","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"beast-mcmc","biocontainers__identifiers":["doi:10.1093/ve/vey016"],"biocontainers__license":"LGPL-3.0+","biocontainers__summary":"Bayesian mcmc phylogenetic inference"}}
+{"tool_name":"beast-mcmc","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"beast-mcmc","identifiers":["doi:10.1093/ve/vey016"],"license":"LGPL-3.0+","summary":"Bayesian mcmc phylogenetic inference"}}}

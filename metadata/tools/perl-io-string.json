@@ -1,1 +1,1 @@
-{"tool_name":"perl-io-string","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-io-string","biocontainers__license":"Not available","biocontainers__summary":"Emulate file interface for in-core strings"}}
+{"tool_name":"perl-io-string","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-io-string","identifiers":null,"license":"Not available","summary":"Emulate file interface for in-core strings"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"riboraptor","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"riboraptor","biocontainers__license":"BSD License","biocontainers__summary":"Python package to analyse ribosome profiling data"}}
+{"tool_name":"riboraptor","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"riboraptor","identifiers":null,"license":"BSD License","summary":"Python package to analyse ribosome profiling data"}}}

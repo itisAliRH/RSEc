@@ -1,1 +1,1 @@
-{"tool_name":"libbigwig","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"libbigwig","biocontainers__identifiers":["doi:10.5281/zenodo.45278"],"biocontainers__license":"MIT","biocontainers__summary":"A C library for handling bigWig files"}}
+{"tool_name":"libbigwig","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"libbigwig","identifiers":["doi:10.5281/zenodo.45278"],"license":"MIT","summary":"A C library for handling bigWig files"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"carnac-lr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"carnac-lr","biocontainers__license":"AGPL-3.0","biocontainers__summary":"Clustering coefficient-based Acquisition of RNA Communities in Long Read"}}
+{"tool_name":"carnac-lr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"carnac-lr","identifiers":null,"license":"AGPL-3.0","summary":"Clustering coefficient-based Acquisition of RNA Communities in Long Read"}}}

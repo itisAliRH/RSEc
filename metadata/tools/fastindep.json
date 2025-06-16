@@ -1,1 +1,1 @@
-{"tool_name":"fastindep","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fastindep","biocontainers__license":"MIT","biocontainers__summary":"A fast random heuristic algorithm for identifying large sets of unrelated individuals and unrelated markers"}}
+{"tool_name":"fastindep","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fastindep","identifiers":null,"license":"MIT","summary":"A fast random heuristic algorithm for identifying large sets of unrelated individuals and unrelated markers"}}}

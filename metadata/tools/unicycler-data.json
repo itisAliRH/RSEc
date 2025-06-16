@@ -1,1 +1,1 @@
-{"tool_name":"unicycler-data","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"unicycler-data","biocontainers__license":"GPL-3.0+","biocontainers__summary":"Hybrid assembly pipeline for bacterial genomes (data package)"}}
+{"tool_name":"unicycler-data","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"unicycler-data","identifiers":null,"license":"GPL-3.0+","summary":"Hybrid assembly pipeline for bacterial genomes (data package)"}}}

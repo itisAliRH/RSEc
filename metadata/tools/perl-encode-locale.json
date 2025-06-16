@@ -1,1 +1,1 @@
-{"tool_name":"perl-encode-locale","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-encode-locale","biocontainers__license":"perl_5","biocontainers__summary":"Determine the locale encoding"}}
+{"tool_name":"perl-encode-locale","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-encode-locale","identifiers":null,"license":"perl_5","summary":"Determine the locale encoding"}}}

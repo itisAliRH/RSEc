@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-rontotools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-rontotools","biocontainers__identifiers":["biotools:rontotools","doi:10.1109/JPROC.2016.2531000"],"biocontainers__license":"CC-BY-NC-ND-4.0","biocontainers__summary":"R Onto-Tools suite"}}
+{"tool_name":"bioconductor-rontotools","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-rontotools","identifiers":["biotools:rontotools","doi:10.1109/JPROC.2016.2531000"],"license":"CC-BY-NC-ND-4.0","summary":"R Onto-Tools suite"}}}

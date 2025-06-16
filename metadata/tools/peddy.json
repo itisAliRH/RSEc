@@ -1,1 +1,1 @@
-{"tool_name":"peddy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"peddy","biocontainers__identifiers":["doi:10.1016/j.ajhg.2017.01.017"],"biocontainers__license":"MIT","biocontainers__summary":"Genotype ped correspondence check, ancestry check, sex check, quickly on vcf"}}
+{"tool_name":"peddy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"peddy","identifiers":["doi:10.1016/j.ajhg.2017.01.017"],"license":"MIT","summary":"Genotype ped correspondence check, ancestry check, sex check, quickly on vcf"}}}

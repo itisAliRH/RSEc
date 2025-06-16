@@ -1,1 +1,1 @@
-{"tool_name":"pyaavf","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pyaavf","biocontainers__license":"Apache-2.0","biocontainers__summary":"An amino acid variant format parser for Python."}}
+{"tool_name":"pyaavf","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pyaavf","identifiers":null,"license":"Apache-2.0","summary":"An amino acid variant format parser for Python."}}}

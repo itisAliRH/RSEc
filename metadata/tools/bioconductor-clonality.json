@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-clonality","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-clonality","biocontainers__identifiers":["biotools:clonality","doi:10.1093/bioinformatics/btr268"],"biocontainers__license":"GPL-3","biocontainers__summary":"Clonality testing"}}
+{"tool_name":"bioconductor-clonality","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-clonality","identifiers":["biotools:clonality","doi:10.1093/bioinformatics/btr268"],"license":"GPL-3","summary":"Clonality testing"}}}

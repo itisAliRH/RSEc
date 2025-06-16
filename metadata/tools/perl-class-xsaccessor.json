@@ -1,1 +1,1 @@
-{"tool_name":"perl-class-xsaccessor","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-class-xsaccessor","biocontainers__license":"perl_5","biocontainers__summary":"Generate fast xs accessors without runtime compilation"}}
+{"tool_name":"perl-class-xsaccessor","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-class-xsaccessor","identifiers":null,"license":"perl_5","summary":"Generate fast xs accessors without runtime compilation"}}}

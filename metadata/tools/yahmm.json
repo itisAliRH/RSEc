@@ -1,1 +1,1 @@
-{"tool_name":"yahmm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"yahmm","biocontainers__license":"MIT","biocontainers__summary":"YAHMM is a HMM package for Python, implemented in Cython for speed."}}
+{"tool_name":"yahmm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"yahmm","identifiers":null,"license":"MIT","summary":"YAHMM is a HMM package for Python, implemented in Cython for speed."}}}

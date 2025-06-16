@@ -1,1 +1,1 @@
-{"tool_name":"metaphlan2-data","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"metaphlan2-data","biocontainers__identifiers":["doi:10.1038/nmeth.3589"],"biocontainers__license":"expat","biocontainers__summary":"Data package for metagenomic phylogenetic analysis"}}
+{"tool_name":"metaphlan2-data","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"metaphlan2-data","identifiers":["doi:10.1038/nmeth.3589"],"license":"expat","summary":"Data package for metagenomic phylogenetic analysis"}}}

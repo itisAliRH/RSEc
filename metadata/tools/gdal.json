@@ -1,1 +1,1 @@
-{"tool_name":"gdal","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"gdal","biocontainers__license":"Several Oss","biocontainers__summary":"Gdal: Geospatial data abstraction library"}}
+{"tool_name":"gdal","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"gdal","identifiers":null,"license":"Several Oss","summary":"Gdal: Geospatial data abstraction library"}}}

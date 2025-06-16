@@ -1,1 +1,1 @@
-{"tool_name":"asn2gb","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"asn2gb","biocontainers__license":"Not available","biocontainers__summary":"Asn2gb converts asn1 format sequence records to genbank format"}}
+{"tool_name":"asn2gb","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"asn2gb","identifiers":null,"license":"Not available","summary":"Asn2gb converts asn1 format sequence records to genbank format"}}}

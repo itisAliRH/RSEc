@@ -1,1 +1,1 @@
-{"tool_name":"r-xcell","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-xcell","biocontainers__identifiers":["doi:10.1186/s13059-017-1349-1"],"biocontainers__license":"GPL-3.0","biocontainers__summary":"Estimate immune cell proportions from gene expression data"}}
+{"tool_name":"r-xcell","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-xcell","identifiers":["doi:10.1186/s13059-017-1349-1"],"license":"GPL-3.0","summary":"Estimate immune cell proportions from gene expression data"}}}

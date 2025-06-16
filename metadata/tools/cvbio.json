@@ -1,1 +1,1 @@
-{"tool_name":"cvbio","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"cvbio","biocontainers__license":"MIT","biocontainers__summary":"Tools for working with genomic and sequencing data, including multi-species read disambiguation"}}
+{"tool_name":"cvbio","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"cvbio","identifiers":null,"license":"MIT","summary":"Tools for working with genomic and sequencing data, including multi-species read disambiguation"}}}

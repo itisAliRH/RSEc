@@ -1,1 +1,1 @@
-{"tool_name":"bwread","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bwread","biocontainers__license":"MIT","biocontainers__summary":"Read bigwig files quickly into PyRanges or DataFrames"}}
+{"tool_name":"bwread","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bwread","identifiers":null,"license":"MIT","summary":"Read bigwig files quickly into PyRanges or DataFrames"}}}

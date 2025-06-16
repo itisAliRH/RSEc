@@ -1,1 +1,1 @@
-{"tool_name":"r-shape","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-shape","biocontainers__license":"GPL (>= 3)","biocontainers__summary":"Functions for plotting graphical shapes such as ellipses, circles, cylinders, arrows, ..."}}
+{"tool_name":"r-shape","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-shape","identifiers":null,"license":"GPL (>= 3)","summary":"Functions for plotting graphical shapes such as ellipses, circles, cylinders, arrows, ..."}}}

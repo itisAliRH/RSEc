@@ -1,1 +1,1 @@
-{"tool_name":"r-batch","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-batch","biocontainers__license":"GPL","biocontainers__summary":"functions to allow you to easily pass command-line arguments into r, and functions"}}
+{"tool_name":"r-batch","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-batch","identifiers":null,"license":"GPL","summary":"functions to allow you to easily pass command-line arguments into r, and functions"}}}

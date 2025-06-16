@@ -1,1 +1,1 @@
-{"tool_name":"alevin-fry","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"alevin-fry","biocontainers__license":"BSD-3","biocontainers__summary":"alevin-fry is a tool for the efficient processing of single-cell data based on RAD files produced by alevin."}}
+{"tool_name":"alevin-fry","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"alevin-fry","identifiers":null,"license":"BSD-3","summary":"alevin-fry is a tool for the efficient processing of single-cell data based on RAD files produced by alevin."}}}

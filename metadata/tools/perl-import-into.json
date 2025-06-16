@@ -1,1 +1,1 @@
-{"tool_name":"perl-import-into","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-import-into","biocontainers__license":"perl_5","biocontainers__summary":"Import packages into other packages"}}
+{"tool_name":"perl-import-into","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-import-into","identifiers":null,"license":"perl_5","summary":"Import packages into other packages"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-version","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-version","biocontainers__license":"perl_5","biocontainers__summary":"Structured version objects"}}
+{"tool_name":"perl-version","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-version","identifiers":null,"license":"perl_5","summary":"Structured version objects"}}}

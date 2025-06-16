@@ -1,1 +1,1 @@
-{"tool_name":"bwise","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bwise","biocontainers__license":"AGPL-3.0","biocontainers__summary":"BWISE is a de Bruijn assembly Workflow using Integral information of Short paired-End reads"}}
+{"tool_name":"bwise","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bwise","identifiers":null,"license":"AGPL-3.0","summary":"BWISE is a de Bruijn assembly Workflow using Integral information of Short paired-End reads"}}}

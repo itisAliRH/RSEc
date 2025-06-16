@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-gscreend","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-gscreend","biocontainers__identifiers":["doi:10.18129/b9.bioc.gscreend"],"biocontainers__license":"GPL-3","biocontainers__summary":"Analysis of pooled genetic screens"}}
+{"tool_name":"bioconductor-gscreend","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-gscreend","identifiers":["doi:10.18129/b9.bioc.gscreend"],"license":"GPL-3","summary":"Analysis of pooled genetic screens"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"intervaltree-bio","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"intervaltree-bio","biocontainers__license":"MIT","biocontainers__summary":"Interval tree convenience classes for genomic data -- python 3 library"}}
+{"tool_name":"intervaltree-bio","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"intervaltree-bio","identifiers":null,"license":"MIT","summary":"Interval tree convenience classes for genomic data -- python 3 library"}}}

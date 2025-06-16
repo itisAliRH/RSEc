@@ -1,1 +1,1 @@
-{"tool_name":"gatb-core-testdata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"gatb-core-testdata","biocontainers__license":"GNU-Affero-3","biocontainers__summary":"Genome analysis toolbox with de-bruijn graph (test data)"}}
+{"tool_name":"gatb-core-testdata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"gatb-core-testdata","identifiers":null,"license":"GNU-Affero-3","summary":"Genome analysis toolbox with de-bruijn graph (test data)"}}}

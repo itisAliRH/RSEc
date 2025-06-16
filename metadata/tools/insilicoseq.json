@@ -1,1 +1,1 @@
-{"tool_name":"insilicoseq","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"insilicoseq","biocontainers__identifiers":["doi:10.1093/bioinformatics/bty630"],"biocontainers__license":"MIT","biocontainers__summary":"A sequencing simulator."}}
+{"tool_name":"insilicoseq","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"insilicoseq","identifiers":["doi:10.1093/bioinformatics/bty630"],"license":"MIT","summary":"A sequencing simulator."}}}

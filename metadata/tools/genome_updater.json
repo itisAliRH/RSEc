@@ -1,1 +1,1 @@
-{"tool_name":"genome_updater","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"genome_updater","biocontainers__license":"MIT","biocontainers__summary":"Genome_updater: bash script to download and update snapshots of the ncbi genomes"}}
+{"tool_name":"genome_updater","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"genome_updater","identifiers":null,"license":"MIT","summary":"Genome_updater: bash script to download and update snapshots of the ncbi genomes"}}}

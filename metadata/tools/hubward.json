@@ -1,1 +1,1 @@
-{"tool_name":"hubward","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"hubward","biocontainers__license":"BSD 3-Clause \"New\" or \"Revised\" License","biocontainers__summary":"Manage the visualization of large amounts of other people's [often messy] genomics data"}}
+{"tool_name":"hubward","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"hubward","identifiers":null,"license":"BSD 3-Clause \"New\" or \"Revised\" License","summary":"Manage the visualization of large amounts of other people's [often messy] genomics data"}}}

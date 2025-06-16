@@ -1,1 +1,1 @@
-{"tool_name":"solvebio","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"solvebio","biocontainers__license":"MIT","biocontainers__summary":"The solvebio python client"}}
+{"tool_name":"solvebio","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"solvebio","identifiers":null,"license":"MIT","summary":"The solvebio python client"}}}

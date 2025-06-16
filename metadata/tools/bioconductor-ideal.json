@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-ideal","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-ideal","biocontainers__identifiers":["doi:10.18129/b9.bioc.ideal"],"biocontainers__license":"MIT","biocontainers__summary":"Interactive differential expression analysis"}}
+{"tool_name":"bioconductor-ideal","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-ideal","identifiers":["doi:10.18129/b9.bioc.ideal"],"license":"MIT","summary":"Interactive differential expression analysis"}}}

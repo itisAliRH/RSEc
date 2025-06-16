@@ -1,1 +1,1 @@
-{"tool_name":"artfastqgenerator","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"artfastqgenerator","biocontainers__license":"GPL-3.0+","biocontainers__summary":"Outputs artificial fastq files derived from a reference genome"}}
+{"tool_name":"artfastqgenerator","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"artfastqgenerator","identifiers":null,"license":"GPL-3.0+","summary":"Outputs artificial fastq files derived from a reference genome"}}}

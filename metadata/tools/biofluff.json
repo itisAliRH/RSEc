@@ -1,1 +1,1 @@
-{"tool_name":"biofluff","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"biofluff","biocontainers__identifiers":["doi:10.7717/peerj.2209"],"biocontainers__license":"MIT","biocontainers__summary":"Exploratory analysis and visualization of high-throughput sequencing data"}}
+{"tool_name":"biofluff","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"biofluff","identifiers":["doi:10.7717/peerj.2209"],"license":"MIT","summary":"Exploratory analysis and visualization of high-throughput sequencing data"}}}

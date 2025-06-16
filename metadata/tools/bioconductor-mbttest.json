@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-mbttest","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-mbttest","biocontainers__identifiers":["biotools:mbttest","doi:10.1371/journal.pone.0123658"],"biocontainers__license":"GPL-3","biocontainers__summary":"Multiple Beta t-Tests"}}
+{"tool_name":"bioconductor-mbttest","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-mbttest","identifiers":["biotools:mbttest","doi:10.1371/journal.pone.0123658"],"license":"GPL-3","summary":"Multiple Beta t-Tests"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-findbin-libs","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-findbin-libs","biocontainers__license":"perl_5","biocontainers__summary":"Locate and a 'use lib' or export directories based on $findbin::bin."}}
+{"tool_name":"perl-findbin-libs","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-findbin-libs","identifiers":null,"license":"perl_5","summary":"Locate and a 'use lib' or export directories based on $findbin::bin."}}}

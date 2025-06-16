@@ -1,1 +1,1 @@
-{"tool_name":"pycsg","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pycsg","biocontainers__license":"MIT","biocontainers__summary":"Python port of csg.js from evan wallace"}}
+{"tool_name":"pycsg","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pycsg","identifiers":null,"license":"MIT","summary":"Python port of csg.js from evan wallace"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-bio-cigar","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-bio-cigar","biocontainers__identifiers":["biotools:bio-cigar"],"biocontainers__license":"gpl_2","biocontainers__summary":"Parse cigar strings and translate coordinates to/from reference/query."}}
+{"tool_name":"perl-bio-cigar","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-bio-cigar","identifiers":["biotools:bio-cigar"],"license":"gpl_2","summary":"Parse cigar strings and translate coordinates to/from reference/query."}}}

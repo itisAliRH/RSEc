@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-mmpalatemirna","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-mmpalatemirna","biocontainers__identifiers":["doi:10.18129/b9.bioc.mmpalatemirna"],"biocontainers__license":"GPL-3","biocontainers__summary":"Murine Palate miRNA Expression Analysis"}}
+{"tool_name":"bioconductor-mmpalatemirna","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-mmpalatemirna","identifiers":["doi:10.18129/b9.bioc.mmpalatemirna"],"license":"GPL-3","summary":"Murine Palate miRNA Expression Analysis"}}}

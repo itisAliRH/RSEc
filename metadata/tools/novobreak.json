@@ -1,1 +1,1 @@
-{"tool_name":"novobreak","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"novobreak","biocontainers__identifiers":["doi:10.1038/nmeth.4084"],"biocontainers__license":"MIT","biocontainers__summary":"local assembly for breakpoint detection in cancer genomes"}}
+{"tool_name":"novobreak","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"novobreak","identifiers":["doi:10.1038/nmeth.4084"],"license":"MIT","summary":"local assembly for breakpoint detection in cancer genomes"}}}

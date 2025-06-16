@@ -1,1 +1,1 @@
-{"tool_name":"perl-test-fork","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-test-fork","biocontainers__license":"perl_5","biocontainers__summary":"test code which forks"}}
+{"tool_name":"perl-test-fork","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-test-fork","identifiers":null,"license":"perl_5","summary":"test code which forks"}}}

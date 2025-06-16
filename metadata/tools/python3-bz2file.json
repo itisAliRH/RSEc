@@ -1,1 +1,1 @@
-{"tool_name":"python3-bz2file","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python3-bz2file","biocontainers__license":"Apache-2.0","biocontainers__summary":"Python3 library for reading and writing bzip2-compressed files"}}
+{"tool_name":"python3-bz2file","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python3-bz2file","identifiers":null,"license":"Apache-2.0","summary":"Python3 library for reading and writing bzip2-compressed files"}}}

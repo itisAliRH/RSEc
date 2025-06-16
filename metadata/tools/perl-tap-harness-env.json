@@ -1,1 +1,1 @@
-{"tool_name":"perl-tap-harness-env","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-tap-harness-env","biocontainers__license":"perl_5","biocontainers__summary":"Parsing harness related environmental variables where appropriate"}}
+{"tool_name":"perl-tap-harness-env","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-tap-harness-env","identifiers":null,"license":"perl_5","summary":"Parsing harness related environmental variables where appropriate"}}}

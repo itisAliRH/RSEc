@@ -1,1 +1,1 @@
-{"tool_name":"sumaclust","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sumaclust","biocontainers__license":"CeCILL-2","biocontainers__summary":"Fast and exact clustering of genomic sequences"}}
+{"tool_name":"sumaclust","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sumaclust","identifiers":null,"license":"CeCILL-2","summary":"Fast and exact clustering of genomic sequences"}}}

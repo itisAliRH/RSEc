@@ -1,1 +1,1 @@
-{"tool_name":"kodoja","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"kodoja","biocontainers__identifiers":["doi:10.1099/jgv.0.001210","doi:10.5281/zenodo.1406071"],"biocontainers__license":"MIT","biocontainers__summary":"Kodoja: identifying viruses from plant rna sequencing data."}}
+{"tool_name":"kodoja","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"kodoja","identifiers":["doi:10.1099/jgv.0.001210","doi:10.5281/zenodo.1406071"],"license":"MIT","summary":"Kodoja: identifying viruses from plant rna sequencing data."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"pipdeptree","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pipdeptree","biocontainers__license":"MIT","biocontainers__summary":"Display dependency tree of the installed python 3 packages"}}
+{"tool_name":"pipdeptree","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pipdeptree","identifiers":null,"license":"MIT","summary":"Display dependency tree of the installed python 3 packages"}}}

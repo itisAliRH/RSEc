@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-graph","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-graph","biocontainers__identifiers":["biotools:graph","doi:10.1038/nmeth.3252"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Handle graph data structures for bioconductor"}}
+{"tool_name":"bioconductor-graph","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-graph","identifiers":["biotools:graph","doi:10.1038/nmeth.3252"],"license":"Artistic-2.0","summary":"Handle graph data structures for bioconductor"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"rnabloom","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"rnabloom","biocontainers__license":"GNU General Public License","biocontainers__summary":"Java tool for rna-seq assembly"}}
+{"tool_name":"rnabloom","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"rnabloom","identifiers":null,"license":"GNU General Public License","summary":"Java tool for rna-seq assembly"}}}

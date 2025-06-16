@@ -1,1 +1,1 @@
-{"tool_name":"perl-test-leaktrace","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-test-leaktrace","biocontainers__license":"perl_5","biocontainers__summary":"Traces memory leaks."}}
+{"tool_name":"perl-test-leaktrace","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-test-leaktrace","identifiers":null,"license":"perl_5","summary":"Traces memory leaks."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"abnumber","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"abnumber","biocontainers__identifiers":["biotools:anarci","doi:10.1093/bioinformatics/btv552"],"biocontainers__license":"Not available","biocontainers__summary":"Abnumber antibody numbering using anarci"}}
+{"tool_name":"abnumber","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"abnumber","identifiers":["biotools:anarci","doi:10.1093/bioinformatics/btv552"],"license":"Not available","summary":"Abnumber antibody numbering using anarci"}}}

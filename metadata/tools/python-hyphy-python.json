@@ -1,1 +1,1 @@
-{"tool_name":"python-hyphy-python","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-hyphy-python","biocontainers__identifiers":["doi:10.1093/bioinformatics/bti079"],"biocontainers__license":"MIT","biocontainers__summary":"HyPhy package interface library"}}
+{"tool_name":"python-hyphy-python","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python-hyphy-python","identifiers":["doi:10.1093/bioinformatics/bti079"],"license":"MIT","summary":"HyPhy package interface library"}}}

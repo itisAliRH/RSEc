@@ -1,1 +1,1 @@
-{"tool_name":"mtglink","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mtglink","biocontainers__license":"Not available","biocontainers__summary":"Mtg-link is a tool for gap-filling of scaffolds with linked-read data using mindthegap"}}
+{"tool_name":"mtglink","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mtglink","identifiers":null,"license":"Not available","summary":"Mtg-link is a tool for gap-filling of scaffolds with linked-read data using mindthegap"}}}

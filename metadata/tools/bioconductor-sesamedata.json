@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-sesamedata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-sesamedata","biocontainers__identifiers":["doi:10.18129/b9.bioc.sesamedata"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Supporting data for sesame package"}}
+{"tool_name":"bioconductor-sesamedata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-sesamedata","identifiers":["doi:10.18129/b9.bioc.sesamedata"],"license":"Artistic-2.0","summary":"Supporting data for sesame package"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"minimap","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"minimap","biocontainers__license":"MIT","biocontainers__summary":"Tool for approximate mapping of long biosequences such as dna reads"}}
+{"tool_name":"minimap","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"minimap","identifiers":null,"license":"MIT","summary":"Tool for approximate mapping of long biosequences such as dna reads"}}}

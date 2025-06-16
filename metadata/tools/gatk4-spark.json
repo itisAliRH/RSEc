@@ -1,1 +1,1 @@
-{"tool_name":"gatk4-spark","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"gatk4-spark","biocontainers__license":"BSD-3-Clause","biocontainers__summary":"Genome Analysis Toolkit (GATK4)"}}
+{"tool_name":"gatk4-spark","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"gatk4-spark","identifiers":null,"license":"BSD-3-Clause","summary":"Genome Analysis Toolkit (GATK4)"}}}

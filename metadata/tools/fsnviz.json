@@ -1,1 +1,1 @@
-{"tool_name":"fsnviz","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fsnviz","biocontainers__license":"BSD","biocontainers__summary":"Tool for plotting gene fusion events detected by various tools using Circos."}}
+{"tool_name":"fsnviz","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fsnviz","identifiers":null,"license":"BSD","summary":"Tool for plotting gene fusion events detected by various tools using Circos."}}}

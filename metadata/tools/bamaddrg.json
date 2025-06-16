@@ -1,1 +1,1 @@
-{"tool_name":"bamaddrg","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bamaddrg","biocontainers__license":"MIT","biocontainers__summary":"Add read group to BAM files"}}
+{"tool_name":"bamaddrg","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bamaddrg","identifiers":null,"license":"MIT","summary":"Add read group to BAM files"}}}

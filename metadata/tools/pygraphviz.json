@@ -1,1 +1,1 @@
-{"tool_name":"pygraphviz","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pygraphviz","biocontainers__license":"BSD License","biocontainers__summary":"Python interface to Graphviz"}}
+{"tool_name":"pygraphviz","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pygraphviz","identifiers":null,"license":"BSD License","summary":"Python interface to Graphviz"}}}

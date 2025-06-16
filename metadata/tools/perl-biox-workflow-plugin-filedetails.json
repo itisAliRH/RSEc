@@ -1,1 +1,1 @@
-{"tool_name":"perl-biox-workflow-plugin-filedetails","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-biox-workflow-plugin-filedetails","biocontainers__license":"perl_5","biocontainers__summary":"Get metadata for files in directories processed by BioX::Workflow"}}
+{"tool_name":"perl-biox-workflow-plugin-filedetails","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-biox-workflow-plugin-filedetails","identifiers":null,"license":"perl_5","summary":"Get metadata for files in directories processed by BioX::Workflow"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"r-fail","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-fail","biocontainers__license":"BSD_3_clause","biocontainers__summary":"More comfortable interface to work with R data or source files in a key-value fashion."}}
+{"tool_name":"r-fail","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-fail","identifiers":null,"license":"BSD_3_clause","summary":"More comfortable interface to work with R data or source files in a key-value fashion."}}}

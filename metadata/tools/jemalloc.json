@@ -1,1 +1,1 @@
-{"tool_name":"jemalloc","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"jemalloc","biocontainers__license":"FreeBSD","biocontainers__summary":"Jemalloc"}}
+{"tool_name":"jemalloc","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"jemalloc","identifiers":null,"license":"FreeBSD","summary":"Jemalloc"}}}

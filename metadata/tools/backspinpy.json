@@ -1,1 +1,1 @@
-{"tool_name":"backspinpy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"backspinpy","biocontainers__identifiers":["doi:10.1126/science.aaa1934"],"biocontainers__license":"BSD 2-Clause \"Simplified\" License","biocontainers__summary":"Backspin clustering algorythm"}}
+{"tool_name":"backspinpy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"backspinpy","identifiers":["doi:10.1126/science.aaa1934"],"license":"BSD 2-Clause \"Simplified\" License","summary":"Backspin clustering algorythm"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"r-phonr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-phonr","biocontainers__license":"GPL-3","biocontainers__summary":"Tools for phoneticians and phonologists, including functions for normalization and plotting of vowels."}}
+{"tool_name":"r-phonr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-phonr","identifiers":null,"license":"GPL-3","summary":"Tools for phoneticians and phonologists, including functions for normalization and plotting of vowels."}}}

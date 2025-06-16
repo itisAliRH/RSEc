@@ -1,1 +1,1 @@
-{"tool_name":"biosquid","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"biosquid","biocontainers__identifiers":["doi:10.1093/bioinformatics/btl582"],"biocontainers__license":"GPL-2","biocontainers__summary":"Utilities for biological sequence analysis"}}
+{"tool_name":"biosquid","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"biosquid","identifiers":["doi:10.1093/bioinformatics/btl582"],"license":"GPL-2","summary":"Utilities for biological sequence analysis"}}}

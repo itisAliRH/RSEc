@@ -1,1 +1,1 @@
-{"tool_name":"perl-json-xs","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-json-xs","biocontainers__license":"Not available","biocontainers__summary":"JSON serialising/deserialising, done correctly and fast"}}
+{"tool_name":"perl-json-xs","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-json-xs","identifiers":null,"license":"Not available","summary":"JSON serialising/deserialising, done correctly and fast"}}}

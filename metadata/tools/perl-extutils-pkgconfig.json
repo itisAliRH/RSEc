@@ -1,1 +1,1 @@
-{"tool_name":"perl-extutils-pkgconfig","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-extutils-pkgconfig","biocontainers__license":"Not available","biocontainers__summary":"Simplistic interface to pkg-config"}}
+{"tool_name":"perl-extutils-pkgconfig","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-extutils-pkgconfig","identifiers":null,"license":"Not available","summary":"Simplistic interface to pkg-config"}}}

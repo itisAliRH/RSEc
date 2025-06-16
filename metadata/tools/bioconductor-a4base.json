@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-a4base","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-a4base","biocontainers__identifiers":["biotools:a4base","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL-3","biocontainers__summary":"Automated Affymetrix Array Analysis Base Package"}}
+{"tool_name":"bioconductor-a4base","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-a4base","identifiers":["biotools:a4base","doi:10.1038/nmeth.3252"],"license":"GPL-3","summary":"Automated Affymetrix Array Analysis Base Package"}}}

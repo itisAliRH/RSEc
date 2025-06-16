@@ -1,1 +1,1 @@
-{"tool_name":"perl-xml-libxml","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-xml-libxml","biocontainers__license":"Perl","biocontainers__summary":"Interface to Gnome libxml2 xml parsing and DOM library"}}
+{"tool_name":"perl-xml-libxml","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-xml-libxml","identifiers":null,"license":"Perl","summary":"Interface to Gnome libxml2 xml parsing and DOM library"}}}

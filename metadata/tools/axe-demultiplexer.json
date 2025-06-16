@@ -1,1 +1,1 @@
-{"tool_name":"axe-demultiplexer","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"axe-demultiplexer","biocontainers__license":"GPL-3.0+","biocontainers__summary":"Trie-based dna sequencing read demultiplexer"}}
+{"tool_name":"axe-demultiplexer","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"axe-demultiplexer","identifiers":null,"license":"GPL-3.0+","summary":"Trie-based dna sequencing read demultiplexer"}}}

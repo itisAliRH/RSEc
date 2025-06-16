@@ -1,1 +1,1 @@
-{"tool_name":"ngs","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ngs","biocontainers__license":"public_domain","biocontainers__summary":"Next generation sequencing language bindings (python3 bindings)"}}
+{"tool_name":"ngs","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ngs","identifiers":null,"license":"public_domain","summary":"Next generation sequencing language bindings (python3 bindings)"}}}

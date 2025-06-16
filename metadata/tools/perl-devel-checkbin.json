@@ -1,1 +1,1 @@
-{"tool_name":"perl-devel-checkbin","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-devel-checkbin","biocontainers__license":"perl_5","biocontainers__summary":"check that a command is available"}}
+{"tool_name":"perl-devel-checkbin","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-devel-checkbin","identifiers":null,"license":"perl_5","summary":"check that a command is available"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"sicer2","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sicer2","biocontainers__license":"MIT","biocontainers__summary":"Redesigned and improved ChIP-seq broad peak calling tool SICER."}}
+{"tool_name":"sicer2","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sicer2","identifiers":null,"license":"MIT","summary":"Redesigned and improved ChIP-seq broad peak calling tool SICER."}}}

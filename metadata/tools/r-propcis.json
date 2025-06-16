@@ -1,1 +1,1 @@
-{"tool_name":"r-propcis","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-propcis","biocontainers__license":"GPL","biocontainers__summary":"Computes two-sample confidence intervals for single, paired and independent proportions."}}
+{"tool_name":"r-propcis","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-propcis","identifiers":null,"license":"GPL","summary":"Computes two-sample confidence intervals for single, paired and independent proportions."}}}

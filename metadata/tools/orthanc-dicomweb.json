@@ -1,1 +1,1 @@
-{"tool_name":"orthanc-dicomweb","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"orthanc-dicomweb","biocontainers__license":"AGPL-3","biocontainers__summary":"Plugin to extend orthanc with support of wado and dicomweb"}}
+{"tool_name":"orthanc-dicomweb","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"orthanc-dicomweb","identifiers":null,"license":"AGPL-3","summary":"Plugin to extend orthanc with support of wado and dicomweb"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-moo","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-moo","biocontainers__license":"perl_5","biocontainers__summary":"Minimalist object orientation (with moose compatibility)"}}
+{"tool_name":"perl-moo","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-moo","identifiers":null,"license":"perl_5","summary":"Minimalist object orientation (with moose compatibility)"}}}

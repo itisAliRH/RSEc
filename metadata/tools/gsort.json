@@ -1,1 +1,1 @@
-{"tool_name":"gsort","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"gsort","biocontainers__license":"MIT","biocontainers__summary":"Sort genomic files according to a genomefile"}}
+{"tool_name":"gsort","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"gsort","identifiers":null,"license":"MIT","summary":"Sort genomic files according to a genomefile"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"soapdenovo2-gapcloser","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"soapdenovo2-gapcloser","biocontainers__license":"GNU","biocontainers__summary":"a tool named GapCloser for SOAPdenovo."}}
+{"tool_name":"soapdenovo2-gapcloser","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"soapdenovo2-gapcloser","identifiers":null,"license":"GNU","summary":"a tool named GapCloser for SOAPdenovo."}}}

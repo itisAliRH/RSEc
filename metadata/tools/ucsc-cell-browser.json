@@ -1,1 +1,1 @@
-{"tool_name":"ucsc-cell-browser","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ucsc-cell-browser","biocontainers__license":"GPL-3.0","biocontainers__summary":"A browser for single-cell data, main site at http://cells.ucsc.edu"}}
+{"tool_name":"ucsc-cell-browser","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ucsc-cell-browser","identifiers":null,"license":"GPL-3.0","summary":"A browser for single-cell data, main site at http://cells.ucsc.edu"}}}

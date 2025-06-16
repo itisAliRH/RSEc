@@ -1,1 +1,1 @@
-{"tool_name":"pysvmlight","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pysvmlight","biocontainers__license":"Not available","biocontainers__summary":"Interface to Thorsten Joachims' SVM-Light"}}
+{"tool_name":"pysvmlight","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pysvmlight","identifiers":null,"license":"Not available","summary":"Interface to Thorsten Joachims' SVM-Light"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-lvsmirna","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-lvsmirna","biocontainers__identifiers":["doi:10.18129/b9.bioc.lvsmirna"],"biocontainers__license":"GPL-2","biocontainers__summary":"LVS normalization for Agilent miRNA data"}}
+{"tool_name":"bioconductor-lvsmirna","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-lvsmirna","identifiers":["doi:10.18129/b9.bioc.lvsmirna"],"license":"GPL-2","summary":"LVS normalization for Agilent miRNA data"}}}

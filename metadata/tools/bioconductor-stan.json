@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-stan","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-stan","biocontainers__identifiers":["biotools:stan","doi:10.15252/msb.20145654"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"The Genomic STate ANnotation Package"}}
+{"tool_name":"bioconductor-stan","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-stan","identifiers":["biotools:stan","doi:10.15252/msb.20145654"],"license":"GPL (>= 2)","summary":"The Genomic STate ANnotation Package"}}}

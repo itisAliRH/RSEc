@@ -1,1 +1,1 @@
-{"tool_name":"perl-algorithm-dependency","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-algorithm-dependency","biocontainers__license":"perl_5","biocontainers__summary":"Base class for implementing various dependency trees"}}
+{"tool_name":"perl-algorithm-dependency","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-algorithm-dependency","identifiers":null,"license":"perl_5","summary":"Base class for implementing various dependency trees"}}}

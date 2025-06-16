@@ -1,1 +1,1 @@
-{"tool_name":"pytest-cov","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pytest-cov","biocontainers__license":"BSD","biocontainers__summary":"Pytest plugin for measuring coverage."}}
+{"tool_name":"pytest-cov","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pytest-cov","identifiers":null,"license":"BSD","summary":"Pytest plugin for measuring coverage."}}}

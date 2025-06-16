@@ -1,1 +1,1 @@
-{"tool_name":"urllib3","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"urllib3","biocontainers__license":"MIT","biocontainers__summary":"HTTP library with thread-safe connection pooling, file post, and more."}}
+{"tool_name":"urllib3","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"urllib3","identifiers":null,"license":"MIT","summary":"HTTP library with thread-safe connection pooling, file post, and more."}}}

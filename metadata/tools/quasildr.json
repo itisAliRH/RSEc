@@ -1,1 +1,1 @@
-{"tool_name":"quasildr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"quasildr","biocontainers__license":"BSD 3-Clause Clear License","biocontainers__summary":"Quasilinear data representations for single-cell omics data analysis."}}
+{"tool_name":"quasildr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"quasildr","identifiers":null,"license":"BSD 3-Clause Clear License","summary":"Quasilinear data representations for single-cell omics data analysis."}}}

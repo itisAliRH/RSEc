@@ -1,1 +1,1 @@
-{"tool_name":"perl-bio-trace-abif","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-bio-trace-abif","biocontainers__license":"perl_5","biocontainers__summary":"Bio::Trace::ABIF - Perl extension for reading and parsing ABIF (Applied Biosystems, Inc. Format) files "}}
+{"tool_name":"perl-bio-trace-abif","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-bio-trace-abif","identifiers":null,"license":"perl_5","summary":"Bio::Trace::ABIF - Perl extension for reading and parsing ABIF (Applied Biosystems, Inc. Format) files "}}}

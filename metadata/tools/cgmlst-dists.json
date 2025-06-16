@@ -1,1 +1,1 @@
-{"tool_name":"cgmlst-dists","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"cgmlst-dists","biocontainers__license":"GPL-3.0","biocontainers__summary":"Convert cgMLST table to distance matrix"}}
+{"tool_name":"cgmlst-dists","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"cgmlst-dists","identifiers":null,"license":"GPL-3.0","summary":"Convert cgMLST table to distance matrix"}}}

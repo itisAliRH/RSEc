@@ -1,1 +1,1 @@
-{"tool_name":"illumina-utils","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"illumina-utils","biocontainers__license":"GPL-3.0","biocontainers__summary":"A library and collection of scripts to work with Illumina paired-end data (for CASAVA 1.8+)."}}
+{"tool_name":"illumina-utils","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"illumina-utils","identifiers":null,"license":"GPL-3.0","summary":"A library and collection of scripts to work with Illumina paired-end data (for CASAVA 1.8+)."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-guideseq","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-guideseq","biocontainers__identifiers":["biotools:guideseq","doi:10.1186/s12864-017-3746-y"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"GUIDE-seq analysis pipeline"}}
+{"tool_name":"bioconductor-guideseq","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-guideseq","identifiers":["biotools:guideseq","doi:10.1186/s12864-017-3746-y"],"license":"GPL (>= 2)","summary":"GUIDE-seq analysis pipeline"}}}

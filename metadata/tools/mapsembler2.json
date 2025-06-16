@@ -1,1 +1,1 @@
-{"tool_name":"mapsembler2","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mapsembler2","biocontainers__identifiers":["biotools:mapsembler","doi:10.1186/1471-2105-13-48"],"biocontainers__license":"AGPL-3.0","biocontainers__summary":"Bioinformatics targeted assembly software"}}
+{"tool_name":"mapsembler2","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mapsembler2","identifiers":["biotools:mapsembler","doi:10.1186/1471-2105-13-48"],"license":"AGPL-3.0","summary":"Bioinformatics targeted assembly software"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-allenpvc","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-allenpvc","biocontainers__identifiers":["doi:10.18129/b9.bioc.allenpvc"],"biocontainers__license":"CC0","biocontainers__summary":"GEO accession data GSE71585 as a SingleCellExperiment"}}
+{"tool_name":"bioconductor-allenpvc","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-allenpvc","identifiers":["doi:10.18129/b9.bioc.allenpvc"],"license":"CC0","summary":"GEO accession data GSE71585 as a SingleCellExperiment"}}}

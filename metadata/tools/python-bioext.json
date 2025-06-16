@@ -1,1 +1,1 @@
-{"tool_name":"python-bioext","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-bioext","biocontainers__license":"GPL-3.0","biocontainers__summary":"A few handy bioinformatics tools not already in biopython"}}
+{"tool_name":"python-bioext","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python-bioext","identifiers":null,"license":"GPL-3.0","summary":"A few handy bioinformatics tools not already in biopython"}}}

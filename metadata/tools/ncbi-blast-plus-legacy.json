@@ -1,1 +1,1 @@
-{"tool_name":"ncbi-blast-plus-legacy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ncbi-blast-plus-legacy","biocontainers__license":"custom, see /usr/share/doc/ncbi-blast-plus-legacy/copyright","biocontainers__summary":"Ncbi blast legacy call script"}}
+{"tool_name":"ncbi-blast-plus-legacy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ncbi-blast-plus-legacy","identifiers":null,"license":"custom, see /usr/share/doc/ncbi-blast-plus-legacy/copyright","summary":"Ncbi blast legacy call script"}}}

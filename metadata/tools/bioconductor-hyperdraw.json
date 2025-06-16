@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-hyperdraw","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-hyperdraw","biocontainers__identifiers":["biotools:hyperdraw","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Visualizing Hypergaphs"}}
+{"tool_name":"bioconductor-hyperdraw","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-hyperdraw","identifiers":["biotools:hyperdraw","doi:10.1038/nmeth.3252"],"license":"GPL (>= 2)","summary":"Visualizing Hypergaphs"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-hippo","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-hippo","biocontainers__identifiers":["doi:10.18129/b9.bioc.hippo"],"biocontainers__license":"GPL (>=2)","biocontainers__summary":"Heterogeneity-Induced Pre-Processing tOol"}}
+{"tool_name":"bioconductor-hippo","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-hippo","identifiers":["doi:10.18129/b9.bioc.hippo"],"license":"GPL (>=2)","summary":"Heterogeneity-Induced Pre-Processing tOol"}}}

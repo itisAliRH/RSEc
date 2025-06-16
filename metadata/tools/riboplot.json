@@ -1,1 +1,1 @@
-{"tool_name":"riboplot","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"riboplot","biocontainers__license":"BSD 3-Clause \"New\" or \"Revised\" License","biocontainers__summary":"Plot read counts of riboseq data from bam format alignment files"}}
+{"tool_name":"riboplot","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"riboplot","identifiers":null,"license":"BSD 3-Clause \"New\" or \"Revised\" License","summary":"Plot read counts of riboseq data from bam format alignment files"}}}

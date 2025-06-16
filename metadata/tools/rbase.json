@@ -1,1 +1,1 @@
-{"tool_name":"rbase","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"rbase","biocontainers__license":"Custom License","biocontainers__summary":"Containers of R packages."}}
+{"tool_name":"rbase","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"rbase","identifiers":null,"license":"Custom License","summary":"Containers of R packages."}}}

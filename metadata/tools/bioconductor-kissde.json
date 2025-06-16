@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-kissde","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-kissde","biocontainers__identifiers":["doi:10.18129/b9.bioc.kissde"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Retrieves Condition-Specific Variants in RNA-Seq Data"}}
+{"tool_name":"bioconductor-kissde","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-kissde","identifiers":["doi:10.18129/b9.bioc.kissde"],"license":"GPL (>= 2)","summary":"Retrieves Condition-Specific Variants in RNA-Seq Data"}}}

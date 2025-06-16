@@ -1,1 +1,1 @@
-{"tool_name":"python3-fast5","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python3-fast5","biocontainers__license":"MIT","biocontainers__summary":"Library for reading Oxford Nanopore Fast5 files"}}
+{"tool_name":"python3-fast5","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python3-fast5","identifiers":null,"license":"MIT","summary":"Library for reading Oxford Nanopore Fast5 files"}}}

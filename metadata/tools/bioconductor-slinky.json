@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-slinky","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-slinky","biocontainers__identifiers":["doi:10.18129/b9.bioc.slinky"],"biocontainers__license":"MIT","biocontainers__summary":"Putting the fun in LINCS L1000 data analysis"}}
+{"tool_name":"bioconductor-slinky","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-slinky","identifiers":["doi:10.18129/b9.bioc.slinky"],"license":"MIT","summary":"Putting the fun in LINCS L1000 data analysis"}}}

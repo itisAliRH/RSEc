@@ -1,1 +1,1 @@
-{"tool_name":"perl-appconfig","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-appconfig","biocontainers__license":"perl_5","biocontainers__summary":"Appconfig is a bundle of perl5 modules for reading configuration files and parsing command line arguments."}}
+{"tool_name":"perl-appconfig","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-appconfig","identifiers":null,"license":"perl_5","summary":"Appconfig is a bundle of perl5 modules for reading configuration files and parsing command line arguments."}}}

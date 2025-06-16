@@ -1,1 +1,1 @@
-{"tool_name":"perl-digest-md5-file","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-digest-md5-file","biocontainers__license":"Not available","biocontainers__summary":"Perl extension for getting md5 sums for files and urls."}}
+{"tool_name":"perl-digest-md5-file","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-digest-md5-file","identifiers":null,"license":"Not available","summary":"Perl extension for getting md5 sums for files and urls."}}}

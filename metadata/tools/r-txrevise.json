@@ -1,1 +1,1 @@
-{"tool_name":"r-txrevise","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-txrevise","biocontainers__identifiers":["doi:10.7554/eLife.41673"],"biocontainers__license":"Apache-2.0","biocontainers__summary":"Construct custom transcript annotations for salmon and kallisto"}}
+{"tool_name":"r-txrevise","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-txrevise","identifiers":["doi:10.7554/eLife.41673"],"license":"Apache-2.0","summary":"Construct custom transcript annotations for salmon and kallisto"}}}

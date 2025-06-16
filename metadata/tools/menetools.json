@@ -1,1 +1,1 @@
-{"tool_name":"menetools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"menetools","biocontainers__identifiers":["doi:10.1371/journal.pcbi.1006146","doi:10.7554/elife.61968"],"biocontainers__license":"GPL-3.0","biocontainers__summary":"Python 3 Metabolic Network Topology Tools"}}
+{"tool_name":"menetools","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"menetools","identifiers":["doi:10.1371/journal.pcbi.1006146","doi:10.7554/elife.61968"],"license":"GPL-3.0","summary":"Python 3 Metabolic Network Topology Tools"}}}

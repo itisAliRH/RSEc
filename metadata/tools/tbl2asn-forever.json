@@ -1,1 +1,1 @@
-{"tool_name":"tbl2asn-forever","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"tbl2asn-forever","biocontainers__license":"Custom License","biocontainers__summary":"Tbl2asn is a program that automates the creation of sequence records for submission to genbank"}}
+{"tool_name":"tbl2asn-forever","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"tbl2asn-forever","identifiers":null,"license":"Custom License","summary":"Tbl2asn is a program that automates the creation of sequence records for submission to genbank"}}}

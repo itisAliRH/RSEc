@@ -1,1 +1,1 @@
-{"tool_name":"nspdk","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"nspdk","biocontainers__license":"GNU-3.0","biocontainers__summary":"Neighborhood Subgraph Pairwise Distance Kernel (NSPDK)."}}
+{"tool_name":"nspdk","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"nspdk","identifiers":null,"license":"GNU-3.0","summary":"Neighborhood Subgraph Pairwise Distance Kernel (NSPDK)."}}}

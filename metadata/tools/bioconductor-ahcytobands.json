@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-ahcytobands","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-ahcytobands","biocontainers__identifiers":["doi:10.18129/b9.bioc.ahcytobands"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Cytobands for annotationhub"}}
+{"tool_name":"bioconductor-ahcytobands","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-ahcytobands","identifiers":["doi:10.18129/b9.bioc.ahcytobands"],"license":"Artistic-2.0","summary":"Cytobands for annotationhub"}}}

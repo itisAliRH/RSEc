@@ -1,1 +1,1 @@
-{"tool_name":"perl-types-standard","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-types-standard","biocontainers__license":"perl_5","biocontainers__summary":"bundled set of built-in types for Type::Tiny"}}
+{"tool_name":"perl-types-standard","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-types-standard","identifiers":null,"license":"perl_5","summary":"bundled set of built-in types for Type::Tiny"}}}

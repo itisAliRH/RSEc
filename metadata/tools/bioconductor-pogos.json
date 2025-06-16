@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-pogos","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-pogos","biocontainers__identifiers":["doi:10.18129/b9.bioc.pogos"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Pharmacogenomics ontology support"}}
+{"tool_name":"bioconductor-pogos","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-pogos","identifiers":["doi:10.18129/b9.bioc.pogos"],"license":"Artistic-2.0","summary":"Pharmacogenomics ontology support"}}}

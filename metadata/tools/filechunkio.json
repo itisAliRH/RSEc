@@ -1,1 +1,1 @@
-{"tool_name":"filechunkio","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"filechunkio","biocontainers__license":"MIT","biocontainers__summary":"FileChunkIO represents a chunk of an OS-level file containing bytes data"}}
+{"tool_name":"filechunkio","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"filechunkio","identifiers":null,"license":"MIT","summary":"FileChunkIO represents a chunk of an OS-level file containing bytes data"}}}

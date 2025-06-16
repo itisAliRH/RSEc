@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-mimager","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-mimager","biocontainers__identifiers":["doi:10.18129/b9.bioc.mimager"],"biocontainers__license":"MIT","biocontainers__summary":"Mimager: the microarray imager"}}
+{"tool_name":"bioconductor-mimager","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-mimager","identifiers":["doi:10.18129/b9.bioc.mimager"],"license":"MIT","summary":"Mimager: the microarray imager"}}}

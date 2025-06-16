@@ -1,1 +1,1 @@
-{"tool_name":"bxtools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bxtools","biocontainers__license":"GPL-3.0","biocontainers__summary":"Tools for analyzing 10X Genomics data"}}
+{"tool_name":"bxtools","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bxtools","identifiers":null,"license":"GPL-3.0","summary":"Tools for analyzing 10X Genomics data"}}}

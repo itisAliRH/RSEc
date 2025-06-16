@@ -1,1 +1,1 @@
-{"tool_name":"perl-text-parsewords","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-text-parsewords","biocontainers__license":"perl_5","biocontainers__summary":"parse text into an array of tokens or array of arrays"}}
+{"tool_name":"perl-text-parsewords","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-text-parsewords","identifiers":null,"license":"perl_5","summary":"parse text into an array of tokens or array of arrays"}}}

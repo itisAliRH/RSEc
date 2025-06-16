@@ -1,1 +1,1 @@
-{"tool_name":"argh","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"argh","biocontainers__license":"GNU Library or Lesser General Public License (LGPL)","biocontainers__summary":"An unobtrusive argparse wrapper with natural syntax"}}
+{"tool_name":"argh","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"argh","identifiers":null,"license":"GNU Library or Lesser General Public License (LGPL)","summary":"An unobtrusive argparse wrapper with natural syntax"}}}

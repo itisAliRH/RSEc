@@ -1,1 +1,1 @@
-{"tool_name":"perl-math-random-mt-auto","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-math-random-mt-auto","biocontainers__license":"unrestricted","biocontainers__summary":"Auto-seeded Mersenne Twister PRNGs"}}
+{"tool_name":"perl-math-random-mt-auto","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-math-random-mt-auto","identifiers":null,"license":"unrestricted","summary":"Auto-seeded Mersenne Twister PRNGs"}}}

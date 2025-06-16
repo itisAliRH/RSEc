@@ -1,1 +1,1 @@
-{"tool_name":"r-calibrate","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-calibrate","biocontainers__license":"GPL-2","biocontainers__summary":"Package for drawing calibrated scales with tick marks on (non-orthogonal) variable vectors in scatterplots and biplots. "}}
+{"tool_name":"r-calibrate","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-calibrate","identifiers":null,"license":"GPL-2","summary":"Package for drawing calibrated scales with tick marks on (non-orthogonal) variable vectors in scatterplots and biplots. "}}}

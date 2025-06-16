@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-rhdf5","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-rhdf5","biocontainers__identifiers":["biotools:rhdf5","doi:10.18129/b9.bioc.rhdf5"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"R Interface to HDF5"}}
+{"tool_name":"bioconductor-rhdf5","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-rhdf5","identifiers":["biotools:rhdf5","doi:10.18129/b9.bioc.rhdf5"],"license":"Artistic-2.0","summary":"R Interface to HDF5"}}}

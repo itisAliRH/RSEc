@@ -1,1 +1,1 @@
-{"tool_name":"kyototycoon","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"kyototycoon","biocontainers__license":"GPL-3.0","biocontainers__summary":"a lightweight network server on top of the Kyoto Cabinet key-value database, built for high-performance and concurrency"}}
+{"tool_name":"kyototycoon","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"kyototycoon","identifiers":null,"license":"GPL-3.0","summary":"a lightweight network server on top of the Kyoto Cabinet key-value database, built for high-performance and concurrency"}}}

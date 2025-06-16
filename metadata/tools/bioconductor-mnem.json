@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-mnem","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-mnem","biocontainers__identifiers":["doi:10.18129/b9.bioc.mnem"],"biocontainers__license":"GPL-3","biocontainers__summary":"Mixture Nested Effects Models"}}
+{"tool_name":"bioconductor-mnem","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-mnem","identifiers":["doi:10.18129/b9.bioc.mnem"],"license":"GPL-3","summary":"Mixture Nested Effects Models"}}}

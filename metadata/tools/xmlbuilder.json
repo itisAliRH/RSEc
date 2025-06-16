@@ -1,1 +1,1 @@
-{"tool_name":"xmlbuilder","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"xmlbuilder","biocontainers__license":"LGPL-3.0","biocontainers__summary":"pythonic way to crate xml/(x)html files"}}
+{"tool_name":"xmlbuilder","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"xmlbuilder","identifiers":null,"license":"LGPL-3.0","summary":"pythonic way to crate xml/(x)html files"}}}

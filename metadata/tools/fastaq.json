@@ -1,1 +1,1 @@
-{"tool_name":"fastaq","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fastaq","biocontainers__license":"GPL-3","biocontainers__summary":"Fasta and fastq file manipulation tools"}}
+{"tool_name":"fastaq","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fastaq","identifiers":null,"license":"GPL-3","summary":"Fasta and fastq file manipulation tools"}}}

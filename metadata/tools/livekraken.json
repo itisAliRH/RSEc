@@ -1,1 +1,1 @@
-{"tool_name":"livekraken","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"livekraken","biocontainers__license":"GPL-3.0","biocontainers__summary":"LiveKraken is a real-time metagenomic classifier for Illumina sequencing data."}}
+{"tool_name":"livekraken","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"livekraken","identifiers":null,"license":"GPL-3.0","summary":"LiveKraken is a real-time metagenomic classifier for Illumina sequencing data."}}}

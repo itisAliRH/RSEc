@@ -1,1 +1,1 @@
-{"tool_name":"bam2fastx","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bam2fastx","biocontainers__license":"BSD-3-Clause-Clear","biocontainers__summary":"Converting and demultiplexing of PacBio BAM files into gzipped fasta and fastq files"}}
+{"tool_name":"bam2fastx","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bam2fastx","identifiers":null,"license":"BSD-3-Clause-Clear","summary":"Converting and demultiplexing of PacBio BAM files into gzipped fasta and fastq files"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"vcf2db","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"vcf2db","biocontainers__license":"Not available","biocontainers__summary":"Create a gemini-compatible database from a vcf"}}
+{"tool_name":"vcf2db","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"vcf2db","identifiers":null,"license":"Not available","summary":"Create a gemini-compatible database from a vcf"}}}

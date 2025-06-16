@@ -1,1 +1,1 @@
-{"tool_name":"perl-xsloader","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-xsloader","biocontainers__license":"perl_5","biocontainers__summary":"Dynamically load C libraries into Perl code"}}
+{"tool_name":"perl-xsloader","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-xsloader","identifiers":null,"license":"perl_5","summary":"Dynamically load C libraries into Perl code"}}}

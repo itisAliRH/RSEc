@@ -1,1 +1,1 @@
-{"tool_name":"nanomath","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"nanomath","biocontainers__license":"MIT","biocontainers__summary":"A few simple math function for other Oxford Nanopore processing scripts"}}
+{"tool_name":"nanomath","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"nanomath","identifiers":null,"license":"MIT","summary":"A few simple math function for other Oxford Nanopore processing scripts"}}}

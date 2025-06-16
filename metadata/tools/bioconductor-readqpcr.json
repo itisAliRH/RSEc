@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-readqpcr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-readqpcr","biocontainers__identifiers":["biotools:readqpcr","doi:10.1186/1471-2164-13-296"],"biocontainers__license":"LGPL-3","biocontainers__summary":"Read qPCR data"}}
+{"tool_name":"bioconductor-readqpcr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-readqpcr","identifiers":["biotools:readqpcr","doi:10.1186/1471-2164-13-296"],"license":"LGPL-3","summary":"Read qPCR data"}}}

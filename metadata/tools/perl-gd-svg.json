@@ -1,1 +1,1 @@
-{"tool_name":"perl-gd-svg","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-gd-svg","biocontainers__license":"perl_5","biocontainers__summary":"Seamlessly enable SVG output from scripts written using GD"}}
+{"tool_name":"perl-gd-svg","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-gd-svg","identifiers":null,"license":"perl_5","summary":"Seamlessly enable SVG output from scripts written using GD"}}}

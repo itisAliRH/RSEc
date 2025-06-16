@@ -1,1 +1,1 @@
-{"tool_name":"tb_variant_filter","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"tb_variant_filter","biocontainers__license":"GPL-3.0","biocontainers__summary":"Vcf variant filter optimised for filter m. tuberculosis h37rv variants"}}
+{"tool_name":"tb_variant_filter","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"tb_variant_filter","identifiers":null,"license":"GPL-3.0","summary":"Vcf variant filter optimised for filter m. tuberculosis h37rv variants"}}}

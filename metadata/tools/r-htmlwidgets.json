@@ -1,1 +1,1 @@
-{"tool_name":"r-htmlwidgets","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-htmlwidgets","biocontainers__license":"Custom","biocontainers__summary":"The htmlwidgets package provides a framework for easily creating R bindings to JavaScript libraries."}}
+{"tool_name":"r-htmlwidgets","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-htmlwidgets","identifiers":null,"license":"Custom","summary":"The htmlwidgets package provides a framework for easily creating R bindings to JavaScript libraries."}}}

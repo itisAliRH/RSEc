@@ -1,1 +1,1 @@
-{"tool_name":"biosyntax-vim","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"biosyntax-vim","biocontainers__license":"GPL-3","biocontainers__summary":"Syntax highlighting for computational biology (vim)"}}
+{"tool_name":"biosyntax-vim","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"biosyntax-vim","identifiers":null,"license":"GPL-3","summary":"Syntax highlighting for computational biology (vim)"}}}

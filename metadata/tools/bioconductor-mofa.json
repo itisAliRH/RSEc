@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-mofa","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-mofa","biocontainers__identifiers":["doi:10.18129/b9.bioc.mofa"],"biocontainers__license":"LGPL-3 | file LICENSE","biocontainers__summary":"Multi-Omics Factor Analysis (MOFA)"}}
+{"tool_name":"bioconductor-mofa","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-mofa","identifiers":["doi:10.18129/b9.bioc.mofa"],"license":"LGPL-3 | file LICENSE","summary":"Multi-Omics Factor Analysis (MOFA)"}}}

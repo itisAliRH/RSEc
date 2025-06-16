@@ -1,1 +1,1 @@
-{"tool_name":"metaphlan2","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"metaphlan2","biocontainers__identifiers":["doi:10.1038/nmeth.3589"],"biocontainers__license":"MIT","biocontainers__summary":"Metagenomic phylogenetic analysis"}}
+{"tool_name":"metaphlan2","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"metaphlan2","identifiers":["doi:10.1038/nmeth.3589"],"license":"MIT","summary":"Metagenomic phylogenetic analysis"}}}

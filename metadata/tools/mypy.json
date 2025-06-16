@@ -1,1 +1,1 @@
-{"tool_name":"mypy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mypy","biocontainers__license":"Expat","biocontainers__summary":"Optional static typing for python"}}
+{"tool_name":"mypy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mypy","identifiers":null,"license":"Expat","summary":"Optional static typing for python"}}}

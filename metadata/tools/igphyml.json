@@ -1,1 +1,1 @@
-{"tool_name":"igphyml","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"igphyml","biocontainers__license":"GPL-2.0","biocontainers__summary":"IgPhyML is a program designed to build phylogenetic trees and test evolutionary hypotheses regarding B cell affinity maturation."}}
+{"tool_name":"igphyml","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"igphyml","identifiers":null,"license":"GPL-2.0","summary":"IgPhyML is a program designed to build phylogenetic trees and test evolutionary hypotheses regarding B cell affinity maturation."}}}

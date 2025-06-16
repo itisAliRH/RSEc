@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-spem","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-spem","biocontainers__identifiers":["biotools:spem","doi:10.1089/cmb.2011.0269"],"biocontainers__license":"GPL-2","biocontainers__summary":"S-system parameter estimation method"}}
+{"tool_name":"bioconductor-spem","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-spem","identifiers":["biotools:spem","doi:10.1089/cmb.2011.0269"],"license":"GPL-2","summary":"S-system parameter estimation method"}}}

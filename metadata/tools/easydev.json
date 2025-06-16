@@ -1,1 +1,1 @@
-{"tool_name":"easydev","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"easydev","biocontainers__license":"BSD-3-Clause/SKL","biocontainers__summary":"Common utilities to ease the development of python packages"}}
+{"tool_name":"easydev","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"easydev","identifiers":null,"license":"BSD-3-Clause/SKL","summary":"Common utilities to ease the development of python packages"}}}

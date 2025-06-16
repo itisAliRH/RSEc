@@ -1,1 +1,1 @@
-{"tool_name":"pixelmed-www","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pixelmed-www","biocontainers__license":"BSD-3-clause","biocontainers__summary":"Dicom implementation containing image viewer and a ecg viewer - jnlp"}}
+{"tool_name":"pixelmed-www","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pixelmed-www","identifiers":null,"license":"BSD-3-clause","summary":"Dicom implementation containing image viewer and a ecg viewer - jnlp"}}}

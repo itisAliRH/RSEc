@@ -1,1 +1,1 @@
-{"tool_name":"iclipro","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"iclipro","biocontainers__license":"GNU General Public License","biocontainers__summary":"Iclipro is a python package that can be used to control for systematic misassignments in iclip data."}}
+{"tool_name":"iclipro","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"iclipro","identifiers":null,"license":"GNU General Public License","summary":"Iclipro is a python package that can be used to control for systematic misassignments in iclip data."}}}

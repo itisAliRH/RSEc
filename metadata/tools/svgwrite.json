@@ -1,1 +1,1 @@
-{"tool_name":"svgwrite","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"svgwrite","biocontainers__license":"MIT","biocontainers__summary":"A Python library to create SVG drawings."}}
+{"tool_name":"svgwrite","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"svgwrite","identifiers":null,"license":"MIT","summary":"A Python library to create SVG drawings."}}}

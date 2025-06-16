@@ -1,1 +1,1 @@
-{"tool_name":"epydoc","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"epydoc","biocontainers__license":"MIT","biocontainers__summary":"Edward loper's api documentation generation tool"}}
+{"tool_name":"epydoc","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"epydoc","identifiers":null,"license":"MIT","summary":"Edward loper's api documentation generation tool"}}}

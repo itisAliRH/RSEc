@@ -1,1 +1,1 @@
-{"tool_name":"mzml2isa","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mzml2isa","biocontainers__license":"GPL-3.0","biocontainers__summary":"Mzml2isa - mzml to isa-tab parsing tool"}}
+{"tool_name":"mzml2isa","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mzml2isa","identifiers":null,"license":"GPL-3.0","summary":"Mzml2isa - mzml to isa-tab parsing tool"}}}

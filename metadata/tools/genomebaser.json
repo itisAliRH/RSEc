@@ -1,1 +1,1 @@
-{"tool_name":"genomebaser","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"genomebaser","biocontainers__license":"Apache 2.0 license","biocontainers__summary":"Genomebaser manages complete (bacterial) genomes from ncbi"}}
+{"tool_name":"genomebaser","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"genomebaser","identifiers":null,"license":"Apache 2.0 license","summary":"Genomebaser manages complete (bacterial) genomes from ncbi"}}}

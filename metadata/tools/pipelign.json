@@ -1,1 +1,1 @@
-{"tool_name":"pipelign","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pipelign","biocontainers__license":"MIT","biocontainers__summary":"A pipeline for automated multiple sequence alignment, particularly of viral sequences."}}
+{"tool_name":"pipelign","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pipelign","identifiers":null,"license":"MIT","summary":"A pipeline for automated multiple sequence alignment, particularly of viral sequences."}}}

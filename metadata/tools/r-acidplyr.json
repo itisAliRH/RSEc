@@ -1,1 +1,1 @@
-{"tool_name":"r-acidplyr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-acidplyr","biocontainers__license":"Not available","biocontainers__summary":"A dplyr-like approach for classes defined in s4vectors."}}
+{"tool_name":"r-acidplyr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-acidplyr","identifiers":null,"license":"Not available","summary":"A dplyr-like approach for classes defined in s4vectors."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"truvari","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"truvari","biocontainers__license":"MIT","biocontainers__summary":"Structural variant comparison tool for VCFs"}}
+{"tool_name":"truvari","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"truvari","identifiers":null,"license":"MIT","summary":"Structural variant comparison tool for VCFs"}}}

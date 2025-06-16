@@ -1,1 +1,1 @@
-{"tool_name":"csvtk","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"csvtk","biocontainers__license":"MIT","biocontainers__summary":"A cross-platform, efficient, practical CSV/TSV toolkit"}}
+{"tool_name":"csvtk","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"csvtk","identifiers":null,"license":"MIT","summary":"A cross-platform, efficient, practical CSV/TSV toolkit"}}}

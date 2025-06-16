@@ -1,1 +1,1 @@
-{"tool_name":"biotools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"biotools","biocontainers__license":"custom, see /usr/share/doc/biotools/copyright","biocontainers__summary":"Python3 bioinformatics utilities for high-throughput genomic sequencing"}}
+{"tool_name":"biotools","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"biotools","identifiers":null,"license":"custom, see /usr/share/doc/biotools/copyright","summary":"Python3 bioinformatics utilities for high-throughput genomic sequencing"}}}

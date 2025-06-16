@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-harbchip","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-harbchip","biocontainers__identifiers":["doi:10.18129/b9.bioc.harbchip"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Experimental data package: harbchip"}}
+{"tool_name":"bioconductor-harbchip","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-harbchip","identifiers":["doi:10.18129/b9.bioc.harbchip"],"license":"Artistic-2.0","summary":"Experimental data package: harbchip"}}}

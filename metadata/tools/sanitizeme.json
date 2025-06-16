@@ -1,1 +1,1 @@
-{"tool_name":"sanitizeme","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sanitizeme","biocontainers__license":"Apache-2.0","biocontainers__summary":"GUI and CLI tool for removing host DNA from NGS data."}}
+{"tool_name":"sanitizeme","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sanitizeme","identifiers":null,"license":"Apache-2.0","summary":"GUI and CLI tool for removing host DNA from NGS data."}}}

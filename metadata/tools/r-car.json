@@ -1,1 +1,1 @@
-{"tool_name":"r-car","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-car","biocontainers__license":"GPL-2.0","biocontainers__summary":"Functions to Accompany J. Fox and S. Weisberg, An R Companion to Applied Regression, Third Edition, Sage, 2019."}}
+{"tool_name":"r-car","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-car","identifiers":null,"license":"GPL-2.0","summary":"Functions to Accompany J. Fox and S. Weisberg, An R Companion to Applied Regression, Third Edition, Sage, 2019."}}}

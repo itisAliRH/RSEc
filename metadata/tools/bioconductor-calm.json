@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-calm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-calm","biocontainers__identifiers":["doi:10.18129/b9.bioc.calm"],"biocontainers__license":"GPL (>=2)","biocontainers__summary":"Covariate Assisted Large-scale Multiple testing"}}
+{"tool_name":"bioconductor-calm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-calm","identifiers":["doi:10.18129/b9.bioc.calm"],"license":"GPL (>=2)","summary":"Covariate Assisted Large-scale Multiple testing"}}}

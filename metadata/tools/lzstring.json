@@ -1,1 +1,1 @@
-{"tool_name":"lzstring","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"lzstring","biocontainers__license":"Expat","biocontainers__summary":"Lz-based compression algorithm for python (python 3 version)"}}
+{"tool_name":"lzstring","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"lzstring","identifiers":null,"license":"Expat","summary":"Lz-based compression algorithm for python (python 3 version)"}}}

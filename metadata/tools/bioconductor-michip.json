@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-michip","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-michip","biocontainers__identifiers":["biotools:michip","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"MiChip Parsing and Summarizing Functions"}}
+{"tool_name":"bioconductor-michip","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-michip","identifiers":["biotools:michip","doi:10.1038/nmeth.3252"],"license":"GPL (>= 2)","summary":"MiChip Parsing and Summarizing Functions"}}}

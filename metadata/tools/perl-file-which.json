@@ -1,1 +1,1 @@
-{"tool_name":"perl-file-which","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-file-which","biocontainers__license":"perl_5","biocontainers__summary":"Perl implementation of the which utility as an API"}}
+{"tool_name":"perl-file-which","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-file-which","identifiers":null,"license":"perl_5","summary":"Perl implementation of the which utility as an API"}}}

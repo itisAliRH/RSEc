@@ -1,1 +1,1 @@
-{"tool_name":"tandem","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"tandem","biocontainers__identifiers":["doi:xtandem"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Matches tandem mass spectra with peptide sequences."}}
+{"tool_name":"tandem","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"tandem","identifiers":["doi:xtandem"],"license":"Artistic-2.0","summary":"Matches tandem mass spectra with peptide sequences."}}}

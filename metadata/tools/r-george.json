@@ -1,1 +1,1 @@
-{"tool_name":"r-george","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-george","biocontainers__license":"GPL (>= 2)","biocontainers__summary":"geoRge, a computational tool for stable isotope labelling detection in LC/MS-based untargeted metabolomics"}}
+{"tool_name":"r-george","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-george","identifiers":null,"license":"GPL (>= 2)","summary":"geoRge, a computational tool for stable isotope labelling detection in LC/MS-based untargeted metabolomics"}}}

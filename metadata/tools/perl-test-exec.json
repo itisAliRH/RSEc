@@ -1,1 +1,1 @@
-{"tool_name":"perl-test-exec","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-test-exec","biocontainers__license":"perl_5","biocontainers__summary":"Test that some code calls exec without terminating testing"}}
+{"tool_name":"perl-test-exec","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-test-exec","identifiers":null,"license":"perl_5","summary":"Test that some code calls exec without terminating testing"}}}

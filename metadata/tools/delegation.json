@@ -1,1 +1,1 @@
-{"tool_name":"delegation","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"delegation","biocontainers__license":"BSD 3-Clause \"New\" or \"Revised\" License","biocontainers__summary":"Simple implementation of the delegate pattern."}}
+{"tool_name":"delegation","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"delegation","identifiers":null,"license":"BSD 3-Clause \"New\" or \"Revised\" License","summary":"Simple implementation of the delegate pattern."}}}

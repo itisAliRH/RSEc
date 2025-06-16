@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-lrbasedbi","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-lrbasedbi","biocontainers__identifiers":["doi:10.18129/b9.bioc.lrbasedbi"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Dbi to construct lrbase-related package"}}
+{"tool_name":"bioconductor-lrbasedbi","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-lrbasedbi","identifiers":["doi:10.18129/b9.bioc.lrbasedbi"],"license":"Artistic-2.0","summary":"Dbi to construct lrbase-related package"}}}

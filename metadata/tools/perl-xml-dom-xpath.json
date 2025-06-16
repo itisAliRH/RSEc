@@ -1,1 +1,1 @@
-{"tool_name":"perl-xml-dom-xpath","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-xml-dom-xpath","biocontainers__license":"Not available","biocontainers__summary":"Perl extension to add xpath support to xml::dom, using xml::xpath engine"}}
+{"tool_name":"perl-xml-dom-xpath","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-xml-dom-xpath","identifiers":null,"license":"Not available","summary":"Perl extension to add xpath support to xml::dom, using xml::xpath engine"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-file-slurper","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-file-slurper","biocontainers__license":"perl_5","biocontainers__summary":"A simple, sane and efficient module to slurp a file"}}
+{"tool_name":"perl-file-slurper","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-file-slurper","identifiers":null,"license":"perl_5","summary":"A simple, sane and efficient module to slurp a file"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-io-zlib","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-io-zlib","biocontainers__license":"Not available","biocontainers__summary":"IO:: style interface to Compress::Zlib"}}
+{"tool_name":"perl-io-zlib","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-io-zlib","identifiers":null,"license":"Not available","summary":"IO:: style interface to Compress::Zlib"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bcbio_monitor","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bcbio_monitor","biocontainers__license":"MIT","biocontainers__summary":"Bcbio-monitor is an extension of bcbio-nextgen to visualize its progress"}}
+{"tool_name":"bcbio_monitor","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bcbio_monitor","identifiers":null,"license":"MIT","summary":"Bcbio-monitor is an extension of bcbio-nextgen to visualize its progress"}}}

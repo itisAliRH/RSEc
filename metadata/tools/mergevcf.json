@@ -1,1 +1,1 @@
-{"tool_name":"mergevcf","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mergevcf","biocontainers__license":"MIT","biocontainers__summary":"Python package and routines for merging vcf files"}}
+{"tool_name":"mergevcf","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mergevcf","identifiers":null,"license":"MIT","summary":"Python package and routines for merging vcf files"}}}

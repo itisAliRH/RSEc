@@ -1,1 +1,1 @@
-{"tool_name":"test-ci","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"test-ci","biocontainers__license":"Apache-2.0","biocontainers__summary":"A test container for internal testing"}}
+{"tool_name":"test-ci","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"test-ci","identifiers":null,"license":"Apache-2.0","summary":"A test container for internal testing"}}}

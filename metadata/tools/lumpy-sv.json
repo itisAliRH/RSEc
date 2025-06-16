@@ -1,1 +1,1 @@
-{"tool_name":"lumpy-sv","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"lumpy-sv","biocontainers__identifiers":["doi:10.1186/gb-2014-15-6-r84"],"biocontainers__license":"MIT","biocontainers__summary":"a general probabilistic framework for structural variant discovery"}}
+{"tool_name":"lumpy-sv","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"lumpy-sv","identifiers":["doi:10.1186/gb-2014-15-6-r84"],"license":"MIT","summary":"a general probabilistic framework for structural variant discovery"}}}

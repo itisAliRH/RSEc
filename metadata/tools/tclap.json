@@ -1,1 +1,1 @@
-{"tool_name":"tclap","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"tclap","biocontainers__license":"MIT","biocontainers__summary":"TCLAP is a small, flexible library that provides a simple interface for defining and accessing command line arguments."}}
+{"tool_name":"tclap","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"tclap","identifiers":null,"license":"MIT","summary":"TCLAP is a small, flexible library that provides a simple interface for defining and accessing command line arguments."}}}

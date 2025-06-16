@@ -1,1 +1,1 @@
-{"tool_name":"sphinxcontrib-autoprogram","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sphinxcontrib-autoprogram","biocontainers__license":"BSD-3-clause","biocontainers__summary":"Automated documentation of cli programs for sphinx (python 2)"}}
+{"tool_name":"sphinxcontrib-autoprogram","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sphinxcontrib-autoprogram","identifiers":null,"license":"BSD-3-clause","summary":"Automated documentation of cli programs for sphinx (python 2)"}}}

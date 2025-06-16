@@ -1,1 +1,1 @@
-{"tool_name":"deepaclive","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"deepaclive","biocontainers__license":"MIT","biocontainers__summary":"Detecting novel pathogens from ngs reads in real-time during a sequencing run."}}
+{"tool_name":"deepaclive","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"deepaclive","identifiers":null,"license":"MIT","summary":"Detecting novel pathogens from ngs reads in real-time during a sequencing run."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"pydotplus","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pydotplus","biocontainers__license":"MIT","biocontainers__summary":"PyDotPlus is an improved version of the old pydot project that provides a Python Interface to the Graphviz Dot language."}}
+{"tool_name":"pydotplus","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pydotplus","identifiers":null,"license":"MIT","summary":"PyDotPlus is an improved version of the old pydot project that provides a Python Interface to the Graphviz Dot language."}}}

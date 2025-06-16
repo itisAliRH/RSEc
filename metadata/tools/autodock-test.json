@@ -1,1 +1,1 @@
-{"tool_name":"autodock-test","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"autodock-test","biocontainers__identifiers":["biotools:autodock","doi:10.1002/jcc.21256","doi:10.26434/CHEMRXIV.9702389.V1"],"biocontainers__license":"GPL-2+","biocontainers__summary":"Test files for autodock"}}
+{"tool_name":"autodock-test","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"autodock-test","identifiers":["biotools:autodock","doi:10.1002/jcc.21256","doi:10.26434/CHEMRXIV.9702389.V1"],"license":"GPL-2+","summary":"Test files for autodock"}}}

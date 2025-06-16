@@ -1,1 +1,1 @@
-{"tool_name":"abundancebin","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"abundancebin","biocontainers__identifiers":["doi:10.1007/978-3-642-12683-3_35"],"biocontainers__license":"Custom License","biocontainers__summary":"Abundance-based tool for binning metagenomic sequences"}}
+{"tool_name":"abundancebin","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"abundancebin","identifiers":["doi:10.1007/978-3-642-12683-3_35"],"license":"Custom License","summary":"Abundance-based tool for binning metagenomic sequences"}}}

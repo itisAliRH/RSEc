@@ -1,1 +1,1 @@
-{"tool_name":"perl-b","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-b","biocontainers__license":"perl_5","biocontainers__summary":"The perl compiler backend"}}
+{"tool_name":"perl-b","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-b","identifiers":null,"license":"perl_5","summary":"The perl compiler backend"}}}

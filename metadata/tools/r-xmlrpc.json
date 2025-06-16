@@ -1,1 +1,1 @@
-{"tool_name":"r-xmlrpc","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-xmlrpc","biocontainers__license":"BSD","biocontainers__summary":"A simple implementation of xml-rpc for r."}}
+{"tool_name":"r-xmlrpc","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-xmlrpc","identifiers":null,"license":"BSD","summary":"A simple implementation of xml-rpc for r."}}}

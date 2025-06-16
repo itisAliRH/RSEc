@@ -1,1 +1,1 @@
-{"tool_name":"bcbio","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bcbio","biocontainers__identifiers":["doi:10.5281/zenodo.3564938"],"biocontainers__license":"MIT","biocontainers__summary":"Toolkit for analysing high-throughput sequencing data"}}
+{"tool_name":"bcbio","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bcbio","identifiers":["doi:10.5281/zenodo.3564938"],"license":"MIT","summary":"Toolkit for analysing high-throughput sequencing data"}}}

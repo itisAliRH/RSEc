@@ -1,1 +1,1 @@
-{"tool_name":"abacat","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"abacat","biocontainers__identifiers":["doi:10.5281/zenodo.3740277"],"biocontainers__license":"MIT","biocontainers__summary":"abacat - A BActerial genome Curation and Annotation Toolkit"}}
+{"tool_name":"abacat","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"abacat","identifiers":["doi:10.5281/zenodo.3740277"],"license":"MIT","summary":"abacat - A BActerial genome Curation and Annotation Toolkit"}}}

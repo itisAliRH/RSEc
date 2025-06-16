@@ -1,1 +1,1 @@
-{"tool_name":"r-pipette","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-pipette","biocontainers__license":"GPL-3.0","biocontainers__summary":"Pipette biological data in and out of R."}}
+{"tool_name":"r-pipette","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-pipette","identifiers":null,"license":"GPL-3.0","summary":"Pipette biological data in and out of R."}}}

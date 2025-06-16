@@ -1,1 +1,1 @@
-{"tool_name":"circexplorer","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"circexplorer","biocontainers__identifiers":["doi:10.1016/j.cell.2014.09.001"],"biocontainers__license":"MIT","biocontainers__summary":"A combined strategy to identify circular rnas (circrnas and cirnas)"}}
+{"tool_name":"circexplorer","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"circexplorer","identifiers":["doi:10.1016/j.cell.2014.09.001"],"license":"MIT","summary":"A combined strategy to identify circular rnas (circrnas and cirnas)"}}}

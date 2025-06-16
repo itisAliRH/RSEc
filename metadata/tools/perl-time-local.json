@@ -1,1 +1,1 @@
-{"tool_name":"perl-time-local","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-time-local","biocontainers__license":"perl_5","biocontainers__summary":"Efficiently compute time from local and gmt time"}}
+{"tool_name":"perl-time-local","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-time-local","identifiers":null,"license":"perl_5","summary":"Efficiently compute time from local and gmt time"}}}

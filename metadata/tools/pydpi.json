@@ -1,1 +1,1 @@
-{"tool_name":"pydpi","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pydpi","biocontainers__identifiers":["doi:10.1021/ci400127q"],"biocontainers__license":"GPL","biocontainers__summary":"A powerful tool for chemoinformatics, bioinforamtics and chemogenomics study"}}
+{"tool_name":"pydpi","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pydpi","identifiers":["doi:10.1021/ci400127q"],"license":"GPL","summary":"A powerful tool for chemoinformatics, bioinforamtics and chemogenomics study"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"r-poppr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-poppr","biocontainers__identifiers":["doi:10.7717/peerj.281"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"An R package for genetic analysis of populations with mixed (clonal/sexual) reproduction"}}
+{"tool_name":"r-poppr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-poppr","identifiers":["doi:10.7717/peerj.281"],"license":"GPL (>= 2)","summary":"An R package for genetic analysis of populations with mixed (clonal/sexual) reproduction"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-apalyzer","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-apalyzer","biocontainers__identifiers":["doi:10.18129/b9.bioc.apalyzer"],"biocontainers__license":"LGPL-3","biocontainers__summary":"A toolkit for APA analysis using RNA-seq data"}}
+{"tool_name":"bioconductor-apalyzer","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-apalyzer","identifiers":["doi:10.18129/b9.bioc.apalyzer"],"license":"LGPL-3","summary":"A toolkit for APA analysis using RNA-seq data"}}}

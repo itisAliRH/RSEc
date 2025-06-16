@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-scdblfinder","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-scdblfinder","biocontainers__identifiers":["doi:10.18129/b9.bioc.scdblfinder"],"biocontainers__license":"GPL-3","biocontainers__summary":"scDblFinder"}}
+{"tool_name":"bioconductor-scdblfinder","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-scdblfinder","identifiers":["doi:10.18129/b9.bioc.scdblfinder"],"license":"GPL-3","summary":"scDblFinder"}}}

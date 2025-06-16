@@ -1,1 +1,1 @@
-{"tool_name":"cgpbigwig","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"cgpbigwig","biocontainers__license":"GPL-3.0","biocontainers__summary":"BigWig manpulation tools using libBigWig and htslib"}}
+{"tool_name":"cgpbigwig","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"cgpbigwig","identifiers":null,"license":"GPL-3.0","summary":"BigWig manpulation tools using libBigWig and htslib"}}}

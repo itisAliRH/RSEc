@@ -1,1 +1,1 @@
-{"tool_name":"perl-devel-stacktrace","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-devel-stacktrace","biocontainers__license":"artistic_2","biocontainers__summary":"An object representing a stack trace"}}
+{"tool_name":"perl-devel-stacktrace","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-devel-stacktrace","identifiers":null,"license":"artistic_2","summary":"An object representing a stack trace"}}}

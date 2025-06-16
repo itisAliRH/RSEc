@@ -1,1 +1,1 @@
-{"tool_name":"pychopper","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pychopper","biocontainers__license":"MPL2","biocontainers__summary":"A tool to identify, orient and rescue full length cdna reads from nanopore data."}}
+{"tool_name":"pychopper","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pychopper","identifiers":null,"license":"MPL2","summary":"A tool to identify, orient and rescue full length cdna reads from nanopore data."}}}

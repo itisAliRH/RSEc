@@ -1,1 +1,1 @@
-{"tool_name":"demuxem","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"demuxem","biocontainers__license":"BSD","biocontainers__summary":"Demuxem is the demultiplexing module of pegasus, which works on cell-hashing and nucleus-hashing genomics data."}}
+{"tool_name":"demuxem","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"demuxem","identifiers":null,"license":"BSD","summary":"Demuxem is the demultiplexing module of pegasus, which works on cell-hashing and nucleus-hashing genomics data."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"sigma-align","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"sigma-align","biocontainers__license":"GPL-2+","biocontainers__summary":"Simple greedy multiple alignment of non-coding dna sequences"}}
+{"tool_name":"sigma-align","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"sigma-align","identifiers":null,"license":"GPL-2+","summary":"Simple greedy multiple alignment of non-coding dna sequences"}}}

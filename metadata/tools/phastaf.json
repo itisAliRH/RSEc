@@ -1,1 +1,1 @@
-{"tool_name":"phastaf","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"phastaf","biocontainers__license":"GNU General Public License v3.0","biocontainers__summary":"Identify phage regions in bacterial genomes for masking purposes"}}
+{"tool_name":"phastaf","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"phastaf","identifiers":null,"license":"GNU General Public License v3.0","summary":"Identify phage regions in bacterial genomes for masking purposes"}}}

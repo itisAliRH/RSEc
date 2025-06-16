@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-methylumi","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-methylumi","biocontainers__identifiers":["biotools:methylumi","doi:10.1186/1471-2164-14-293"],"biocontainers__license":"GPL-2","biocontainers__summary":"Handle Illumina methylation data"}}
+{"tool_name":"bioconductor-methylumi","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-methylumi","identifiers":["biotools:methylumi","doi:10.1186/1471-2164-14-293"],"license":"GPL-2","summary":"Handle Illumina methylation data"}}}

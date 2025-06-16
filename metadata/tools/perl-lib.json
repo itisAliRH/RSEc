@@ -1,1 +1,1 @@
-{"tool_name":"perl-lib","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-lib","biocontainers__license":"perl_5","biocontainers__summary":"Manipulate @inc at compile time"}}
+{"tool_name":"perl-lib","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-lib","identifiers":null,"license":"perl_5","summary":"Manipulate @inc at compile time"}}}

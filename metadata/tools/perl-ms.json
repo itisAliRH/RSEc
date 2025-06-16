@@ -1,1 +1,1 @@
-{"tool_name":"perl-ms","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-ms","biocontainers__license":"GPL-3.0","biocontainers__summary":"Namespace for mass spectrometry-related libraries"}}
+{"tool_name":"perl-ms","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-ms","identifiers":null,"license":"GPL-3.0","summary":"Namespace for mass spectrometry-related libraries"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-msmb","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-msmb","biocontainers__identifiers":["doi:10.18129/b9.bioc.msmb"],"biocontainers__license":"LGPL","biocontainers__summary":"Data sets for the book 'Modern Statistics for Biology'"}}
+{"tool_name":"bioconductor-msmb","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-msmb","identifiers":["doi:10.18129/b9.bioc.msmb"],"license":"LGPL","summary":"Data sets for the book 'Modern Statistics for Biology'"}}}

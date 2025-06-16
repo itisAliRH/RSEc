@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-iteremoval","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-iteremoval","biocontainers__identifiers":["doi:10.18129/b9.bioc.iteremoval"],"biocontainers__license":"GPL-2","biocontainers__summary":"Iteration removal method for feature selection"}}
+{"tool_name":"bioconductor-iteremoval","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-iteremoval","identifiers":["doi:10.18129/b9.bioc.iteremoval"],"license":"GPL-2","summary":"Iteration removal method for feature selection"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"golang-github-dataence-porter2-dev","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"golang-github-dataence-porter2-dev","biocontainers__license":"Apache-2.0","biocontainers__summary":"Native go high-performance porter2 stemmer for english"}}
+{"tool_name":"golang-github-dataence-porter2-dev","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"golang-github-dataence-porter2-dev","identifiers":null,"license":"Apache-2.0","summary":"Native go high-performance porter2 stemmer for english"}}}

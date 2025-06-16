@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-wavetilingdata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-wavetilingdata","biocontainers__identifiers":["doi:10.18129/b9.bioc.wavetilingdata"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"waveTiling Example Data"}}
+{"tool_name":"bioconductor-wavetilingdata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-wavetilingdata","identifiers":["doi:10.18129/b9.bioc.wavetilingdata"],"license":"GPL (>= 2)","summary":"waveTiling Example Data"}}}

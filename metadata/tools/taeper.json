@@ -1,1 +1,1 @@
-{"tool_name":"taeper","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"taeper","biocontainers__license":"MIT","biocontainers__summary":"Simulate repeating a nanopore experiment."}}
+{"tool_name":"taeper","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"taeper","identifiers":null,"license":"MIT","summary":"Simulate repeating a nanopore experiment."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-fmcsr","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-fmcsr","biocontainers__identifiers":["doi:10.18129/b9.bioc.fmcsr"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Mismatch Tolerant Maximum Common Substructure Searching"}}
+{"tool_name":"bioconductor-fmcsr","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-fmcsr","identifiers":["doi:10.18129/b9.bioc.fmcsr"],"license":"Artistic-2.0","summary":"Mismatch Tolerant Maximum Common Substructure Searching"}}}

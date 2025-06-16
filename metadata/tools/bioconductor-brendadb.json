@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-brendadb","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-brendadb","biocontainers__identifiers":["doi:10.18129/b9.bioc.brendadb"],"biocontainers__license":"MIT","biocontainers__summary":"The BRENDA Enzyme Database"}}
+{"tool_name":"bioconductor-brendadb","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-brendadb","identifiers":["doi:10.18129/b9.bioc.brendadb"],"license":"MIT","summary":"The BRENDA Enzyme Database"}}}

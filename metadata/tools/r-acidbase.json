@@ -1,1 +1,1 @@
-{"tool_name":"r-acidbase","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-acidbase","biocontainers__license":"MIT","biocontainers__summary":"Low-level base functions imported by Acid Genomics packages."}}
+{"tool_name":"r-acidbase","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-acidbase","identifiers":null,"license":"MIT","summary":"Low-level base functions imported by Acid Genomics packages."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-tie-hash","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-tie-hash","biocontainers__license":"perl_5","biocontainers__summary":"Tie::Hash, Tie::StdHash, Tie::ExtraHash - base class definitions for tied hashes"}}
+{"tool_name":"perl-tie-hash","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-tie-hash","identifiers":null,"license":"perl_5","summary":"Tie::Hash, Tie::StdHash, Tie::ExtraHash - base class definitions for tied hashes"}}}

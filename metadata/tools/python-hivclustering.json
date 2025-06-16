@@ -1,1 +1,1 @@
-{"tool_name":"python-hivclustering","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python-hivclustering","biocontainers__license":"Apache-2.0","biocontainers__summary":"A python 3 library that makes inferences on hiv-1 transmission networks."}}
+{"tool_name":"python-hivclustering","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python-hivclustering","identifiers":null,"license":"Apache-2.0","summary":"A python 3 library that makes inferences on hiv-1 transmission networks."}}}

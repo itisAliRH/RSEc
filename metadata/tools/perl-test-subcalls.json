@@ -1,1 +1,1 @@
-{"tool_name":"perl-test-subcalls","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-test-subcalls","biocontainers__license":"Not available","biocontainers__summary":"Track the number of times subs are called"}}
+{"tool_name":"perl-test-subcalls","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-test-subcalls","identifiers":null,"license":"Not available","summary":"Track the number of times subs are called"}}}

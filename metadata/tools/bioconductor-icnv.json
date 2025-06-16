@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-icnv","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-icnv","biocontainers__identifiers":["doi:10.18129/b9.bioc.icnv"],"biocontainers__license":"GPL-2","biocontainers__summary":"Integrated Copy Number Variation detection"}}
+{"tool_name":"bioconductor-icnv","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-icnv","identifiers":["doi:10.18129/b9.bioc.icnv"],"license":"GPL-2","summary":"Integrated Copy Number Variation detection"}}}

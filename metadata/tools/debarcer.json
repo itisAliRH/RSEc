@@ -1,1 +1,1 @@
-{"tool_name":"debarcer","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"debarcer","biocontainers__license":"Not available","biocontainers__summary":"A package for de-barcoding and error correction of sequencing data containing molecular barcodes."}}
+{"tool_name":"debarcer","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"debarcer","identifiers":null,"license":"Not available","summary":"A package for de-barcoding and error correction of sequencing data containing molecular barcodes."}}}

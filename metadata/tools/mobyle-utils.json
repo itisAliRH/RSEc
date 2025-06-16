@@ -1,1 +1,1 @@
-{"tool_name":"mobyle-utils","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"mobyle-utils","biocontainers__identifiers":["doi:10.1093/bioinformatics/btp493"],"biocontainers__license":"GPL-2+","biocontainers__summary":"Binary tools used by mobyle"}}
+{"tool_name":"mobyle-utils","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"mobyle-utils","identifiers":["doi:10.1093/bioinformatics/btp493"],"license":"GPL-2+","summary":"Binary tools used by mobyle"}}}

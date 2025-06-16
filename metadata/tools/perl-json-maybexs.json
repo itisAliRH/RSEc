@@ -1,1 +1,1 @@
-{"tool_name":"perl-json-maybexs","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-json-maybexs","biocontainers__license":"perl_5","biocontainers__summary":"Use Cpanel::JSON::XS with a fallback to JSON::XS and JSON::PP"}}
+{"tool_name":"perl-json-maybexs","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-json-maybexs","identifiers":null,"license":"perl_5","summary":"Use Cpanel::JSON::XS with a fallback to JSON::XS and JSON::PP"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-digest-sha","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-digest-sha","biocontainers__license":"perl_5","biocontainers__summary":"Perl extension for sha-1/224/256/384/512"}}
+{"tool_name":"perl-digest-sha","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-digest-sha","identifiers":null,"license":"perl_5","summary":"Perl extension for sha-1/224/256/384/512"}}}

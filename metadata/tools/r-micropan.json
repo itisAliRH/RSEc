@@ -1,1 +1,1 @@
-{"tool_name":"r-micropan","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-micropan","biocontainers__license":"GPL-2","biocontainers__summary":"A collection of functions for computations and visualizations of microbial pan-genomes."}}
+{"tool_name":"r-micropan","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-micropan","identifiers":null,"license":"GPL-2","summary":"A collection of functions for computations and visualizations of microbial pan-genomes."}}}

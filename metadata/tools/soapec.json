@@ -1,1 +1,1 @@
-{"tool_name":"soapec","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"soapec","biocontainers__license":"GPL-2.0-only","biocontainers__summary":"A correction tool for soapdenovo"}}
+{"tool_name":"soapec","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"soapec","identifiers":null,"license":"GPL-2.0-only","summary":"A correction tool for soapdenovo"}}}

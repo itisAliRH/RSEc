@@ -1,1 +1,1 @@
-{"tool_name":"python3-hl7","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"python3-hl7","biocontainers__license":"BSD-3-clause","biocontainers__summary":"Python3 library for parsing hl7 messages"}}
+{"tool_name":"python3-hl7","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"python3-hl7","identifiers":null,"license":"BSD-3-clause","summary":"Python3 library for parsing hl7 messages"}}}

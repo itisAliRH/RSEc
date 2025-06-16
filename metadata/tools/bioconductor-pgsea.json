@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-pgsea","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-pgsea","biocontainers__identifiers":["biotools:pgsea","doi:10.1038/nmeth.3252"],"biocontainers__license":"GPL-2","biocontainers__summary":"Parametric Gene Set Enrichment Analysis"}}
+{"tool_name":"bioconductor-pgsea","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-pgsea","identifiers":["biotools:pgsea","doi:10.1038/nmeth.3252"],"license":"GPL-2","summary":"Parametric Gene Set Enrichment Analysis"}}}

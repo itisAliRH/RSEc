@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-metamsdata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-metamsdata","biocontainers__identifiers":["doi:10.18129/b9.bioc.metamsdata"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Example CDF data for the metaMS package"}}
+{"tool_name":"bioconductor-metamsdata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-metamsdata","identifiers":["doi:10.18129/b9.bioc.metamsdata"],"license":"GPL (>= 2)","summary":"Example CDF data for the metaMS package"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"simplesam","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"simplesam","biocontainers__license":"MIT","biocontainers__summary":"Simple pure python sam parser and objects for working with sam records"}}
+{"tool_name":"simplesam","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"simplesam","identifiers":null,"license":"MIT","summary":"Simple pure python sam parser and objects for working with sam records"}}}

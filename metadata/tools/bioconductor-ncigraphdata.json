@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-ncigraphdata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-ncigraphdata","biocontainers__identifiers":["doi:10.18129/b9.bioc.ncigraphdata"],"biocontainers__license":"GPL-3","biocontainers__summary":"Data for the NCIgraph software package"}}
+{"tool_name":"bioconductor-ncigraphdata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-ncigraphdata","identifiers":["doi:10.18129/b9.bioc.ncigraphdata"],"license":"GPL-3","summary":"Data for the NCIgraph software package"}}}

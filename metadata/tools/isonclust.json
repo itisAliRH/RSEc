@@ -1,1 +1,1 @@
-{"tool_name":"isonclust","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"isonclust","biocontainers__identifiers":["doi:10.1007/978-3-030-17083-7_14"],"biocontainers__license":"GNU General Public License v3.0","biocontainers__summary":"De novo clustering of long-read transcriptome reads."}}
+{"tool_name":"isonclust","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"isonclust","identifiers":["doi:10.1007/978-3-030-17083-7_14"],"license":"GNU General Public License v3.0","summary":"De novo clustering of long-read transcriptome reads."}}}

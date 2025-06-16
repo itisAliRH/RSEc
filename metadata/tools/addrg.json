@@ -1,1 +1,1 @@
-{"tool_name":"addrg","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"addrg","biocontainers__license":"MIT","biocontainers__summary":"Add read group to BAM file"}}
+{"tool_name":"addrg","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"addrg","identifiers":null,"license":"MIT","summary":"Add read group to BAM file"}}}

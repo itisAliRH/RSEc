@@ -1,1 +1,1 @@
-{"tool_name":"perl-bit-vector","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-bit-vector","biocontainers__license":"Perl","biocontainers__summary":"Efficient bit vector, set of integers and \"big int\" math library"}}
+{"tool_name":"perl-bit-vector","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-bit-vector","identifiers":null,"license":"Perl","summary":"Efficient bit vector, set of integers and \"big int\" math library"}}}

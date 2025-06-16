@@ -1,1 +1,1 @@
-{"tool_name":"pytest-marks","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pytest-marks","biocontainers__license":"GPL-2","biocontainers__summary":"set marks on py.test test methods"}}
+{"tool_name":"pytest-marks","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pytest-marks","identifiers":null,"license":"GPL-2","summary":"set marks on py.test test methods"}}}

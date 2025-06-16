@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-rnbeads","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-rnbeads","biocontainers__identifiers":["doi:10.18129/b9.bioc.rnbeads"],"biocontainers__license":"GPL-3","biocontainers__summary":"RnBeads"}}
+{"tool_name":"bioconductor-rnbeads","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-rnbeads","identifiers":["doi:10.18129/b9.bioc.rnbeads"],"license":"GPL-3","summary":"RnBeads"}}}

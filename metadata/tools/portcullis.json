@@ -1,1 +1,1 @@
-{"tool_name":"portcullis","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"portcullis","biocontainers__license":"GPL-3.0","biocontainers__summary":"Splice junction analysis and filtering from BAM files"}}
+{"tool_name":"portcullis","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"portcullis","identifiers":null,"license":"GPL-3.0","summary":"Splice junction analysis and filtering from BAM files"}}}

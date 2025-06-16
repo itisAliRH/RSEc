@@ -1,1 +1,1 @@
-{"tool_name":"perl-clone-pp","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-clone-pp","biocontainers__license":"perl_5","biocontainers__summary":"Recursively copy Perl datatypes"}}
+{"tool_name":"perl-clone-pp","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-clone-pp","identifiers":null,"license":"perl_5","summary":"Recursively copy Perl datatypes"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-chromstardata","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-chromstardata","biocontainers__identifiers":["doi:10.18129/b9.bioc.chromstardata"],"biocontainers__license":"GPL-3","biocontainers__summary":"ChIP-seq data for Demonstration Purposes"}}
+{"tool_name":"bioconductor-chromstardata","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-chromstardata","identifiers":["doi:10.18129/b9.bioc.chromstardata"],"license":"GPL-3","summary":"ChIP-seq data for Demonstration Purposes"}}}

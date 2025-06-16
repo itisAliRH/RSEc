@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-mirnatap.db","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-mirnatap.db","biocontainers__identifiers":["doi:10.18129/b9.bioc.mirnatap.db"],"biocontainers__license":"GPL-2","biocontainers__summary":"Data for miRNAtap"}}
+{"tool_name":"bioconductor-mirnatap.db","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-mirnatap.db","identifiers":["doi:10.18129/b9.bioc.mirnatap.db"],"license":"GPL-2","summary":"Data for miRNAtap"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"nseg","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"nseg","biocontainers__license":"Public Domain","biocontainers__summary":"nseg identifies and masks regions of low complexity in nucleic acid sequences"}}
+{"tool_name":"nseg","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"nseg","identifiers":null,"license":"Public Domain","summary":"nseg identifies and masks regions of low complexity in nucleic acid sequences"}}}

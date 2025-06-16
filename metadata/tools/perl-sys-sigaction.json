@@ -1,1 +1,1 @@
-{"tool_name":"perl-sys-sigaction","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-sys-sigaction","biocontainers__license":"perl_5","biocontainers__summary":"Perl extension for consistent signal handling"}}
+{"tool_name":"perl-sys-sigaction","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-sys-sigaction","identifiers":null,"license":"perl_5","summary":"Perl extension for consistent signal handling"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"abeona","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"abeona","biocontainers__identifiers":["doi:10.3389/fpls.2018.01625"],"biocontainers__license":"Apache-2.0","biocontainers__summary":"A simple transcriptome assembler based on kallisto and cortex graphs."}}
+{"tool_name":"abeona","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"abeona","identifiers":["doi:10.3389/fpls.2018.01625"],"license":"Apache-2.0","summary":"A simple transcriptome assembler based on kallisto and cortex graphs."}}}

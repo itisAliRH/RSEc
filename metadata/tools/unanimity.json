@@ -1,1 +1,1 @@
-{"tool_name":"unanimity","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"unanimity","biocontainers__license":"BSD-3-Clause-PacBio","biocontainers__summary":"Generate and process accurate consensus nucleotide sequences"}}
+{"tool_name":"unanimity","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"unanimity","identifiers":null,"license":"BSD-3-Clause-PacBio","summary":"Generate and process accurate consensus nucleotide sequences"}}}

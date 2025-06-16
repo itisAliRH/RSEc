@@ -1,1 +1,1 @@
-{"tool_name":"enasearch","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"enasearch","biocontainers__license":"MIT","biocontainers__summary":"A python library for interacting with ena's api"}}
+{"tool_name":"enasearch","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"enasearch","identifiers":null,"license":"MIT","summary":"A python library for interacting with ena's api"}}}

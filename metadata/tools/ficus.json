@@ -1,1 +1,1 @@
-{"tool_name":"ficus","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ficus","biocontainers__license":"BSD-3","biocontainers__summary":"Provides a context manager for matplotlib figures."}}
+{"tool_name":"ficus","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ficus","identifiers":null,"license":"BSD-3","summary":"Provides a context manager for matplotlib figures."}}}

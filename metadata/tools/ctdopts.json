@@ -1,1 +1,1 @@
-{"tool_name":"ctdopts","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ctdopts","biocontainers__license":"custom, see /usr/share/doc/ctdopts/copyright","biocontainers__summary":"Gives your python tools a ctd-compatible interface"}}
+{"tool_name":"ctdopts","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ctdopts","identifiers":null,"license":"custom, see /usr/share/doc/ctdopts/copyright","summary":"Gives your python tools a ctd-compatible interface"}}}

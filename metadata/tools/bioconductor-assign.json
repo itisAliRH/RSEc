@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-assign","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-assign","biocontainers__identifiers":["doi:10.18129/b9.bioc.assign"],"biocontainers__license":"MIT","biocontainers__summary":"Adaptive signature selection and integration (assign)"}}
+{"tool_name":"bioconductor-assign","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-assign","identifiers":["doi:10.18129/b9.bioc.assign"],"license":"MIT","summary":"Adaptive signature selection and integration (assign)"}}}

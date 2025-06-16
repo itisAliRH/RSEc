@@ -1,1 +1,1 @@
-{"tool_name":"bpp-core","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bpp-core","biocontainers__license":"CeCILL","biocontainers__summary":"Bio++ is a set of C++ libraries for Bioinformatics."}}
+{"tool_name":"bpp-core","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bpp-core","identifiers":null,"license":"CeCILL","summary":"Bio++ is a set of C++ libraries for Bioinformatics."}}}

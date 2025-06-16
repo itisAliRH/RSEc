@@ -1,1 +1,1 @@
-{"tool_name":"cdbtools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"cdbtools","biocontainers__license":"Public Domain","biocontainers__summary":"Cdb (constant database) indexing and retrieval tools for fasta files"}}
+{"tool_name":"cdbtools","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"cdbtools","identifiers":null,"license":"Public Domain","summary":"Cdb (constant database) indexing and retrieval tools for fasta files"}}}

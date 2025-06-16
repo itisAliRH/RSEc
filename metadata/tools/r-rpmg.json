@@ -1,1 +1,1 @@
-{"tool_name":"r-rpmg","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-rpmg","biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Really Poor Man's Graphical User Interface, used to create interactive R analysis sessions with simple R commands."}}
+{"tool_name":"r-rpmg","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-rpmg","identifiers":null,"license":"GPL (>= 2)","summary":"Really Poor Man's Graphical User Interface, used to create interactive R analysis sessions with simple R commands."}}}

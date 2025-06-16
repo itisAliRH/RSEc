@@ -1,1 +1,1 @@
-{"tool_name":"ucsc-mktime","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ucsc-mktime","biocontainers__license":"Custom License","biocontainers__summary":"convert date string to unix timestamp"}}
+{"tool_name":"ucsc-mktime","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ucsc-mktime","identifiers":null,"license":"Custom License","summary":"convert date string to unix timestamp"}}}

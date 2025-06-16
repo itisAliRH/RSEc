@@ -1,1 +1,1 @@
-{"tool_name":"perl-sys-info","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-sys-info","biocontainers__license":"perl_5","biocontainers__summary":"Fetch information from the host system"}}
+{"tool_name":"perl-sys-info","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-sys-info","identifiers":null,"license":"perl_5","summary":"Fetch information from the host system"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-file-touch","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-file-touch","biocontainers__license":"Not available","biocontainers__summary":"Update file access and modification times, optionally creating files if needed"}}
+{"tool_name":"perl-file-touch","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-file-touch","identifiers":null,"license":"Not available","summary":"Update file access and modification times, optionally creating files if needed"}}}

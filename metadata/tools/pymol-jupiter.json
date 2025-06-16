@@ -1,1 +1,1 @@
-{"tool_name":"pymol-jupiter","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pymol-jupiter","biocontainers__license":"MIT","biocontainers__summary":"A portable way of interacting with pymol via jupyter notebook"}}
+{"tool_name":"pymol-jupiter","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pymol-jupiter","identifiers":null,"license":"MIT","summary":"A portable way of interacting with pymol via jupyter notebook"}}}

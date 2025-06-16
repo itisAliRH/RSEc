@@ -1,1 +1,1 @@
-{"tool_name":"ucsc-transmappsltogenepred","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ucsc-transmappsltogenepred","biocontainers__license":"Custom License","biocontainers__summary":"convert PSL alignments of mRNAs to gene annotations."}}
+{"tool_name":"ucsc-transmappsltogenepred","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ucsc-transmappsltogenepred","identifiers":null,"license":"Custom License","summary":"convert PSL alignments of mRNAs to gene annotations."}}}

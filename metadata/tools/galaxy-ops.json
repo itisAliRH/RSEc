@@ -1,1 +1,1 @@
-{"tool_name":"galaxy-ops","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"galaxy-ops","biocontainers__identifiers":["doi:10.1093/nar/gkw343","doi:10.1093/nar/gky379"],"biocontainers__license":"AFL-3.0","biocontainers__summary":"Galaxy interval operations"}}
+{"tool_name":"galaxy-ops","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"galaxy-ops","identifiers":["doi:10.1093/nar/gkw343","doi:10.1093/nar/gky379"],"license":"AFL-3.0","summary":"Galaxy interval operations"}}}

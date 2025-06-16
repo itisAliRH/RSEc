@@ -1,1 +1,1 @@
-{"tool_name":"fastq_utils","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fastq_utils","biocontainers__license":"GPL-3","biocontainers__summary":"Validation and manipulation of FASTQ files, scRNA-seq barcode pre-processing and UMI quantification."}}
+{"tool_name":"fastq_utils","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fastq_utils","identifiers":null,"license":"GPL-3","summary":"Validation and manipulation of FASTQ files, scRNA-seq barcode pre-processing and UMI quantification."}}}

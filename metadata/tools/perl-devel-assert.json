@@ -1,1 +1,1 @@
-{"tool_name":"perl-devel-assert","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-devel-assert","biocontainers__license":"perl_5","biocontainers__summary":"assertions for Perl >= 5.14"}}
+{"tool_name":"perl-devel-assert","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-devel-assert","identifiers":null,"license":"perl_5","summary":"assertions for Perl >= 5.14"}}}

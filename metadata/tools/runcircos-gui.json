@@ -1,1 +1,1 @@
-{"tool_name":"runcircos-gui","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"runcircos-gui","biocontainers__license":"custom, see /usr/share/doc/runcircos-gui/copyright","biocontainers__summary":"Gui tool to run circos"}}
+{"tool_name":"runcircos-gui","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"runcircos-gui","identifiers":null,"license":"custom, see /usr/share/doc/runcircos-gui/copyright","summary":"Gui tool to run circos"}}}

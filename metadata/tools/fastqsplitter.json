@@ -1,1 +1,1 @@
-{"tool_name":"fastqsplitter","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"fastqsplitter","biocontainers__license":"MIT","biocontainers__summary":"Splits FASTQ files evenly."}}
+{"tool_name":"fastqsplitter","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"fastqsplitter","identifiers":null,"license":"MIT","summary":"Splits FASTQ files evenly."}}}

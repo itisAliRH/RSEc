@@ -1,1 +1,1 @@
-{"tool_name":"plast-example","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"plast-example","biocontainers__license":"AGPL-3","biocontainers__summary":"Parallel local sequence alignment search tool (example data)"}}
+{"tool_name":"plast-example","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"plast-example","identifiers":null,"license":"AGPL-3","summary":"Parallel local sequence alignment search tool (example data)"}}}

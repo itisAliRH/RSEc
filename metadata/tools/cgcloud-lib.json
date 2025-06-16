@@ -1,1 +1,1 @@
-{"tool_name":"cgcloud-lib","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"cgcloud-lib","biocontainers__license":"Apache License, Version 2.0","biocontainers__summary":"Components shared between cgcloud-core and cgcloud-agent"}}
+{"tool_name":"cgcloud-lib","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"cgcloud-lib","identifiers":null,"license":"Apache License, Version 2.0","summary":"Components shared between cgcloud-core and cgcloud-agent"}}}

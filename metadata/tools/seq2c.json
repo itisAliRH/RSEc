@@ -1,1 +1,1 @@
-{"tool_name":"seq2c","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"seq2c","biocontainers__license":"MIT","biocontainers__summary":"Cohort based copy number calling in gene regions"}}
+{"tool_name":"seq2c","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"seq2c","identifiers":null,"license":"MIT","summary":"Cohort based copy number calling in gene regions"}}}

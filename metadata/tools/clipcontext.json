@@ -1,1 +1,1 @@
-{"tool_name":"clipcontext","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"clipcontext","biocontainers__identifiers":["doi:10.1186/s12864-020-07297-0"],"biocontainers__license":"MIT","biocontainers__summary":"Extract CLIP-seq binding regions with both genomic and transcript context"}}
+{"tool_name":"clipcontext","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"clipcontext","identifiers":["doi:10.1186/s12864-020-07297-0"],"license":"MIT","summary":"Extract CLIP-seq binding regions with both genomic and transcript context"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"vtk-dicom","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"vtk-dicom","biocontainers__license":"BSD-3-clause","biocontainers__summary":"Dicom for vtk - python"}}
+{"tool_name":"vtk-dicom","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"vtk-dicom","identifiers":null,"license":"BSD-3-clause","summary":"Dicom for vtk - python"}}}

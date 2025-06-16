@@ -1,1 +1,1 @@
-{"tool_name":"perl-namespace-clean","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-namespace-clean","biocontainers__license":"perl_5","biocontainers__summary":"Keep imports and functions out of your namespace"}}
+{"tool_name":"perl-namespace-clean","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-namespace-clean","identifiers":null,"license":"perl_5","summary":"Keep imports and functions out of your namespace"}}}

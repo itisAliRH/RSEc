@@ -1,1 +1,1 @@
-{"tool_name":"perl-io-uncompress-gunzip","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-io-uncompress-gunzip","biocontainers__license":"Not available","biocontainers__summary":"Read rfc 1952 files/buffers"}}
+{"tool_name":"perl-io-uncompress-gunzip","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-io-uncompress-gunzip","identifiers":null,"license":"Not available","summary":"Read rfc 1952 files/buffers"}}}

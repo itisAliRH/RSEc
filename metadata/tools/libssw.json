@@ -1,1 +1,1 @@
-{"tool_name":"libssw","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"libssw","biocontainers__identifiers":["doi:10.1371/journal.pone.0082138"],"biocontainers__license":"MIT","biocontainers__summary":"An SIMD Smith-Waterman C/C++/Python/Java Library for Use in Genomic Applications"}}
+{"tool_name":"libssw","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"libssw","identifiers":["doi:10.1371/journal.pone.0082138"],"license":"MIT","summary":"An SIMD Smith-Waterman C/C++/Python/Java Library for Use in Genomic Applications"}}}

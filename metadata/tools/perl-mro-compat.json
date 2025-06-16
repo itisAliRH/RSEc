@@ -1,1 +1,1 @@
-{"tool_name":"perl-mro-compat","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-mro-compat","biocontainers__license":"perl_5","biocontainers__summary":"Mro::* interface compatibility for perls < 5.9.5"}}
+{"tool_name":"perl-mro-compat","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-mro-compat","identifiers":null,"license":"perl_5","summary":"Mro::* interface compatibility for perls < 5.9.5"}}}

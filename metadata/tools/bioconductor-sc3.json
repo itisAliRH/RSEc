@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-sc3","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-sc3","biocontainers__identifiers":["biotools:sc3","doi:10.1038/nmeth.4236"],"biocontainers__license":"GPL-3","biocontainers__summary":"Single-Cell Consensus Clustering"}}
+{"tool_name":"bioconductor-sc3","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-sc3","identifiers":["biotools:sc3","doi:10.1038/nmeth.4236"],"license":"GPL-3","summary":"Single-Cell Consensus Clustering"}}}

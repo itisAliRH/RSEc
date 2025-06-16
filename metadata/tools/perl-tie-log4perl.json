@@ -1,1 +1,1 @@
-{"tool_name":"perl-tie-log4perl","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-tie-log4perl","biocontainers__license":"perl_5","biocontainers__summary":"Tie a filehandle to log via log4perl"}}
+{"tool_name":"perl-tie-log4perl","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-tie-log4perl","identifiers":null,"license":"perl_5","summary":"Tie a filehandle to log via log4perl"}}}

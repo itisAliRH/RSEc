@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-fcoex","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-fcoex","biocontainers__identifiers":["doi:10.18129/b9.bioc.fcoex"],"biocontainers__license":"GPL-3","biocontainers__summary":"FCBF-based Co-Expression Networks for Single Cells"}}
+{"tool_name":"bioconductor-fcoex","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-fcoex","identifiers":["doi:10.18129/b9.bioc.fcoex"],"license":"GPL-3","summary":"FCBF-based Co-Expression Networks for Single Cells"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-dep","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-dep","biocontainers__identifiers":["doi:10.18129/b9.bioc.dep"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Differential enrichment analysis of proteomics data"}}
+{"tool_name":"bioconductor-dep","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-dep","identifiers":["doi:10.18129/b9.bioc.dep"],"license":"Artistic-2.0","summary":"Differential enrichment analysis of proteomics data"}}}

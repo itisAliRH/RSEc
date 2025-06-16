@@ -1,1 +1,1 @@
-{"tool_name":"r-cnogpro","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-cnogpro","biocontainers__license":"GPL-2","biocontainers__summary":"Methods for assigning copy number states and breakpoints in resequencing experiments of prokaryotic organisms."}}
+{"tool_name":"r-cnogpro","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-cnogpro","identifiers":null,"license":"GPL-2","summary":"Methods for assigning copy number states and breakpoints in resequencing experiments of prokaryotic organisms."}}}

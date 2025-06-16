@@ -1,1 +1,1 @@
-{"tool_name":"rpy2","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"rpy2","biocontainers__license":"GPL-2.0","biocontainers__summary":"Python interface to the R language (embedded R)"}}
+{"tool_name":"rpy2","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"rpy2","identifiers":null,"license":"GPL-2.0","summary":"Python interface to the R language (embedded R)"}}}

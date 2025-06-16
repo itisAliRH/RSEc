@@ -1,1 +1,1 @@
-{"tool_name":"snpomatic","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"snpomatic","biocontainers__license":"GPL-3.0+","biocontainers__summary":"Fast, stringent short-read mapping software"}}
+{"tool_name":"snpomatic","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"snpomatic","identifiers":null,"license":"GPL-3.0+","summary":"Fast, stringent short-read mapping software"}}}

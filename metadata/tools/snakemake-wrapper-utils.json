@@ -1,1 +1,1 @@
-{"tool_name":"snakemake-wrapper-utils","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"snakemake-wrapper-utils","biocontainers__license":"Not available","biocontainers__summary":"A collection of utility functions and classes for snakemake wrappers."}}
+{"tool_name":"snakemake-wrapper-utils","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"snakemake-wrapper-utils","identifiers":null,"license":"Not available","summary":"A collection of utility functions and classes for snakemake wrappers."}}}

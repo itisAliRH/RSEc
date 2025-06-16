@@ -1,1 +1,1 @@
-{"tool_name":"isajson-validator","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"isajson-validator","biocontainers__license":"Not available","biocontainers__summary":"A container image definition for the ISA-JSON validator from the ISA API"}}
+{"tool_name":"isajson-validator","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"isajson-validator","identifiers":null,"license":"Not available","summary":"A container image definition for the ISA-JSON validator from the ISA API"}}}

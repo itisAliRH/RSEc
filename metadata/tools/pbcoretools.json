@@ -1,1 +1,1 @@
-{"tool_name":"pbcoretools","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pbcoretools","biocontainers__license":"BSD 3-Clause Clear License","biocontainers__summary":"Cli tools and add-ons for pacbio's core apis"}}
+{"tool_name":"pbcoretools","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pbcoretools","identifiers":null,"license":"BSD 3-Clause Clear License","summary":"Cli tools and add-ons for pacbio's core apis"}}}

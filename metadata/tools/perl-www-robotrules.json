@@ -1,1 +1,1 @@
-{"tool_name":"perl-www-robotrules","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-www-robotrules","biocontainers__license":"perl_5","biocontainers__summary":"Database of robots.txt-derived permissions"}}
+{"tool_name":"perl-www-robotrules","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-www-robotrules","identifiers":null,"license":"perl_5","summary":"Database of robots.txt-derived permissions"}}}

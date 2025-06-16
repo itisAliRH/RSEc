@@ -1,1 +1,1 @@
-{"tool_name":"perl-socket","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-socket","biocontainers__license":"perl_5","biocontainers__summary":"Networking constants and support functions"}}
+{"tool_name":"perl-socket","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-socket","identifiers":null,"license":"perl_5","summary":"Networking constants and support functions"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"savvy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"savvy","biocontainers__license":"MPL-2.0","biocontainers__summary":"Interface to various variant calling formats."}}
+{"tool_name":"savvy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"savvy","identifiers":null,"license":"MPL-2.0","summary":"Interface to various variant calling formats."}}}

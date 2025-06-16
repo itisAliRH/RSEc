@@ -1,1 +1,1 @@
-{"tool_name":"r-getopt","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"r-getopt","biocontainers__license":"GPL (>= 2)","biocontainers__summary":"package designed to be used with rscript to write ``#!'' shebang scripts that accept"}}
+{"tool_name":"r-getopt","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-getopt","identifiers":null,"license":"GPL (>= 2)","summary":"package designed to be used with rscript to write ``#!'' shebang scripts that accept"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-file-chdir","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-file-chdir","biocontainers__license":"perl_5","biocontainers__summary":"a more sensible way to change directories"}}
+{"tool_name":"perl-file-chdir","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-file-chdir","identifiers":null,"license":"perl_5","summary":"a more sensible way to change directories"}}}

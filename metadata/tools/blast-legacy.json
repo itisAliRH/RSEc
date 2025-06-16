@@ -1,1 +1,1 @@
-{"tool_name":"blast-legacy","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"blast-legacy","biocontainers__license":"Public Domain","biocontainers__summary":"The basic local alignment search tool (blast) finds regions of local similarity between sequences."}}
+{"tool_name":"blast-legacy","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"blast-legacy","identifiers":null,"license":"Public Domain","summary":"The basic local alignment search tool (blast) finds regions of local similarity between sequences."}}}

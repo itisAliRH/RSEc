@@ -1,1 +1,1 @@
-{"tool_name":"pytest-timeout","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pytest-timeout","biocontainers__license":"MIT","biocontainers__summary":"py.test plugin to abort hanging tests"}}
+{"tool_name":"pytest-timeout","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pytest-timeout","identifiers":null,"license":"MIT","summary":"py.test plugin to abort hanging tests"}}}

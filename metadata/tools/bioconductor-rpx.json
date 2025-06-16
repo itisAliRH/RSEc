@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-rpx","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-rpx","biocontainers__identifiers":["biotools:rpx","doi:10.1038/nbt.2839"],"biocontainers__license":"GPL-2","biocontainers__summary":"R Interface to the ProteomeXchange Repository"}}
+{"tool_name":"bioconductor-rpx","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-rpx","identifiers":["biotools:rpx","doi:10.1038/nbt.2839"],"license":"GPL-2","summary":"R Interface to the ProteomeXchange Repository"}}}

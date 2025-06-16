@@ -1,1 +1,1 @@
-{"tool_name":"pytest-mock","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pytest-mock","biocontainers__license":"MIT","biocontainers__summary":"Thin-wrapper around the mock package for easier use with py.test."}}
+{"tool_name":"pytest-mock","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pytest-mock","identifiers":null,"license":"MIT","summary":"Thin-wrapper around the mock package for easier use with py.test."}}}

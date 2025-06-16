@@ -1,1 +1,1 @@
-{"tool_name":"perl-memoize","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-memoize","biocontainers__license":"Not available","biocontainers__summary":"Make functions faster by trading space for time"}}
+{"tool_name":"perl-memoize","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-memoize","identifiers":null,"license":"Not available","summary":"Make functions faster by trading space for time"}}}

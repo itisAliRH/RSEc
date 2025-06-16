@@ -1,1 +1,1 @@
-{"tool_name":"perl-if","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-if","biocontainers__license":"perl_5","biocontainers__summary":"Use a perl module if a condition holds"}}
+{"tool_name":"perl-if","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-if","identifiers":null,"license":"perl_5","summary":"Use a perl module if a condition holds"}}}

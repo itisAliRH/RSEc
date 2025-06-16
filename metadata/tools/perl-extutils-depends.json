@@ -1,1 +1,1 @@
-{"tool_name":"perl-extutils-depends","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-extutils-depends","biocontainers__license":"perl_5","biocontainers__summary":"Easily build xs extensions that depend on xs extensions"}}
+{"tool_name":"perl-extutils-depends","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-extutils-depends","identifiers":null,"license":"perl_5","summary":"Easily build xs extensions that depend on xs extensions"}}}

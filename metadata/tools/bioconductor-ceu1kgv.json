@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-ceu1kgv","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-ceu1kgv","biocontainers__identifiers":["doi:10.18129/b9.bioc.ceu1kgv"],"biocontainers__license":"Artistic-2.0","biocontainers__summary":"Expression + genotype on 79 unrelated ceu individuals"}}
+{"tool_name":"bioconductor-ceu1kgv","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-ceu1kgv","identifiers":["doi:10.18129/b9.bioc.ceu1kgv"],"license":"Artistic-2.0","summary":"Expression + genotype on 79 unrelated ceu individuals"}}}

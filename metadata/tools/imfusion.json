@@ -1,1 +1,1 @@
-{"tool_name":"imfusion","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"imfusion","biocontainers__license":"MIT","biocontainers__summary":"Im-fusion - tool for identifying transposon insertions and their effects from rna-sequencing data"}}
+{"tool_name":"imfusion","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"imfusion","identifiers":null,"license":"MIT","summary":"Im-fusion - tool for identifying transposon insertions and their effects from rna-sequencing data"}}}

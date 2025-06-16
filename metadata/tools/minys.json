@@ -1,1 +1,1 @@
-{"tool_name":"minys","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"minys","biocontainers__license":"file","biocontainers__summary":"MinYS allows targeted assembly of bacterial genomes using a reference-guided pipeline."}}
+{"tool_name":"minys","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"minys","identifiers":null,"license":"file","summary":"MinYS allows targeted assembly of bacterial genomes using a reference-guided pipeline."}}}

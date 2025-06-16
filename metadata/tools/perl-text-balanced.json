@@ -1,1 +1,1 @@
-{"tool_name":"perl-text-balanced","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-text-balanced","biocontainers__license":"perl_5","biocontainers__summary":"Extract delimited text sequences from strings"}}
+{"tool_name":"perl-text-balanced","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-text-balanced","identifiers":null,"license":"perl_5","summary":"Extract delimited text sequences from strings"}}}

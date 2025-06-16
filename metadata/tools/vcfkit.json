@@ -1,1 +1,1 @@
-{"tool_name":"vcfkit","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"vcfkit","biocontainers__license":"MIT","biocontainers__summary":"VCF-kit is a command-line based collection of utilities for performing analysis on Variant Call Format (VCF) files."}}
+{"tool_name":"vcfkit","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"vcfkit","identifiers":null,"license":"MIT","summary":"VCF-kit is a command-line based collection of utilities for performing analysis on Variant Call Format (VCF) files."}}}

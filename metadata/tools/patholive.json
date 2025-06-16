@@ -1,1 +1,1 @@
-{"tool_name":"patholive","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"patholive","biocontainers__license":"BSD-3-Clause","biocontainers__summary":"A real-time pathogen diagnostics tool for metagenomic Illumina sequencing data."}}
+{"tool_name":"patholive","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"patholive","identifiers":null,"license":"BSD-3-Clause","summary":"A real-time pathogen diagnostics tool for metagenomic Illumina sequencing data."}}}

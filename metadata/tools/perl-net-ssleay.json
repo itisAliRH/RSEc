@@ -1,1 +1,1 @@
-{"tool_name":"perl-net-ssleay","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-net-ssleay","biocontainers__license":"perl_5","biocontainers__summary":"Perl extension for using openssl."}}
+{"tool_name":"perl-net-ssleay","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-net-ssleay","identifiers":null,"license":"perl_5","summary":"Perl extension for using openssl."}}}

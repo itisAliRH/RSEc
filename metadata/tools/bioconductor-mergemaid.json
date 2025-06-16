@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-mergemaid","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-mergemaid","biocontainers__identifiers":["biotools:mergemaid","doi:10.2202/1544-6115.1046"],"biocontainers__license":"GPL (>= 2)","biocontainers__summary":"Merge Maid"}}
+{"tool_name":"bioconductor-mergemaid","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-mergemaid","identifiers":["biotools:mergemaid","doi:10.2202/1544-6115.1046"],"license":"GPL (>= 2)","summary":"Merge Maid"}}}

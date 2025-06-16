@@ -1,1 +1,1 @@
-{"tool_name":"kcalign","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"kcalign","biocontainers__license":"AFL-3.0","biocontainers__summary":"Kalgin-based codon-aware aligner for multiple sequences"}}
+{"tool_name":"kcalign","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"kcalign","identifiers":null,"license":"AFL-3.0","summary":"Kalgin-based codon-aware aligner for multiple sequences"}}}

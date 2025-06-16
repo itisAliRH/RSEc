@@ -1,1 +1,1 @@
-{"tool_name":"logol-bin","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"logol-bin","biocontainers__license":"CECILL-2.0","biocontainers__summary":"Pattern matching grammar language and a set of tools to search a pattern in a sequence (nucleic or proteic)."}}
+{"tool_name":"logol-bin","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"logol-bin","identifiers":null,"license":"CECILL-2.0","summary":"Pattern matching grammar language and a set of tools to search a pattern in a sequence (nucleic or proteic)."}}}

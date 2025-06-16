@@ -1,1 +1,1 @@
-{"tool_name":"seqmagick","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"seqmagick","biocontainers__license":"GPL-3.0","biocontainers__summary":"Tools for converting and modifying sequence files from the command-line"}}
+{"tool_name":"seqmagick","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"seqmagick","identifiers":null,"license":"GPL-3.0","summary":"Tools for converting and modifying sequence files from the command-line"}}}

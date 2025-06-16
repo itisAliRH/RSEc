@@ -1,1 +1,1 @@
-{"tool_name":"pbconsensuscore","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"pbconsensuscore","biocontainers__license":"PacBio-BSD-3-Clause","biocontainers__summary":"Algorithms for pacbio multiple sequence consensus -- python 3"}}
+{"tool_name":"pbconsensuscore","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"pbconsensuscore","identifiers":null,"license":"PacBio-BSD-3-Clause","summary":"Algorithms for pacbio multiple sequence consensus -- python 3"}}}

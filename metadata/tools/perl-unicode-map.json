@@ -1,1 +1,1 @@
-{"tool_name":"perl-unicode-map","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-unicode-map","biocontainers__license":"Not available","biocontainers__summary":"Map charsets from and to utf-16 unicode."}}
+{"tool_name":"perl-unicode-map","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-unicode-map","identifiers":null,"license":"Not available","summary":"Map charsets from and to utf-16 unicode."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"perl-canary-stability","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-canary-stability","biocontainers__license":"perl_5","biocontainers__summary":"canary to check perl compatibility for schmorp's modules"}}
+{"tool_name":"perl-canary-stability","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-canary-stability","identifiers":null,"license":"perl_5","summary":"canary to check perl compatibility for schmorp's modules"}}}

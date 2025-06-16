@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-tomoda","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-tomoda","biocontainers__identifiers":["doi:10.18129/b9.bioc.tomoda"],"biocontainers__license":"Not available","biocontainers__summary":"Tomo-seq data analysis"}}
+{"tool_name":"bioconductor-tomoda","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-tomoda","identifiers":["doi:10.18129/b9.bioc.tomoda"],"license":"Not available","summary":"Tomo-seq data analysis"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"regex","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"regex","biocontainers__license":"Python software foundation license","biocontainers__summary":"Alternative regular expression module, to replace re."}}
+{"tool_name":"regex","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"regex","identifiers":null,"license":"Python software foundation license","summary":"Alternative regular expression module, to replace re."}}}

@@ -1,1 +1,1 @@
-{"tool_name":"ucsc-hgloadoutjoined","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ucsc-hgloadoutjoined","biocontainers__license":"Custom License","biocontainers__summary":"load new style (2014) RepeatMasker .out files into database"}}
+{"tool_name":"ucsc-hgloadoutjoined","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ucsc-hgloadoutjoined","identifiers":null,"license":"Custom License","summary":"load new style (2014) RepeatMasker .out files into database"}}}

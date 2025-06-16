@@ -1,1 +1,1 @@
-{"tool_name":"gbmunge","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"gbmunge","biocontainers__license":"MIT","biocontainers__summary":"Munge GenBank files into FASTA and tab-separated metadata."}}
+{"tool_name":"gbmunge","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"gbmunge","identifiers":null,"license":"MIT","summary":"Munge GenBank files into FASTA and tab-separated metadata."}}}

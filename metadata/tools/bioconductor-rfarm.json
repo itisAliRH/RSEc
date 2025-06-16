@@ -1,1 +1,1 @@
-{"tool_name":"bioconductor-rfarm","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"bioconductor-rfarm","biocontainers__identifiers":["doi:10.18129/b9.bioc.rfarm"],"biocontainers__license":"GPL-3","biocontainers__summary":"An R interface to the Rfam database"}}
+{"tool_name":"bioconductor-rfarm","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bioconductor-rfarm","identifiers":["doi:10.18129/b9.bioc.rfarm"],"license":"GPL-3","summary":"An R interface to the Rfam database"}}}

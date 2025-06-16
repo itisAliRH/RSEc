@@ -1,1 +1,1 @@
-{"tool_name":"ggplot","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"ggplot","biocontainers__license":"BSD","biocontainers__summary":"An extremely un-pythonic package for doing exactly what ggplot2 does"}}
+{"tool_name":"ggplot","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"ggplot","identifiers":null,"license":"BSD","summary":"An extremely un-pythonic package for doing exactly what ggplot2 does"}}}

@@ -1,1 +1,1 @@
-{"tool_name":"qorts","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"qorts","biocontainers__license":"MIT","biocontainers__summary":"Qorts toolkit for analysis, quality control, and data management of rna-seq datasets."}}
+{"tool_name":"qorts","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"qorts","identifiers":null,"license":"MIT","summary":"Qorts toolkit for analysis, quality control, and data management of rna-seq datasets."}}}

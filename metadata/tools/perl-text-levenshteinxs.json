@@ -1,1 +1,1 @@
-{"tool_name":"perl-text-levenshteinxs","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"perl-text-levenshteinxs","biocontainers__license":"perl_5","biocontainers__summary":"Text::LevenshteinXS - An XS implementation of the Levenshtein edit distance"}}
+{"tool_name":"perl-text-levenshteinxs","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-text-levenshteinxs","identifiers":null,"license":"perl_5","summary":"Text::LevenshteinXS - An XS implementation of the Levenshtein edit distance"}}}

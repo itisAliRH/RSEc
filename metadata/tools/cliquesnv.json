@@ -1,1 +1,1 @@
-{"tool_name":"cliquesnv","contents":["biocontainers"],"page_metadata":{"biocontainers__name":"cliquesnv","biocontainers__identifiers":["doi:10.1101/264242"],"biocontainers__license":"Not available","biocontainers__summary":"Scalable reconstruction of intra-host viral populations from ngs reads"}}
+{"tool_name":"cliquesnv","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"cliquesnv","identifiers":["doi:10.1101/264242"],"license":"Not available","summary":"Scalable reconstruction of intra-host viral populations from ngs reads"}}}
