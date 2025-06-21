@@ -1,1 +1,1 @@
-{"tool_name":"perl-sub-uplevel","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-sub-uplevel","identifiers":null,"license":"perl_5","summary":"Apparently run a function in a higher stack frame"}}}
+{"tool_name":"perl-sub-uplevel","contents":["biocontainers"],"fetched_metadata":{"biocontainers":{"name":"perl-sub-uplevel","identifiers":null,"license":"perl_5","summary":"Apparently run a function in a higher stack frame"}}}

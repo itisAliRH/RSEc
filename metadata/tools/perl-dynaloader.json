@@ -1,1 +1,1 @@
-{"tool_name":"perl-dynaloader","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-dynaloader","identifiers":null,"license":"perl_5","summary":"Dynamically load c libraries into perl code"}}}
+{"tool_name":"perl-dynaloader","contents":["biocontainers"],"fetched_metadata":{"biocontainers":{"name":"perl-dynaloader","identifiers":null,"license":"perl_5","summary":"Dynamically load c libraries into perl code"}}}

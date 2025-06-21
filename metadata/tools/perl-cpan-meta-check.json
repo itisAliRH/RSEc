@@ -1,1 +1,1 @@
-{"tool_name":"perl-cpan-meta-check","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-cpan-meta-check","identifiers":null,"license":"perl_5","summary":"Verify requirements in a CPAN::Meta object"}}}
+{"tool_name":"perl-cpan-meta-check","contents":["biocontainers"],"fetched_metadata":{"biocontainers":{"name":"perl-cpan-meta-check","identifiers":null,"license":"perl_5","summary":"Verify requirements in a CPAN::Meta object"}}}

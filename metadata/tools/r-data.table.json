@@ -1,1 +1,1 @@
-{"tool_name":"r-data.table","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"r-data.table","identifiers":null,"license":"GPL-3.0","summary":"Fast aggregation of large data (e.g. 100gb in ram), fast ordered joins, fast add/modify/delete"}}}
+{"tool_name":"r-data.table","contents":["biocontainers"],"fetched_metadata":{"biocontainers":{"name":"r-data.table","identifiers":null,"license":"GPL-3.0","summary":"Fast aggregation of large data (e.g. 100gb in ram), fast ordered joins, fast add/modify/delete"}}}

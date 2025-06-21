@@ -1,1 +1,1 @@
-{"tool_name":"perl-fastx-reader","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"perl-fastx-reader","identifiers":null,"license":"GPL-3.0","summary":"FASTX::Reader, Perl module to parse FASTA and FASTQ files"}}}
+{"tool_name":"perl-fastx-reader","contents":["biocontainers"],"fetched_metadata":{"biocontainers":{"name":"perl-fastx-reader","identifiers":null,"license":"GPL-3.0","summary":"FASTX::Reader, Perl module to parse FASTA and FASTQ files"}}}

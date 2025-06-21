@@ -1,1 +1,1 @@
-{"tool_name":"bcbio-variation","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"bcbio-variation","identifiers":null,"license":"MIT","summary":"Toolkit to analyze genomic variation data, built on the gatk with clojure"}}}
+{"tool_name":"bcbio-variation","contents":["biocontainers"],"fetched_metadata":{"biocontainers":{"name":"bcbio-variation","identifiers":null,"license":"MIT","summary":"Toolkit to analyze genomic variation data, built on the gatk with clojure"}}}

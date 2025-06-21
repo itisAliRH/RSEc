@@ -1,1 +1,1 @@
-{"tool_name":"multiprocess","contents":["biocontainers"],"page_metadata":{"biocontainers":{"name":"multiprocess","identifiers":null,"license":"BSD","summary":"Package for using processes which mimics the threading module."}}}
+{"tool_name":"multiprocess","contents":["biocontainers"],"fetched_metadata":{"biocontainers":{"name":"multiprocess","identifiers":null,"license":"BSD","summary":"Package for using processes which mimics the threading module."}}}
