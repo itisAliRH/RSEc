@@ -1,1 +1,1 @@
-{"tool_name":"ebird","contents":[],"fetched_metadata":{}}
+{"tool_name":"ebird","contents":["biotools"],"fetched_metadata":{"biotools":{"id":"ebird","home":"https://ebird.org/home","license":null,"summary":"eBird gathers knowledge from birdwatchers in the form of checklists of birds, maps, audio recordings .","addition_date":"2025-06-16T15:04:50.524484Z","last_update_date":"2025-06-16T15:15:22.271977Z","tool_type":["Database portal","Web API"],"version":null}}}
