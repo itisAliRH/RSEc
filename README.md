@@ -1,4 +1,4 @@
-# Research Software Ecosystem Atlas
+# 🧬 Research Software Ecosystem Atlas
 
 [![Website](https://img.shields.io/badge/Website-RSEc--Atlas-blueviolet?style=for-the-badge&logo=githubpages)](https://research-software-ecosystem.github.io/RSEc-Atlas)
 
