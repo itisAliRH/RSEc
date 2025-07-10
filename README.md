@@ -3,6 +3,7 @@
 [![Website](https://img.shields.io/badge/Website-RSEc--Atlas-blueviolet?style=for-the-badge&logo=githubpages)](https://research-software-ecosystem.github.io/RSEc-Atlas)
 
 ![RSEc Atlas Screenshot](main-screenshot.png)
+<sub>Example screenshot of the RSEc Atlas main page. The homepage allows users to search, filter, and browse through a large collection of bioinformatics tools and containers. Each tool card displays key metadata, badges, and a quick link to view detailed information. Pagination and advanced search options are available for efficient navigation.</sub>
 
 ## 🚀 Overview
 With this static site web application we want to demonstrate the possibilities of the RSEc. Communities can take inspiration or fork this project to create subsets of tool and service repositories.
